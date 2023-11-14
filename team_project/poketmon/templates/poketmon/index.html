@@ -1,0 +1,58 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>포켓몬 정보</title>
+    <meta charset="utf-8">
+    
+    <link rel="stylesheet" href="{% static 'poketmon/css/style.css' %}">
+</head>
+
+<body>
+    <div>
+        <img src="{% static 'poketmon/images/logo.png' %}"  onclick="goBackAndReset()"/>
+        <p>{{ date }}</p>
+        <h1>포켓몬 데이터 분석</h1>
+    </div>
+
+    <div>
+        <div class="poketmon-container">
+            <p>{{ my_variable }}</p>
+            {% if imgs %}
+                {% for img in imgs %}
+                <div class="inner-images">
+                    <img src="{% static 'poketmon/images/' %}{{ img }}" alt="My Image">
+                </div>
+                {% endfor %}
+            {% else %}
+                <p>총 1229 마리의 포켓몬의 데이터를 시각화합니다</p>
+                <p>보고싶은 시각화 버튼을 눌러주세요.</p>
+                <div class="button-wrapper">
+                    <a href="{% url 'poketmon:type' %}"><button>타입 분포</button></a>
+                    <a href="{% url 'poketmon:bmi' %}"><button>BMI 분석</button></a>
+                    <a href="{% url 'poketmon:size' %}"><button>사이즈 분포</button></a>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+
+    
+    <ul>
+        {% for item in data %}
+            <li>{{ item.name }} - {{ item.description }}</li>
+        {% endfor %}
+    </ul>
+
+    <script>
+        function goBackAndReset() {
+            history.back();
+        }
+    </script>
+
+
+
+
+</body>
+
+</html>

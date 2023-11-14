@@ -1,0 +1,1230 @@
+name,type,height,classify,gender,weight,ability,description,evolution,img
+ 이상해씨,풀;독,0.7,씨앗,b,6.9,심록,태어나서부터 얼마 동안은 등의 씨앗으로부터 영양을 공급받아 크게 성장한다.,1;이상해씨;2;이상해풀;3;이상해꽃,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000101.png
+ 이상해풀,풀;독,1,씨앗,b,13,심록,등의 봉오리가 부풀어 오르면 달콤한 냄새가 감돌기 시작한다. 큰 꽃이 필 조짐이다.,1;이상해씨;2;이상해풀;3;이상해꽃,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000201.png
+ 이상해꽃,풀;독,2,씨앗,b,100,심록,비가 내린 다음 날은 등의 꽃향기가 강해진다. 향기에 이끌려 포켓몬이 모여든다.,1;이상해씨;2;이상해풀;3;이상해꽃,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000301.png
+ 메가이상해꽃,풀;독,2.4,씨앗,b,155.5,두꺼운지방,큰 꽃잎을 펼쳐 햇빛을 받고 있으면 몸에 힘이 넘쳐흐른다.,1;이상해씨;2;이상해풀;3;이상해꽃,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000302.png
+ 이상해꽃,풀;독,24,씨앗,b,1.00E+09,심록,2개의 굵은 덩굴을 휘둘러서 싸운다. 10층 빌딩을 가볍게 넘어뜨릴 정도로 파워풀하다.,1;이상해씨;2;이상해풀;3;이상해꽃,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000303.png
+ 파이리,불꽃,0.6,도롱뇽,b,8.5,맹화,파이리 꼬리의 불꽃은 생명의 등불이다. 건강할 때는 불꽃도 강하게 타오른다.,4;파이리;5;리자드;6;리자몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000401.png
+ 리자드,불꽃,1.1,화염,b,19,맹화,리자드가 사는 바위산을 한밤중에 올려다보면 꼬리의 불꽃이 별처럼 보인다.,4;파이리;5;리자드;6;리자몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000501.png
+ 리자몽,불꽃;비행,1.7,화염,b,90.5,맹화,힘든 싸움을 경험한 리자몽일수록 불꽃 온도가 높아진다고 전해진다.,4;파이리;5;리자드;6;리자몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000601.png
+ 메가리자몽X,불꽃;드래곤,1.7,화염,b,110.5,단단한발톱,입에서 작렬하는 불꽃을 토해낼 때 꼬리의 끝이 더욱 붉고 격렬하게 타오른다.,4;파이리;5;리자드;6;리자몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000602.png
+ 메가리자몽Y,불꽃;비행,1.7,화염,b,100.5,가뭄,입에서 작렬하는 불꽃을 토해낼 때 꼬리의 끝이 더욱 붉고 격렬하게 타오른다.,4;파이리;5;리자드;6;리자몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000603.png
+ 리자몽,불꽃;비행,28,화염,b,1.00E+09,맹화,거다이맥스의 파워에 의해 불꽃의 날개를 가진 거대한 리자몽의 모습이 만들어졌다.,4;파이리;5;리자드;6;리자몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000604.png
+ 꼬부기,물,0.5,꼬마거북,b,9,급류,등껍질에 숨어 몸을 보호한다. 상대의 빈틈을 놓치지 않고 물을 뿜어내어 반격한다.,7;꼬부기;8;어니부기;9;거북왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000701.png
+ 어니부기,물,1,거북,b,22.5,급류,만 년의 수명을 가지고 있다고 전해진다. 치렁치렁한 꼬리는 장수의 상징으로서 인기가 있다.,7;꼬부기;8;어니부기;9;거북왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000801.png
+ 거북왕,물,1.6,껍질,b,85.5,급류,등껍질의 로켓포로부터 뿜어내는 물줄기는 두꺼운 철판도 한 번에 꿰뚫는 파괴력이 있다.,7;꼬부기;8;어니부기;9;거북왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000901.png
+ 메가거북왕,물,1.6,껍질,b,101.1,메가런처,무거운 몸으로 상대를 덮쳐서 기절시킨다. 위기에 처하면 등껍질에 숨는다.,7;꼬부기;8;어니부기;9;거북왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000902.png
+ 거북왕,물,25,껍질,b,1.00E+09,급류,정밀하게 사격하지는 못한다. 31개의 대포에서 포탄을 연달아 쏘아대는 스타일로 공격한다.,7;꼬부기;8;어니부기;9;거북왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000903.png
+ 캐터피,벌레,0.3,애벌레,b,2.9,인분,빨간 더듬이로부터 냄새를 내어 상대를 쫓아 버린다. 탈피를 반복하여 자라난다.,10;캐터피;11;단데기;12;버터플,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001001.png
+ 단데기,벌레,0.7,번데기,b,9.9,탈피,강철같이 단단한 껍질로 부드러운 몸을 보호하고 있다. 진화할 때까지 가만히 참고 있다.,10;캐터피;11;단데기;12;버터플,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001101.png
+ 버터플,벌레;비행,1.1,나비,b,32,복안,꽃의 꿀을 매우 좋아한다. 약간의 꽃가루만으로 꽃밭이 있는 장소를 찾아낼 수 있다.,10;캐터피;11;단데기;12;버터플,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001201.png
+ 버터플,벌레;비행,17,나비,b,1.00E+09,복안,거다이맥스의 파워가 결정이 되어 눈부시게 빛나는 맹독성의 인분을 갖게 되었다.,10;캐터피;11;단데기;12;버터플,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001202.png
+ 뿔충이,벌레;독,0.3,송충이,b,3.2,인분,매일 자신과 똑같은 무게의 잎사귀를 먹는다. 머리의 침으로 달려드는 상대를 물리친다.,13;뿔충이;14;딱충이;15;독침붕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001301.png
+ 딱충이,벌레;독,0.6,번데기,b,10,탈피,천적에게 발견되지 않도록 잎사귀 뒷면이나 가지의 틈새에 숨어서 진화할 때를 기다린다.,13;뿔충이;14;딱충이;15;독침붕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001401.png
+ 독침붕,벌레;독,1,독벌,b,29.5,벌레의알림,고속으로 날아다니며 독침으로 공격한 뒤 바로 날아가 버리는 전법이 특기다.,13;뿔충이;14;딱충이;15;독침붕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001501.png
+ 메가독침붕,벌레;독,1.4,독벌,b,40.5,적응력,양손과 엉덩이에 있는 3개의 독침으로 상대를 찌르고 찌르고 또 찌르며 공격한다.,13;뿔충이;14;딱충이;15;독침붕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001502.png
+ 구구,노말;비행,0.3,아기새,b,1.8,날카로운눈;갈지자걸음,싸움을 좋아하지 않는 얌전한 성격이지만 어설프게 건드리면 강력한 반격을 당하게 된다.,16;구구;17;피죤;18;피죤투,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001601.png
+ 피죤,노말;비행,1.1,새,b,30,날카로운눈;갈지자걸음,넓은 영역을 날아다니며 먹이를 찾는다. 발달한 발톱으로 먹이를 꼼짝 못 하게 한다.,16;구구;17;피죤;18;피죤투,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001701.png
+ 피죤투,노말;비행,1.5,새,b,39.5,날카로운눈;갈지자걸음,피죤투의 힘찬 날갯짓은 큰 나무도 휠 정도의 강풍을 일으킨다.,16;구구;17;피죤;18;피죤투,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001801.png
+ 메가피죤투,노말;비행,2.2,새,b,50.5,노가드,먹이를 찾을 때 수면을 아슬아슬하게 미끄러지듯 날아 잉어킹 등을 움켜잡는다.,16;구구;17;피죤;18;피죤투,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001802.png
+ 꼬렛,노말,0.3,쥐,b,3.5,도주;근성,어떤 장소에도 정착하여 살아갈 수 있는 생명력이 있다. 경계심이 매우 강하다.,19;꼬렛;20;레트라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001901.png
+ 꼬렛,악;노말,0.3,쥐,b,3.8,먹보;의욕,앞니로 문을 갉아서 민가에 침입한다. 수염을 실룩거리며 먹이를 찾아내 훔쳐간다.,19;꼬렛;20;레트라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001902.png
+ 레트라,노말,0.7,쥐,b,18.5,도주;근성,계속 자라는 앞니를 갈아 내려고 딱딱한 것을 갉는 습성이 있다. 벽돌로 된 벽도 갉아서 부순다.,19;꼬렛;20;레트라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002001.png
+ 레트라,악;노말,0.7,쥐,b,25.5,먹보;의욕,꼬렛을 통솔하여 그룹을 만든다. 그룹 간에는 영역이 있어 먹이를 둘러싸고 쟁탈전을 벌인다.,19;꼬렛;20;레트라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002002.png
+ 깨비참,노말;비행,0.3,아기새,b,2,날카로운눈,작은 날개를 쉴 새 없이 파닥여 날아오른다. 풀밭에 있는 먹이를 부리로 찾아낸다.,21;깨비참;22;깨비드릴조,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002101.png
+ 깨비드릴조,노말;비행,1.2,부리,b,38,날카로운눈,큰 날개로 온종일 날아다닐 수 있는 체력의 소유자다. 날카로운 부리로 싸운다.,21;깨비참;22;깨비드릴조,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002201.png
+ 아보,독,2,뱀,b,6.9,위협;탈피,소리를 전혀 내지 않고 풀밭 속을 나아간다. 방심하고 있는 먹이를 배후에서 덮친다.,23;아보;24;아보크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002301.png
+ 아보크,독,3.5,코브라,b,65,위협;탈피,배의 무늬로 상대를 위협한다. 무늬에 겁을 먹고 움직일 수 없게 된 사이에 몸으로 조인다.,23;아보;24;아보크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002401.png
+ 피카츄,전기,0.4,쥐,b,6,정전기,양 볼에는 전기를 저장하는 주머니가 있다. 화가 나면 저장한 전기를 단숨에 방출한다.,172;피츄;25;피카츄;26;라이츄,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002501.png
+ 피카츄,전기,21,쥐,b,1.00E+09,정전기,팽창한 거다이맥스의 파워에 의해 몸이 부풀어서 꼬리가 하늘까지 닿게 되었다.,172;피츄;25;피카츄;26;라이츄,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002502.png
+ 라이츄,전기,0.8,쥐,b,30,정전기,꼬리가 어스 역할을 하여 전기를 지면으로 흘려보내므로 자신은 감전되거나 하지 않는다.,172;피츄;25;피카츄;26;라이츄,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002601.png
+ 라이츄,전기;에스퍼,0.7,쥐,b,21,서핑테일,알로라지방의 기후와 풍토 그리고 먹이가 이런 모습으로 진화하게 된 원인으로 여겨지고 있다.,172;피츄;25;피카츄;26;라이츄,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002602.png
+ 모래두지,땅,0.6,쥐,b,12,모래숨기,비가 거의 내리지 않는 건조한 토지에 서식한다. 몸을 둥글게 말아서 자신을 보호한다.,27;모래두지;28;고지,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002701.png
+ 모래두지,얼음;강철,0.7,쥐,b,40,눈숨기,눈으로 봉쇄된 산악 지대에 사는 동안 얼음으로 된 강철처럼 단단한 몸을 갖게 되었다.,27;모래두지;28;고지,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002702.png
+ 고지,땅,1,쥐,b,29.5,모래숨기,몸을 둥글게 말아서 등으로 몸통박치기한다. 날카로운 가시들이 큰 데미지를 준다.,27;모래두지;28;고지,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002801.png
+ 고지,얼음;강철,1.2,쥐,b,55,눈숨기,커다란 갈고리발톱으로 높이 쌓인 눈을 헤치며 달린다. 설산에서는 어떤 포켓몬보다 빠르다.,27;모래두지;28;고지,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002802.png
+ 니드런♀,독,0.4,독침,f,7,독가시;투쟁심,싸움을 좋아하지 않는 성격이다. 독침에서 분비된 독은 한 방울만 맞아도 생명을 빼앗긴다.,29;니드런♀;30;니드리나;31;니드퀸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002901.png
+ 니드리나,독,0.8,독침,f,20,독가시;투쟁심,위험을 느끼면 전신의 가시를 곤두세운다. 니드리노에 비해서 가시의 성장이 느리다.,29;니드런♀;30;니드리나;31;니드퀸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003001.png
+ 니드퀸,독;땅,1.3,드릴,f,60,독가시;투쟁심,갑옷처럼 단단한 비늘이 전신을 둘러싼다. 둥지의 새끼를 목숨 걸고 지킨다.,29;니드런♀;30;니드리나;31;니드퀸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003101.png
+ 니드런♂,독,0.5,독침,m,9,독가시;투쟁심,풀밭 위로 귀만 내놓고 주위의 낌새를 살핀다. 맹독의 뿔로 몸을 보호한다.,32;니드런♂;33;니드리노;34;니드킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003201.png
+ 니드리노,독,0.9,독침,m,19.5,독가시;투쟁심,기질이 거친 포켓몬이다. 상대를 깊이 찌른 충격으로 뿔에서 맹독이 배어 나온다.,32;니드런♂;33;니드리노;34;니드킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003301.png
+ 니드킹,독;땅,1.4,드릴,m,62,독가시;투쟁심,꼬리를 한 번 휘두르면 전신주를 성냥개비마냥 두 동강 내 버린다.,32;니드런♂;33;니드리노;34;니드킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003401.png
+ 삐삐,페어리,0.6,요정,b,7.5,헤롱헤롱바디;매직가드,귀여운 표정과 동작으로 인기가 많다. 조용한 산속에서 동료들과 사는 것으로 여겨지고 있다.,173;삐;35;삐삐;36;픽시,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003501.png
+ 픽시,페어리,1.3,요정,b,40,헤롱헤롱바디;매직가드,거의 모습을 드러내지 않는다. 보름달에 이끌려 인적 없는 호수에서 논다고 전해진다.,173;삐;35;삐삐;36;픽시,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003601.png
+ 식스테일,불꽃,0.6,여우,b,9.9,타오르는불꽃,불꽃의 구슬을 조종한다. 성장하면 6개의 꼬리는 끝이 갈라져서 한층 더 늘어난다.,37;식스테일;38;나인테일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003701.png
+ 식스테일,얼음,0.6,여우,b,9.9,눈숨기,알로라지방의 만년설이 쌓인 산에서 오랫동안 살면서 얼음의 능력을 손에 넣었다.,37;식스테일;38;나인테일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003702.png
+ 나인테일,불꽃,1.1,여우,b,19.9,타오르는불꽃,9개의 꼬리에는 신비한 힘이 깃들어 있다고 전해진다. 천 년을 살 수 있는 듯하다.,37;식스테일;38;나인테일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003801.png
+ 나인테일,얼음;페어리,1.1,여우,b,19.9,눈숨기,눈으로 폐쇄된 신이 사는 산에 살았기 때문에 과거에는 신의 화신으로 숭상받아왔다.,37;식스테일;38;나인테일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003802.png
+ 푸린,노말;페어리,0.5,풍선,b,5.5,헤롱헤롱바디;승기,초롱초롱한 눈동자가 흔들릴 때 졸음이 쏟아지게 하는 이상하고 기분 좋은 노래를 부른다.,174;푸푸린;39;푸린;40;푸크린,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003901.png
+ 푸크린,노말;페어리,1,풍선,b,12,헤롱헤롱바디;승기,얇고 고운 털을 지니고 있다. 화나게 하면 몸을 점점 부풀리며 덮쳐 오기 때문에 주의가 필요하다.,174;푸푸린;39;푸린;40;푸크린,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/004001.png
+ 주뱃,독;비행,0.8,박쥐,b,7.5,정신력,입에서 내는 초음파로 두 눈이 없어도 주위의 장애물을 탐색할 수 있다.,41;주뱃;42;골뱃;169;크로뱃,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/004101.png
+ 골뱃,독;비행,1.6,박쥐,b,55,정신력,사람이나 포켓몬의 혈액을 매우 좋아한다. 목덜미의 혈관을 노리며 밤하늘을 날아다닌다.,41;주뱃;42;골뱃;169;크로뱃,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/004201.png
+ 뚜벅쵸,풀;독,0.5,잡초,b,5.4,엽록소,낮에는 뿌리인 발을 땅에 박고 움직이지 않을 때가 많다. 밤에 돌아다니며 씨를 뿌린다.,43;뚜벅쵸;44;냄새꼬;45;라플레시아,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/004301.png
+ 냄새꼬,풀;독,0.8,잡초,b,8.6,엽록소,입에서 흘러내리는 꿀은 2km 떨어져 있어도 머리가 아플 정도로 심한 악취가 난다.,43;뚜벅쵸;44;냄새꼬;45;라플레시아,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/004401.png
+ 라플레시아,풀;독,1.2,꽃,b,18.6,엽록소,세계에서 꽃잎이 제일 크다. 심한 알레르기를 일으킬 독 꽃가루를 흩뿌리며 걷는다.,43;뚜벅쵸;44;냄새꼬;45;라플레시아,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/004501.png
+ 파라스,벌레;풀,0.3,버섯,b,5.4,포자;건조피부,동충하초라고 불리는 버섯을 등에 기르고 있다. 파라스와 함께 크게 자란다.,46;파라스;47;파라섹트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/004601.png
+ 파라섹트,벌레;풀,1,버섯,b,29.5,포자;건조피부,몸보다 큰 버섯이 파라섹트를 조종하고 있다. 독 포자를 여기저기 뿌린다.,46;파라스;47;파라섹트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/004701.png
+ 콘팡,벌레;독,1,곤충,b,30,복안;색안경,전신에서 독이 스며 나온다. 어두워지면 밝은 곳에 모인 작은 벌레포켓몬을 잡아먹는다.,48;콘팡;49;도나리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/004801.png
+ 도나리,벌레;독,1.5,독나방,b,12.5,인분;색안경,날개에 가루가 묻어 있어 팔락팔락 날갯짓을 할 때마다 맹독 가루를 흩뿌린다.,48;콘팡;49;도나리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/004901.png
+ 디그다,땅,0.2,두더지,b,0.8,모래숨기;개미지옥,지하 1m 정도를 파고들어 가서 나무뿌리 등을 씹어 먹고 산다. 가끔 지상으로 얼굴을 내민다.,50;디그다;51;닥트리오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005001.png
+ 디그다,땅;강철,0.2,두더지,b,1,모래숨기;컬리헤어,금속 성분이 많이 포함된 지질의 영향으로 강철 수염이 머리에 났다.,50;디그다;51;닥트리오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005002.png
+ 닥트리오,땅,0.7,두더지,b,33.3,모래숨기;개미지옥,3개의 머리가 교차하며 움직이는 것은 주변의 흙을 부드럽게 해 파기 쉽게 하기 위해서다.,50;디그다;51;닥트리오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005101.png
+ 닥트리오,땅;강철,0.7,두더지,b,66.6,모래숨기;컬리헤어,아름다운 금속질의 수염은 헬멧처럼 머리를 보호하는 동시에 고성능 센서이기도 하다.,50;디그다;51;닥트리오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005102.png
+ 나옹,노말,0.4,요괴고양이,b,4.2,픽업;테크니션,낮에는 거의 잠만 잔다. 밤이 되면 눈을 반짝이며 영역을 돌아다닌다.,52;나옹;53;페르시온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005201.png
+ 나옹,악,0.4,요괴고양이,b,4.2,픽업;테크니션,과거 알로라지방의 왕족과 사치스러운 생활을 했기 때문에 먹이의 취향이 상당히 까다롭다.,52;나옹;53;페르시온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005202.png
+ 나옹,강철,0.4,요괴고양이,b,7.5,픽업;단단한발톱,전투적인 해양 민족과 지내는 동안 단련되어 몸 여기저기가 강철로 변화했다.,52;나옹;863;나이킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005203.png
+ 나옹,노말,33,요괴고양이,b,1.00E+09,픽업;테크니션,이마의 큰 금화에 나타난 무늬는 다이맥스의 비밀을 밝혀낼 열쇠로 여겨지고 있다.,52;나옹;53;페르시온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005204.png
+ 페르시온,노말,1,샴고양이,b,32,유연;테크니션,"털의 결이 아름다워 애완용으로 기르려는 사람이 많지만, 곧잘 할퀴려 들기 때문에 쉽지 않다.",52;나옹;53;페르시온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005301.png
+ 페르시온,악,1.1,샴고양이,b,33,퍼코트;테크니션,알로라지방에서는 둥근 얼굴이 부의 상징으로 여겨져 페르시온을 소중하게 대한다.,52;나옹;53;페르시온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005302.png
+ 고라파덕,물,0.8,오리,b,19.6,습기;날씨부정,항상 두통에 시달리고 있다. 이 두통이 심해지면 이상한 힘을 쓰기 시작한다.,54;고라파덕;55;골덕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005401.png
+ 골덕,물,1.7,오리,b,76.6,습기;날씨부정,물갈퀴가 달린 긴 손발을 써서 전력으로 헤엄치면 왠지 이마에서 빛이 반짝인다.,54;고라파덕;55;골덕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005501.png
+ 망키,격투,0.5,돈숭이,b,28,의기양양;분노의경혈,나무 위에 무리 지어 산다. 무리에서 떨어진 망키는 외로운 나머지 금방 화를 낸다.,56;망키;57;성원숭;979;저승갓숭,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005601.png
+ 성원숭,격투,1,돈숭이,b,32,의기양양;분노의경혈,누군가의 시선을 느끼기만 해도 대단히 화를 낸다. 그리고 눈이 마주친 상대를 쫓아다닌다.,56;망키;57;성원숭;979;저승갓숭,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005701.png
+ 가디,불꽃,0.7,강아지,b,19,위협;타오르는불꽃,자신보다 강하고 큰 상대라도 겁 없이 맞서는 용감하고 믿음직스런 성격이다.,58;가디;59;윈디,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005801.png
+ 가디,불꽃;바위,0.8,망보기,b,22.7,위협;타오르는불꽃,짝을 이루어 영역을 지킨다. 털에 화성암의 성분이 섞여 있는 것은 화산 활동의 영향인 것으로 추측된다.,58;가디;59;윈디,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005802.png
+ 윈디,불꽃,1.9,전설,b,155,위협;타오르는불꽃,초원을 내달리는 모습은 사람들의 마음을 사로잡았다고 옛날 그림에 묘사되어 있다.,58;가디;59;윈디,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005901.png
+ 윈디,불꽃;바위,2,전설,b,168,위협;타오르는불꽃,활활 타는 불꽃을 이빨에 두르고 문다. 체구가 큼에도 불구하고 화려한 움직임으로 적을 농락하는 모습이 마치 춤추는 것 같다.,58;가디;59;윈디,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/005902.png
+ 발챙이,물,0.6,올챙이,b,12.4,저수;습기,내장이 들여다보일 정도로 피부가 얇다. 갓 자란 다리로 서툴게 걷는다.,60;발챙이;61;슈륙챙이;62;강챙이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006001.png
+ 슈륙챙이,물,1,올챙이,b,20,저수;습기,배의 소용돌이는 미묘하게 꾸불거리므로 바라보고 있으면 점점 잠이 오게 된다.,60;발챙이;61;슈륙챙이;62;강챙이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006101.png
+ 강챙이,물;격투,1.3,올챙이,b,54,저수;습기,강인한 근육을 가지고 있다. 태평양을 쉬지 않고 계속 헤엄칠 수 있다.,60;발챙이;61;슈륙챙이;62;강챙이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006201.png
+ 캐이시,에스퍼,0.9,초능력,b,19.5,싱크로;정신력,매일 18시간을 잠잔다. 깨어 있을 때도 앉은 채 순간이동으로 이동한다.,63;캐이시;64;윤겔라;65;후딘,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006301.png
+ 윤겔라,에스퍼,1.3,초능력,b,56.5,싱크로;정신력,윤겔라가 옆에 있으면 TV에 이상한 그림자가 비친다. 그것을 보면 불행해진다고 전해진다.,63;캐이시;64;윤겔라;65;후딘,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006401.png
+ 후딘,에스퍼,1.5,초능력,b,48,싱크로;정신력,태어나서부터 체험한 모든 것을 기억하고 있을 정도의 기억력을 가지고 있다. IQ가 5000이 넘는다.,63;캐이시;64;윤겔라;65;후딘,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006501.png
+ 메가후딘,에스퍼,1.2,초능력,b,48,트레이스,메가진화에 의해 모든 힘이 사이코 파워로 변환되었다. 근력조차 잃어버렸다.,63;캐이시;64;윤겔라;65;후딘,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006502.png
+ 알통몬,격투,0.8,괴력,b,19.5,근성;노가드,데구리를 수없이 들었다 놨다 하며 전신의 근육을 단련한다. 모든 격투기를 사용한다.,66;알통몬;67;근육몬;68;괴력몬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006601.png
+ 근육몬,격투,1.5,괴력,b,70.5,근성;노가드,근육몬의 끝없는 파워는 매우 위험하므로 힘을 제어하는 벨트를 차고 있다.,66;알통몬;67;근육몬;68;괴력몬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006701.png
+ 괴력몬,격투,1.6,괴력,b,130,근성;노가드,4개의 팔을 눈에 보이지 않을 정도로 빠르게 움직여 2초간 1000발의 펀치를 날린다.,66;알통몬;67;근육몬;68;괴력몬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006801.png
+ 괴력몬,격투,25,괴력,b,1.00E+09,근성;노가드,거다이맥스의 파워가 팔에 넘쳐흘러 폭탄의 파괴력을 가진 펀치를 날린다.,66;알통몬;67;근육몬;68;괴력몬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006802.png
+ 모다피,풀;독,0.7,꽃,b,4,엽록소,고온다습한 땅을 좋아한다. 덩굴을 뻗어서 먹이를 잡을 때의 움직임은 매우 재빠르다.,69;모다피;70;우츠동;71;우츠보트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/006901.png
+ 우츠동,풀;독,1,파리잡이,b,6.4,엽록소,식물과 똑 닮은 포켓몬이다. 방심해서 가까이 다가온 먹이에게 독가루를 뿌려서 잡는다.,69;모다피;70;우츠동;71;우츠보트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007001.png
+ 우츠보트,풀;독,1.7,파리잡이,b,15.5,엽록소,꿀 같은 향기의 액체를 입에 모아 두고 있지만 그것은 무엇이든 녹이는 용해액이다.,69;모다피;70;우츠동;71;우츠보트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007101.png
+ 왕눈해,물;독,0.9,해파리,b,45.5,클리어바디;해감액,몸 대부분이 수분이다. 수정 같은 눈에서 이상한 빔을 발사한다.,72;왕눈해;73;독파리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007201.png
+ 독파리,물;독,1.6,해파리,b,55,클리어바디;해감액,80개의 촉수를 가지고 있다. 먹이를 붙잡으면 독으로 인해 약해질 때까지 절대 놓치지 않는다.,72;왕눈해;73;독파리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007301.png
+ 꼬마돌,바위;땅,0.4,암석,b,20,돌머리;옹골참,산길에 많이 서식한다. 몸의 절반을 땅에 묻고 등산하는 사람들의 모습을 바라본다.,74;꼬마돌;75;데구리;76;딱구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007401.png
+ 꼬마돌,바위;전기,0.4,암석,b,20.3,자력;옹골참,자력을 띤 돌의 몸을 가졌다. 특히 자력이 강한 부분에는 사철이 빽빽이 붙어 있다.,74;꼬마돌;75;데구리;76;딱구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007402.png
+ 데구리,바위;땅,1,암석,b,105,돌머리;옹골참,험한 절벽의 중턱에 몇 개의 구멍이 보인다면 그곳은 데구리의 거처이다.,74;꼬마돌;75;데구리;76;딱구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007501.png
+ 데구리,바위;전기,1,암석,b,110,자력;옹골참,드라바이트를 즐겨 먹는다. 그 성분이 몸에서 결정이 되어 몸 일부에 솟아나고 있다.,74;꼬마돌;75;데구리;76;딱구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007502.png
+ 딱구리,바위;땅,1.4,메가톤,b,300,돌머리;옹골참,1년에 1번 탈피한다. 암석 같은 단단한 몸은 다이너마이트로도 상처를 입힐 수 없다.,74;꼬마돌;75;데구리;76;딱구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007601.png
+ 딱구리,바위;전기,1.7,메가톤,b,316,자력;옹골참,전기를 띤 암석을 발사한다. 명중하지 않고 스치기만 해도 상대는 마비되어 실신한다.,74;꼬마돌;75;데구리;76;딱구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007602.png
+ 포니타,불꽃,1,불의말,b,30,도주;타오르는불꽃,태어나서 1시간이 지나면 불꽃의 갈기와 꼬리가 자라나 멋진 모습이 된다.,77;포니타;78;날쌩마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007701.png
+ 포니타,에스퍼,0.8,일각,b,24,도주;파스텔베일,작은 뿔에 치유의 힘을 숨기고 있다. 작은 상처라면 뿔을 갖다 대서 치료해준다.,77;포니타;78;날쌩마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007702.png
+ 날쌩마,불꽃,1.7,불의말,b,95,도주;타오르는불꽃,달리는 속도는 시속 240km. 갈기의 불꽃이 세차게 타오르고 화살처럼 달려 나간다.,77;포니타;78;날쌩마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007801.png
+ 날쌩마,에스퍼;페어리,1.7,일각,b,80,도주;파스텔베일,뿔에서 나오는 사이코커터는 강력하다. 두꺼운 철판에 구멍을 낼 정도의 파괴력을 가졌다.,77;포니타;78;날쌩마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007802.png
+ 야돈,물;에스퍼,1.2,얼간이,b,36,둔감;마이페이스,움직임이 둔하고 멍청하다. 맞아도 5초는 지나야 아픔을 느낄 정도다.,79;야돈;80;야도란,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007901.png
+ 야돈,에스퍼,1.2,얼간이,b,36,먹보;마이페이스,항상 멍하니 있지만 가끔 찌릿 하고 인상을 쓴다. 먹고 있는 먹이가 원인이라는 듯하다.,79;야돈;80;야도란,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/007902.png
+ 야도란,물;에스퍼,1.6,기생,b,78.5,둔감;마이페이스,야돈이 바다로 먹이를 잡으러 갔다가 셀러에게 꼬리를 물려 야도란이 되었다.,79;야돈;80;야도란,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008001.png
+ 야도란,독;에스퍼,1.6,기생,b,70.5,퀵드로;마이페이스,셀러에게 물렸을 때의 자극과 체내의 향신료가 화학 반응을 일으켜 독타입이 되었다.,79;야돈;80;야도란,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008002.png
+ 메가야도란,물;에스퍼,2,기생,b,120,조가비갑옷,메가진화의 에너지는 모두 꼬리의 셀러에게 흘러 들어갔다. 그리고 야돈은 통째로 먹혔다.,79;야돈;80;야도란,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008003.png
+ 코일,전기;강철,0.3,자석,u,6,자력;옹골참,좌우에 있는 유닛에서 나오는 전자파를 이용해 중력을 거슬러 하늘에 떠 있다.,81;코일;82;레어코일;462;자포코일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008101.png
+ 레어코일,전기;강철,1,자석,u,60,자력;옹골참,3개의 코일은 강한 자력으로 연결되어 있다. 가까이 다가가면 강한 귀울림에 시달리게 된다.,81;코일;82;레어코일;462;자포코일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008201.png
+ 파오리,노말;비행,0.8,청둥오리,b,15,날카로운눈;정신력,파 줄기가 없으면 살 수 없다. 그래서 파 줄기를 노리는 상대와는 목숨을 걸고 싸운다.,83;파오리;83;파오리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008301.png
+ 파오리,격투,0.8,청둥오리,b,42,불굴의마음,가라르에 사는 파오리의 모습. 굵고 튼튼한 파를 휘두르며 용감하게 싸우는 전사다.,83;파오리;865;창파나이트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008302.png
+ 두두,노말;비행,1.4,쌍둥이새,b,39.2,도주;일찍기상,두 머리에 각각 존재하는 뇌는 텔레파시 같은 힘으로 의사를 맞춰 나가는 듯하다.,84;두두;85;두트리오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008401.png
+ 두트리오,노말;비행,1.8,세쌍둥이새,b,85.2,도주;일찍기상,진화할 때 두두의 머리 중 한쪽이 분열되는 희귀종. 시속 60km 이상으로 달린다.,84;두두;85;두트리오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008501.png
+ 쥬쥬,물,1.1,강치,b,90,두꺼운지방;촉촉바디,빙산에 사는 포켓몬이다. 머리의 뾰족하게 돌출된 부분으로 얼음을 깨고 바다를 헤엄친다.,86;쥬쥬;87;쥬레곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008601.png
+ 쥬레곤,물;얼음,1.7,강치,b,120,두꺼운지방;촉촉바디,전신이 새하얀 털로 덮여 있기 때문에 눈 속에서는 천적에게 발견되지 않는다.,86;쥬쥬;87;쥬레곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008701.png
+ 질퍽이,독,0.9,오물,b,30,악취;점착,오물이 포켓몬이 되었다. 더러운 장소에 모여 몸의 세균을 번식시킨다.,88;질퍽이;89;질뻐기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008801.png
+ 질퍽이,독;악,0.7,오물,b,42,독수;먹보,쓰레기 문제를 해결하기 위해 다른 곳에서 데려온 질퍽이가 어느새 이 모습이 되었다.,88;질퍽이;89;질뻐기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008802.png
+ 질뻐기,독,1.2,오물,b,30,악취;점착,더러운 오물이 온몸에 달라붙었다. 지나간 자리를 건드리기만 해도 독이 퍼져 버린다.,88;질퍽이;89;질뻐기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008901.png
+ 질뻐기,독;악,1,오물,b,52,독수;먹보,터무니없이 선명한 몸의 색은 먹어치운 쓰레기가 체내에서 계속 화학변화를 일으키기 때문이다.,88;질퍽이;89;질뻐기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/008902.png
+ 셀러,물,0.3,두조개,b,4,조가비갑옷;스킬링크,다이아몬드보다 단단한 껍데기에 싸여 있지만 속은 의외로 말랑하다.,90;셀러;91;파르셀,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009001.png
+ 파르셀,물;얼음,1.5,두조개,b,132.5,조가비갑옷;스킬링크,조수의 흐름이 격한 바다에 서식하는 파르셀의 껍데기에 붙은 가시는 크고 날카롭다.,90;셀러;91;파르셀,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009101.png
+ 고오스,고스트;독,1.3,가스,b,0.1,부유,가스로 된 몸으로 휘감은 다음 먹이의 피부를 통해 조금씩 독을 흘려보내어 약하게 만든다.,92;고오스;93;고우스트;94;팬텀,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009201.png
+ 고우스트,고스트;독,1.6,가스,b,0.1,부유,어둠을 틈타 가스로 된 손을 뻗쳐 사람의 어깨를 두드리기 좋아한다. 그 손에 닿으면 떨림이 멈추지 않는다.,92;고오스;93;고우스트;94;팬텀,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009301.png
+ 팬텀,고스트;독,1.5,그림자,b,40.5,저주받은바디,생명을 빼앗기로 정한 먹잇감의 그림자에 숨어들어 꼼짝하지 않고 기회를 노린다.,92;고오스;93;고우스트;94;팬텀,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009401.png
+ 메가팬텀,고스트;독,1.4,그림자,b,40.5,그림자밟기,팬텀의 유대감은 비뚤어졌다. 팬텀이 먹이로 노리는 상대하고만 싹튼다고 한다.,92;고오스;93;고우스트;94;팬텀,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009402.png
+ 팬텀,고스트;독,20,그림자,b,1.00E+09,저주받은바디,저주의 에너지로 넘치고 있다. 거대한 입의 저편은 저세상과 이어져 있다고 한다.,92;고오스;93;고우스트;94;팬텀,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009403.png
+ 롱스톤,바위;땅,8.8,돌뱀,b,210,돌머리;옹골참,롱스톤이 땅속을 뚫고 나아가면 땅울림이 들리며 지면이 흔들린다. 이동 속도는 시속 80km.,95;롱스톤;208;강철톤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009501.png
+ 슬리프,에스퍼,1,최면,b,32.4,불면;예지몽,먹어 치운 꿈은 모두 기억하고 있다. 아이들의 꿈이 맛있기 때문에 어른들의 꿈은 거의 먹지 않는다.,96;슬리프;97;슬리퍼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009601.png
+ 슬리퍼,에스퍼,1.6,최면,b,75.6,불면;예지몽,상대와 눈이 마주쳤을 때 최면술 등의 다양한 초능력을 사용한다고 전해진다.,96;슬리프;97;슬리퍼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009701.png
+ 크랩,물,0.4,게,b,6.5,괴력집게;조가비갑옷,모래 해변에 구멍을 파서 산다. 집게는 싸울 때 떨어져 나가도 다시 자라나 원래대로 돌아온다.,98;크랩;99;킹크랩,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009801.png
+ 킹크랩,물,1.3,집게,b,60,괴력집게;조가비갑옷,큰 집게의 파워는 1만 마력이다. 하지만 너무 무거워서 목표물을 잡는 것이 서투르다.,98;크랩;99;킹크랩,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009901.png
+ 킹크랩,물,19,집게,b,1.00E+09,괴력집게;조가비갑옷,거다이맥스의 파워에 의해 거대해진 왼쪽 집게는 무엇이든 산산이 부숴버린다.,98;크랩;99;킹크랩,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/009902.png
+ 찌리리공,전기,0.5,볼,u,10.4,방음;정전기,굴러서 이동하기 때문에 땅이 울퉁불퉁하면 충격으로 폭발해 버린다.,100;찌리리공;101;붐볼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010001.png
+ 찌리리공,전기;풀,0.5,구체,u,13,방음;정전기,몬스터볼을 닮은 수수께끼의 포켓몬. 흥분하면 배 속에 비축해 둔 전류를 방출하며 크게 웃는다.,100;찌리리공;101;붐볼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010002.png
+ 붐볼,전기,1.2,볼,u,66.6,방음;정전기,전기 에너지를 모을수록 고속으로 이동할 수 있게 되나 그만큼 폭발하기도 쉬워진다.,100;찌리리공;101;붐볼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010101.png
+ 붐볼,전기;풀,1.2,구체,u,71,방음;정전기,신기하게도 표면의 조직이 규토리의 성분과 매우 흡사하다. 화가 났을 때 방출하는 전류는 벼락이 20번 떨어진 것에 필적한다.,100;찌리리공;101;붐볼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010102.png
+ 아라리,풀;에스퍼,0.4,알,b,2.5,엽록소,텔레파시로 대화를 하기 때문에 아라리를 갈라놓으려 해도 바로 모여들어 6마리가 된다.,102;아라리;103;나시,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010201.png
+ 나시,풀;에스퍼,2,야자열매,b,120,엽록소,걸어 다니는 열대 우림이라고 불린다. 크게 자란 머리 중 하나가 땅에 떨어지면 아라리가 된다.,102;아라리;103;나시,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010301.png
+ 나시,풀;드래곤,10.9,야자열매,b,415.6,통찰,쨍쨍 내리쬐는 태양 빛을 받은 결과 본래의 모습과 능력이 각성되었다.,102;아라리;103;나시,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010302.png
+ 탕구리,땅,0.4,고독,b,6.5,돌머리;피뢰침,사별한 어머니를 생각하며 울 때에는 머리에 쓴 뼈가 달각달각 소리를 낸다.,104;탕구리;105;텅구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010401.png
+ 텅구리,땅,1,뼈다귀,b,45,돌머리;피뢰침,태어날 때부터 항상 지니고 있는 뼈를 자유로이 사용한다. 성격은 난폭하다.,104;탕구리;105;텅구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010501.png
+ 텅구리,불꽃;고스트,1,뼈다귀,b,34,저주받은바디;피뢰침,손에 든 뼈에 불을 붙여 동료를 추모하는 춤을 밤새도록 춘다.,104;탕구리;105;텅구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010502.png
+ 시라소몬,격투,1.5,킥,m,49.8,유연;이판사판,다리가 두 배 길이로 늘어난다. 처음 싸운 상대는 그 길이에 놀란다.,236;배루키;106;시라소몬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010601.png
+ 홍수몬,격투,1.4,펀치,m,50.2,날카로운눈;철주먹,팔을 비틀며 날리는 펀치는 콘크리트도 부스러뜨린다. 3분 싸우면 잠시 쉰다.,236;배루키;106;시라소몬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010701.png
+ 내루미,노말,1.2,핥기,b,65.5,마이페이스;둔감,손 대신 신장의 2배로 늘어나는 혓바닥을 사용한다. 끈적끈적한 타액이 무엇이든 달라붙게 한다.,108;내루미;463;내룸벨트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010801.png
+ 또가스,독,0.6,독가스,b,1,부유;화학변화가스,공기보다도 가벼운 가스를 몸에 모아서 떠 있다. 가스는 냄새나는 데다가 폭발도 한다.,109;또가스;110;또도가스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/010901.png
+ 또도가스,독,1.2,독가스,b,9.5,부유;화학변화가스,쓰레기에서 발생한 가스를 먹고 자라난다. 극히 드물게 3개가 이어진 또도가스가 발견된다.,109;또가스;110;또도가스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011001.png
+ 또도가스,독;페어리,3,독가스,b,16,부유;화학변화가스,대기 중의 오염된 성분을 흡수하고 배설물 대신 깨끗한 공기를 내보낸다.,109;또가스;110;또도가스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011002.png
+ 뿔카노,땅;바위,1,뿔,b,115,피뢰침;돌머리,몸이 단단한 피부로 덮여 있다. 몸통박치기로 빌딩도 쓰러뜨린다. 안타깝게도 머리는 나쁘다.,111;뿔카노;112;코뿌리;464;거대코뿌리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011101.png
+ 코뿌리,땅;바위,1.9,드릴,b,120,피뢰침;돌머리,뒷발로 서게 되어 뇌가 커졌다. 드릴로 된 뿔로 바위를 뚫어 터널을 판다.,111;뿔카노;112;코뿌리;464;거대코뿌리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011201.png
+ 럭키,노말,1.1,알,f,34.6,자연회복;하늘의은총,상처 입은 포켓몬이나 사람이 있으면 영양 만점의 알을 낳아 나눠 주는 상냥한 포켓몬이다.,440;핑복;113;럭키;242;해피너스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011301.png
+ 덩쿠리,풀,1,넝쿨,b,35,엽록소;리프가드,파란 덩굴로 덮여 있다. 덩굴에 숨겨져 있는 얼굴을 본 사람은 아직 없다.,114;덩쿠리;465;덩쿠림보,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011401.png
+ 캥카,노말,2.2,가족,f,80,일찍기상;배짱,배의 주머니에서 새끼를 키운다. 안전할 때만 새끼를 주머니에서 꺼내어 놀게 한다.,115;캥카;115;메가캥카,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011501.png
+ 메가캥카,노말,2.2,가족,f,100,부자유친,메가캥카가 강한 이유는 아이의 성장을 기뻐하면서 의욕이 넘치는 엄마 때문이다.,115;캥카;115;메가캥카,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011502.png
+ 쏘드라,물,0.4,드래곤,b,8,쓱쓱;스나이퍼,산호의 그늘에 거처를 만든다. 위험을 느끼면 입에서 새까만 먹물을 내뿜고 도망간다.,116;쏘드라;117;시드라;230;킹드라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011601.png
+ 시드라,물,1.2,드래곤,b,25,독가시;스나이퍼,가시가 상대로부터 몸을 지킨다. 지느러미와 뼈가 한약의 재료로써 귀하게 쓰인다.,116;쏘드라;117;시드라;230;킹드라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011701.png
+ 콘치,물,0.6,금붕어,b,15,쓱쓱;수의베일,꼬리지느러미를 드레스같이 흔들며 우아하게 헤엄치는 모습은 마치 수중의 여왕 같다.,118;콘치;119;왕콘치,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011801.png
+ 왕콘치,물,1.3,금붕어,b,39,쓱쓱;수의베일,머리의 뿔로 강바닥에 있는 돌을 파내어 둥지를 만든다. 알을 목숨 걸고 지킨다.,118;콘치;119;왕콘치,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/011901.png
+ 별가사리,물,0.8,별,u,34.5,발광;자연회복,"빨간 핵이 있는 한, 몸이 조각나도 바로 재생한다. 한밤중에 핵이 반짝거린다.",120;별가사리;121;아쿠스타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012001.png
+ 아쿠스타,물;에스퍼,1.1,수수께끼,u,80,발광;자연회복,몸의 중심에 있는 빨간 핵에서 밤하늘을 향해 알 수 없는 전파를 발신한다.,120;별가사리;121;아쿠스타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012101.png
+ 마임맨,에스퍼;페어리,1.3,배리어,b,54.5,방음;필터,팬터마임의 달인이다. 손짓 발짓으로 만든 벽은 이윽고 진짜 벽이 된다.,439;흉내내;122;마임맨,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012201.png
+ 마임맨,얼음;에스퍼,1.4,댄스,b,56.8,의기양양;배리어프리,탭 댄스가 특기다. 냉기로 만든 얼음 바닥을 차올려서 배리어처럼 몸을 지킨다.,439;흉내내;122;마임맨,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012202.png
+ 스라크,벌레;비행,1.5,버마재비,b,56,벌레의알림;테크니션,아주 예리한 낫을 이용해 풀숲을 베며 나아간다. 매우 빠른 움직임에 눈이 따라가지 못한다.,123;스라크;212;핫삼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012301.png
+ 루주라,얼음;에스퍼,1.4,인간형태,f,40.6,둔감;예지몽,울음소리는 마치 인간의 말처럼 들리지만 의미는 전혀 이해할 수 없다.,238;뽀뽀라;124;루주라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012401.png
+ 에레브,전기,1.1,전기,b,30,정전기,정전이 일어나는 원인의 절반은 에레브가 발전소에 나타나 전기를 먹어 버린 탓이다.,239;에레키드;125;에레브;466;에레키블,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012501.png
+ 마그마,불꽃,1.3,불뿜기,b,44.5,불꽃몸,화산의 분화구에서 태어나 자랐다. 태양과도 같은 불꽃의 일렁임이 전신을 감싼다.,240;마그비;126;마그마;467;마그마번,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012601.png
+ 쁘사이저,벌레,1.5,뿔집게,b,55,괴력집게;틀깨기,2개의 뿔 사이에 먹이를 끼우고 조각날 때까지 놓지 않는다. 조각나지 않으면 저편으로 세게 내던진다.,127;쁘사이저;127;메가쁘사이저,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012701.png
+ 메가쁘사이저,벌레;비행,1.7,뿔집게,b,59,스카이스킨,메가진화의 영향으로 항상 흥분한 상태이다. 2개의 큰 뿔로 적을 꿰뚫은 다음 찢는다.,127;쁘사이저;127;메가쁘사이저,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012702.png
+ 켄타로스,노말,1.4,성난소,m,88.4,위협;분노의경혈,노리는 먹이를 포착하면 일직선으로 돌진한다. 난폭한 성격으로 유명하다.,128;켄타로스;128;켄타로스;128;켄타로스;No. 0128;켄타로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012801.png
+ 잉어킹,물,0.9,물고기,b,10,쓱쓱,힘없는 한심한 포켓몬이다. 가끔 높이 뛰어오르지만 2m를 겨우 넘기는 게 고작이다.,129;잉어킹;130;갸라도스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012901.png
+ 갸라도스,물;비행,6.5,흉악,b,235,위협,한번 모습을 나타내면 주변 전체를 태워 버리지 않고는 분노가 가라앉지 않는다고 전해진다.,129;잉어킹;130;갸라도스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013001.png
+ 메가갸라도스,물;악,6.5,흉악,b,305,틀깨기,메가진화가 뇌에도 작용했다. 모든 것을 불태우는 파괴의 본능밖에 남아있지 않다.,129;잉어킹;130;갸라도스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013002.png
+ 라프라스,물;얼음,2.5,탈것,b,220,저수;조가비갑옷,사람이나 포켓몬을 등에 태워 바다를 건너는 것을 매우 좋아한다. 사람의 말을 이해할 수 있다.,131;라프라스;131;라프라스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013103.png
+ 라프라스,물;얼음,24,탈것,b,1.00E+09,저수;조가비갑옷,등껍질에는 5000명 이상의 사람을 태울 수 있다. 흔들림도 없고 편안하다.,131;라프라스;131;라프라스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013104.png
+ 메타몽,노말,0.3,변신,u,4,유연,변신은 완벽하지만 웃는 바람에 힘이 빠지면 변신이 풀려 버리고 만다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013201.png
+ 이브이,노말,0.3,진화,b,6.5,도주;적응력,환경 변화에 곧바로 적응할 수 있도록 여러 형태로 진화할 수 있는 가능성을 가지고 있다.,133;이브이;134;샤미드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013301.png
+ 이브이,노말,18,진화,b,1.00E+09,도주;적응력,거다이맥스의 파워로 더욱 복슬복슬해진 목 주변의 솜털로 상대를 감싸서 사로잡는다.,133;이브이;134;샤미드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013302.png
+ 샤미드,물,1,거품뿜기,b,29,저수,물가에 살지만 꼬리에 물고기처럼 지느러미가 남아 있어서 인어로 착각하는 사람도 있다.,133;이브이;134;샤미드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013401.png
+ 쥬피썬더,전기,0.8,번개,b,24.5,축전,세포가 내고 있는 약한 전기를 하나로 모아서 강력한 전기를 발산한다.,133;이브이;134;샤미드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013501.png
+ 부스터,불꽃,0.9,불꽃,b,25,타오르는불꽃,들이마신 공기를 체내의 불꽃 주머니에 보내 1700도의 불꽃으로 내뿜는다.,133;이브이;134;샤미드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013601.png
+ 폴리곤,노말,0.8,가상,u,36.5,트레이스;다운로드,세계에서 처음으로 인공적으로 만들어 낸 포켓몬이다. 전자 공간을 이동할 수 있다.,137;폴리곤;233;폴리곤2;474;폴리곤Z,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013701.png
+ 암나이트,바위;물,0.4,소용돌이,b,7.5,쓱쓱;조가비갑옷,현대의 우수한 과학 기술로 화석에서 부활한 포켓몬이다. 고대의 바다를 헤엄치고 있었다.,138;암나이트;139;암스타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013801.png
+ 암스타,바위;물,1,소용돌이,b,35,쓱쓱;조가비갑옷,나선형의 껍질이 너무 커져 버린 것이 원인으로 멸종했다고 여겨지고 있다.,138;암나이트;139;암스타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/013901.png
+ 투구,바위;물,0.5,껍질,b,11.5,쓱쓱;전투무장,3억 년 전에 모래 해변에서 살고 있었던 것으로 추측된다. 단단한 껍질이 몸을 보호한다.,140;투구;141;투구푸스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014001.png
+ 투구푸스,바위;물,1.3,껍질,b,40.5,쓱쓱;전투무장,투구푸스의 먹이가 육상 생활을 시작했기 때문에 투구푸스 역시 육지에 올라온 것으로 추측된다.,140;투구;141;투구푸스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014101.png
+ 프테라,바위;비행,1.8,화석,b,59,돌머리;프레셔,공룡 시대의 넓은 하늘을 날아다녔던 포켓몬이다. 톱 같은 이빨을 가지고 있다.,142;프테라;142;메가프테라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014201.png
+ 메가프테라,바위;비행,2.1,화석,b,79,단단한발톱,몸 일부가 돌이 되었다. 이 모습이 진짜 프테라라고 주장하는 학자도 있다.,142;프테라;142;메가프테라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014202.png
+ 잠만보,노말,2.1,졸음,b,460,면역;두꺼운지방,곰팡이가 피어 있거나 상했어도 괜찮다. 잠만보의 위는 무엇이든 소화시킬 수 있다.,446;먹고자;143;잠만보,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014301.png
+ 잠만보,노말,35,졸음,b,1.00E+09,면역;두꺼운지방,거다이맥스의 파워로 먹다가 배에 흘린 씨앗이나 붙어 있던 돌멩이까지도 거대해졌다.,446;먹고자;143;잠만보,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014302.png
+ 프리져,얼음;비행,1.7,냉동,u,55.4,프레셔,전설의 새포켓몬이다. 공기 중의 수분을 얼려 눈보라를 만들어 낼 수 있다.,144;프리져;144;프리져,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014401.png
+ 썬더,전기;비행,1.6,전기,u,52.6,프레셔,번개 구름 안에 있다고 전해지는 전설의 포켓몬이다. 번개를 자유로이 조종한다.,145;썬더;145;썬더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014501.png
+ 파이어,불꽃;비행,2,화염,u,60,프레셔,전설의 새포켓몬 중의 1마리다. 파이어가 모습을 보이면 봄이 찾아온다고 전해진다.,146;파이어;146;파이어,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014601.png
+ 미뇽,드래곤,1.8,드래곤,b,3.3,탈피,세차게 떨어지는 폭포의 보호를 받으며 탈피를 거듭해 점점 크게 자란다.,147;미뇽;148;신뇽;149;망나뇽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014701.png
+ 신뇽,드래곤,4,드래곤,b,16.5,탈피,전신에서 오라를 발산하면 주변 날씨가 순식간에 변한다고 한다.,147;미뇽;148;신뇽;149;망나뇽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014801.png
+ 망나뇽,드래곤;비행,2.2,드래곤,b,210,정신력,드넓은 바다 어딘가에는 망나뇽만이 모여 사는 섬이 있다고 한다.,147;미뇽;148;신뇽;149;망나뇽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014901.png
+ 뮤츠,에스퍼,2,유전자,u,122,프레셔,뮤의 유전자를 재구성해서 만들어졌다. 포켓몬 중에서 가장 난폭한 마음을 가지고 있다고 한다.,150;뮤츠;150;메가뮤츠X;150;메가뮤츠Y,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015001.png
+ 메가뮤츠X,에스퍼;격투,2.3,유전자,u,127,불굴의마음,한 과학자가 몇 년에 걸쳐 무서운 유전자의 연구를 계속한 결과 탄생했다.,150;뮤츠;150;메가뮤츠X;150;메가뮤츠Y,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015002.png
+ 메가뮤츠Y,에스퍼,1.5,유전자,u,33,불면,한 과학자가 몇 년에 걸쳐 무서운 유전자의 연구를 계속한 결과 탄생했다.,150;뮤츠;150;메가뮤츠X;150;메가뮤츠Y,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015003.png
+ 뮤,에스퍼,0.4,신종,u,4,싱크로,모든 기술을 사용하기 때문에 포켓몬의 조상이라고 생각하는 학자가 많다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015101.png
+ 치코리타,풀,0.9,잎사귀,b,6.4,심록,머리의 잎사귀로 주위의 온도나 습도를 살핀다. 햇볕을 쬐는 것을 매우 좋아한다.,152;치코리타;153;베이리프;154;메가니움,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015201.png
+ 베이리프,풀,1.2,잎사귀,b,15.8,심록,목 주위의 봉오리로부터 풍기는 향긋한 향기는 맡은 사람을 힘이 나게 한다.,152;치코리타;153;베이리프;154;메가니움,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015301.png
+ 메가니움,풀,1.8,허브,b,100.5,심록,메가니움이 뿜어내는 호흡에는 시든 화초를 되살리는 이상한 힘이 숨어 있다.,152;치코리타;153;베이리프;154;메가니움,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015401.png
+ 브케인,불꽃,0.5,불쥐,b,7.9,맹화,겁쟁이 같은 성격이다. 놀라면 등의 불꽃이 한층 더 강하게 타오른다.,155;브케인;156;마그케인;157;블레이범,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015501.png
+ 마그케인,불꽃,0.9,화산,b,19,맹화,불꽃의 열로 상대를 위협한다. 싸울 태세가 되면 불꽃의 기세가 강해진다.,155;브케인;156;마그케인;157;블레이범,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015601.png
+ 블레이범,불꽃,1.7,화산,b,79.5,맹화,불꽃 폭풍으로 공격한다. 작열하는 불꽃으로 아지랑이를 만들어 내어 모습을 감춘다.,155;브케인;156;마그케인;157;블레이범,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015701.png
+ 블레이범,불꽃;고스트,1.6,도깨비불,b,69.8,맹화,히스이 중심에 우뚝 선 영산의 기운에 영향을 받은 모습으로 보인다. 갈 곳 없는 영혼을 자신의 불꽃으로 정화하여 저승으로 인도한다고 한다.,155;브케인;156;마그케인;157;블레이범,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015702.png
+ 리아코,물,0.6,큰턱,b,9.5,급류,발달된 턱을 갖고 있어 무엇이든 물어 버리는 습성이 있다. 트레이너도 주의가 필요하다.,158;리아코;159;엘리게이;160;장크로다일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015801.png
+ 엘리게이,물,1.1,큰턱,b,25,급류,한번 물면 이빨이 빠질 때까지 절대 놓지 않는다. 빠진 이빨은 바로 자라난다.,158;리아코;159;엘리게이;160;장크로다일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/015901.png
+ 장크로다일,물,2.3,큰턱,b,88.8,급류,평소에는 느긋하게 움직이지만 먹이를 물 때에는 눈에 보이지 않는 엄청난 스피드를 낸다.,158;리아코;159;엘리게이;160;장크로다일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/016001.png
+ 꼬리선,노말,0.8,망보기,b,6,도주;날카로운눈,매우 신경질적인 성격이다. 멀리까지 볼 수 있도록 꼬리를 써서 발돋움한다.,161;꼬리선;162;다꼬리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/016101.png
+ 다꼬리,노말,1.8,긴몸통,b,32.5,도주;날카로운눈,엄마 포켓몬이 가늘고 긴 몸으로 새끼를 감싸 안아 재운다. 빠른 움직임으로 상대를 몰아붙인다.,161;꼬리선;162;다꼬리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/016201.png
+ 부우부,노말;비행,0.7,부엉이,b,21.2,불면;날카로운눈,항상 한 발로 서 있다. 공격을 받아도 두 발로 버티거나 하지 않는다.,163;부우부;164;야부엉,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/016301.png
+ 야부엉,노말;비행,1.6,부엉이,b,40.8,불면;날카로운눈,조금이라도 빛이 있으면 어둠 속에서도 사물을 분간할 수 있는 특수한 눈을 가지고 있다.,163;부우부;164;야부엉,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/016401.png
+ 레디바,벌레;비행,1,별다섯,b,10.8,벌레의알림;일찍기상,무리를 짓지 않으면 불안해서 움직일 수 없을 정도로 겁쟁이다. 냄새로 서로의 마음을 전한다.,165;레디바;166;레디안,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/016501.png
+ 레디안,벌레;비행,1.4,별다섯,b,35.6,벌레의알림;일찍기상,별빛을 에너지로 쓴다. 밤하늘의 별의 수가 늘어나면 등의 무늬가 커진다.,165;레디바;166;레디안,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/016601.png
+ 페이검,벌레;독,0.5,실뿜기,b,8.5,벌레의알림;불면,가늘고 튼튼한 실을 둘러쳐서 덫을 설치한다. 먹이가 걸릴 때까지 가만히 기다린다.,167;페이검;168;아리아도스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/016701.png
+ 아리아도스,벌레;독,1.1,롱다리,b,33.5,벌레의알림;불면,먹이의 몸에 실을 붙여 일부러 풀어 준다. 실을 더듬어 가면 동료까지 잡을 수 있기 때문이다.,167;페이검;168;아리아도스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/016801.png
+ 크로뱃,독;비행,1.8,박쥐,b,75,정신력,4장의 날개로 보다 조용히 더욱 빠르게 날 수 있게 되었다. 밤이 되면 활동을 시작한다.,41;주뱃;42;골뱃;169;크로뱃,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/016901.png
+ 초라기,물;전기,0.5,아귀,b,12,축전;발광,플러스와 마이너스의 전기를 촉수의 끝에서 흘려보낸다. 적을 감전시켜 버린다.,170;초라기;171;랜턴,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/017001.png
+ 랜턴,물;전기,1.2,라이트,b,22.5,축전;발광,심해를 헤엄치는 랜턴의 불빛은 수면까지 다다른다. 심해의 별이라고 불리고 있다.,170;초라기;171;랜턴,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/017101.png
+ 피츄,전기,0.3,아기쥐,b,2,정전기,전기를 모으는 게 서툴다. 조금만 충격을 받아도 금방 방전해 버린다.,172;피츄;25;피카츄;26;라이츄,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/017201.png
+ 삐,페어리,0.3,별,b,3,헤롱헤롱바디;매직가드,실루엣이 밤하늘의 별을 닮았다. 별똥별을 타고 온다고 여겨지는 포켓몬이다.,173;삐;35;삐삐;36;픽시,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/017301.png
+ 푸푸린,노말;페어리,0.3,풍선,b,1,헤롱헤롱바디;승기,은은하게 달콤한 향기가 나며 잘 튕기는 부드러운 몸은 한번 튀기 시작하면 멈추지 않는다.,174;푸푸린;39;푸린;40;푸크린,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/017401.png
+ 토게피,페어리,0.3,바늘알,b,1.5,의욕;하늘의은총,껍질 안에 많은 행복이 가득 차 있어 상냥한 사람에게 행복을 나누어 준다고 한다.,175;토게피;176;토게틱;468;토게키스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/017501.png
+ 토게틱,페어리;비행,0.6,행복,b,3.2,의욕;하늘의은총,상냥한 사람의 근처에 나타나 행복의 가루라고 불리는 반짝이는 깃털을 흩뿌린다고 한다.,175;토게피;176;토게틱;468;토게키스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/017601.png
+ 네이티,에스퍼;비행,0.2,아기새,b,2,싱크로;일찍기상,선인장의 봉오리나 가시를 재주 있게 피하며 쪼아 댄다. 마치 뛰어오르는 것처럼 이동한다.,177;네이티;178;네이티오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/017701.png
+ 네이티오,에스퍼;비행,1.5,정령,b,15,싱크로;일찍기상,과거와 미래를 내다볼 수 있다. 매일 태양의 움직임을 관찰하는 이상한 포켓몬이다.,177;네이티;178;네이티오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/017801.png
+ 메리프,전기,0.6,솜털,b,7.8,정전기,몸에 정전기가 모이면 털이 평소의 2배 정도로 부풀어 오른다. 만지면 마비된다.,179;메리프;180;보송송;181;전룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/017901.png
+ 보송송,전기,0.8,솜털,b,13.3,정전기,전기를 너무 많이 모은 결과 몸의 표면에 솜털조차 자라지 않는 부분이 생겼다.,179;메리프;180;보송송;181;전룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/018001.png
+ 전룡,전기,1.4,라이트,b,61.5,정전기,꼬리의 빛은 멀리까지 전해지기 때문에 예전부터 봉화 역할로서 중요하게 여겨지고 있다.,179;메리프;180;보송송;181;전룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/018101.png
+ 메가전룡,전기;드래곤,1.4,라이트,b,61.5,틀깨기,꼬리 끝이 빛나며 반짝인다. 빛이 아득히 먼 곳까지 닿아서 길 잃은 자들의 이정표가 된다.,179;메리프;180;보송송;181;전룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/018102.png
+ 아르코,풀,0.4,꽃,b,5.8,엽록소,장마의 계절이 끝나면 따뜻한 햇살에 이끌려 나온 아르코가 춤추기 시작한다.,43;뚜벅쵸;44;냄새꼬;45;라플레시아,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/018201.png
+ 마릴,물;페어리,0.4,물쥐,b,8.5,두꺼운지방;천하장사,전신의 털은 물을 튕겨 내는 성질을 지녀 물을 끼얹어도 말라 있다.,298;루리리;183;마릴;184;마릴리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/018301.png
+ 마릴리,물;페어리,0.8,물토끼,b,28.5,두꺼운지방;천하장사,긴 귀는 뛰어난 센서. 물속의 소리를 구별하여 무엇이 움직이는지 알 수 있다.,298;루리리;183;마릴;184;마릴리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/018401.png
+ 꼬지모,바위,1.2,흉내,b,38,옹골참;돌머리,항상 나무인 척하고 있다. 몸의 구조는 식물보다 돌이나 바위에 가까운 듯하다.,438;꼬지지;185;꼬지모,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/018501.png
+ 왕구리,물,1.1,개구리,b,33.9,저수;습기,왕구리를 리더로 해서 그룹이 만들어진다. 왕구리의 울음소리가 발챙이들을 따르게 한다.,60;발챙이;61;슈륙챙이;62;강챙이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/018601.png
+ 통통코,풀;비행,0.4,솜풀,b,0.5,엽록소;리프가드,바람을 타고 상당히 먼 거리를 이동한다. 팔데아의 통통코가 어디서 온 것인지는 확실히 밝혀진 것이 없다.,187;통통코;188;두코;189;솜솜코,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/018701.png
+ 두코,풀;비행,0.6,솜풀,b,1,엽록소;리프가드,두코 마니아들은 머리에 달린 꽃에서 나는 향기로 어디서 태어났는지를 알 수 있다고 한다.,187;통통코;188;두코;189;솜솜코,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/018801.png
+ 솜솜코,풀;비행,0.8,솜풀,b,3,엽록소;리프가드,계절풍을 타고 여행한다. 솜 포자가 다 떨어지면 여행과 함께 솜솜코의 일생도 끝난다.,187;통통코;188;두코;189;솜솜코,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/018901.png
+ 에이팜,노말,0.8,긴꼬리,b,11.5,도주;픽업,손을 뻗어도 닿지 않는 가지에 자라는 과일을 꼬리로 딴다. 실제 손보다도 솜씨가 좋다.,190;에이팜;424;겟핸보숭,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019001.png
+ 해너츠,풀,0.3,씨앗,b,1.8,엽록소;선파워,어느 날 아침 갑자기 떨어진다. 약한 것을 알고 있어 진화까지 한결같이 영양을 모은다.,191;해너츠;192;해루미,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019101.png
+ 해루미,풀,0.8,태양,b,8.5,엽록소;선파워,낮에는 지나칠 정도로 활발히 돌아다니지만 해가 저물면 돌연 움직이지 않게 된다.,191;해너츠;192;해루미,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019201.png
+ 왕자리,벌레;비행,1.2,얇은날개,b,38,가속;복안,얼굴을 움직이지 않고 360도 전부 볼 수 있는 눈을 가지고 있어서 바로 뒤의 먹이도 놓치지 않는다.,193;왕자리;469;메가자리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019301.png
+ 우파,물;땅,0.4,수어,b,8.5,습기;저수,차가운 물속에 산다. 물 밑바닥의 진흙에 몸을 반쯤 묻고 잠잔다.,194;우파;195;누오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019401.png
+ 누오,물;땅,1.4,수어,b,75,습기;저수,느긋한 성격이다. 강바닥에서 입을 벌리고 먹이가 들어오는 것을 한결같이 기다린다.,194;우파;195;누오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019501.png
+ 에브이,에스퍼,0.9,태양,b,26.5,싱크로,상대의 움직임을 예지할 때 두 갈래로 갈라져 있는 꼬리의 끝이 미세하게 떨린다.,133;이브이;134;샤미드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019601.png
+ 블래키,악,1,달빛,b,27,싱크로,달의 파동을 몸에 쬐면 고리 모양이 희미하게 빛나며 이상한 힘에 눈을 뜬다.,133;이브이;134;샤미드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019701.png
+ 니로우,악;비행,0.5,어둠,b,2.1,불면;대운,밤에 모습을 보게 되면 불길한 일이 생긴다고 여겨져 몹시 미움받는 포켓몬이다.,198;니로우;430;돈크로우,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019801.png
+ 야도킹,물;에스퍼,2,임금,b,79.5,둔감;마이페이스,물렸을 때 머리에 깊게 스며든 독소에 의해 심상치 않은 능력에 눈을 뜬 야돈이다.,79;야돈;80;야도란,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019901.png
+ 무우마,고스트,0.7,야명,b,1,부유,한밤중에 사람을 놀라게 하고 무서워하는 마음을 모아 자신의 에너지로 만드는 포켓몬이다.,200;무우마;429;무우마직,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020001.png
+ 안농,에스퍼,0.5,심볼,u,5,부유,고대 문명의 문자와 닮았다. 문자가 먼저인지 안농이 먼저인지 세계 7대 불가사의 중 하나다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020101.png
+ 마자용,에스퍼,1.3,참기,b,28.5,그림자밟기,까만 꼬리를 필사적으로 숨기는 것은 꼬리에 비밀이 있다는 증거라고 의심받고 있다.,360;마자;202;마자용,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020201.png
+ 키링키,노말;에스퍼,1.5,긴목,b,41.5,정신력;일찍기상,꼬리의 뇌는 매우 작지만 강력한 에스퍼 파워를 발휘하는 중요한 장기다.,203;키링키;981;키키링,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020301.png
+ 피콘,벌레,0.6,도롱이벌레,b,7.2,옹골참,나무껍질을 짜 맞춰서 껍질을 두껍게 하는 것을 좋아한다. 무거워져도 신경 쓰지 않는다.,204;피콘;205;쏘콘,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020401.png
+ 쏘콘,벌레;강철,1.2,도롱이벌레,b,125.8,옹골참,굵은 나무줄기에 달라붙어 있다. 무언가의 기척을 느낄 때마다 껍질 파편을 날려 댄다.,204;피콘;205;쏘콘,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020501.png
+ 노고치,노말,1.5,땅뱀,b,14,하늘의은총;도주,어두운 장소에 미로를 만든다. 누군가에게 발견되면 꼬리로 땅을 파서 도망가려 한다.,206;노고치;982;노고고치,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020601.png
+ 글라이거,땅;비행,1.1,날전갈,b,64.8,괴력집게;모래숨기,손과 발의 막으로 바람을 타고 하늘에서 덮치는 전법을 쓴다. 먹이의 얼굴을 노린다.,207;글라이거;472;글라이온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020701.png
+ 강철톤,강철;땅,9.2,철뱀,b,400,돌머리;옹골참,땅속의 높은 압력과 열로 단련된 몸은 어떠한 금속보다도 단단하다.,95;롱스톤;208;강철톤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020801.png
+ 메가강철톤,강철;땅,10.5,철뱀,b,740,모래의힘,땅속의 높은 압력과 열로 단련된 몸은 어떠한 금속보다도 단단하다.,95;롱스톤;208;강철톤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020802.png
+ 블루,페어리,0.6,요정,b,7.8,위협;도주,작은 포켓몬이 도망칠 정도의 무서운 얼굴이 반대로 귀엽다며 여성에게 인기가 있는 포켓몬이다.,209;블루;210;그랑블루,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/020901.png
+ 그랑블루,페어리,1.4,요정,b,48.7,위협;속보,얼굴에 어울리지 않게 겁이 많다. 그러나 한번 화내기 시작하면 큰 이빨로 반격한다.,209;블루;210;그랑블루,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021001.png
+ 침바루,물;독,0.5,풍선,b,3.9,독가시;쓱쓱,물을 들이마시기 시작하면 위험하다. 온몸에 난 독침을 흩뿌려서 공격해 오기 때문이다.,211;침바루;211;침바루,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021101.png
+ 침바루,악;독,0.5,풍선,b,3.9,독가시;쓱쓱,침으로 독을 흩뿌리며 귀찮게 하기 때문에 어부들이 몹시 싫어하는 존재다. 다른 지방에서는 다른 모습으로 서식한다.,211;침바루;904;장침바루,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021102.png
+ 핫삼,벌레;강철,1.8,집게,b,118,벌레의알림;테크니션,강철이 함유된 집게로 잡은 것은 아무리 딱딱해도 산산조각이 난다.,123;스라크;212;핫삼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021201.png
+ 메가핫삼,벌레;강철,2,집게,b,125,테크니션,과다한 에너지를 받아 항상 오버플로우 상태이다. 장시간은 싸울 수 없다.,123;스라크;212;핫삼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021202.png
+ 단단지,벌레;바위,0.6,발효,b,20.5,옹골참;먹보,등껍질 속에 나무열매를 모은다. 모은 나무열매는 체액과 섞여서 맛있는 주스가 된다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021301.png
+ 헤라크로스,벌레;격투,1.5,외뿔,b,54,벌레의알림;근성,달콤한 꿀을 아주 좋아해서 혼자 독차지하기 위해 자랑스런 뿔을 써서 상대를 내동댕이친다.,214;헤라크로스;214;메가헤라크로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021401.png
+ 메가헤라크로스,벌레;격투,1.7,외뿔,b,62.5,스킬링크,자랑스러운 뿔을 상대의 배 밑에 틀어박고 단번에 들어 올려 집어 던지는 천하장사다.,214;헤라크로스;214;메가헤라크로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021402.png
+ 포푸니,악;얼음,0.9,갈고리손톱,b,28,정신력;날카로운눈,눈에 띄지 않도록 어둠 속에 숨어서 먹이를 습격하는 매우 교활한 포켓몬이다.,215;포푸니;461;포푸니라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021501.png
+ 포푸니,격투;독,0.9,갈고리손톱,b,27,정신력;날카로운눈,단단한 갈고리손톱은 가파른 절벽을 오르기에 유리하다. 끄트머리에서 나오는 독액은 먹이를 잡을 때 신경에 침투한다.,215;포푸니;903;포푸니크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021502.png
+ 깜지곰,노말,0.6,아기곰,b,8.8,픽업;속보,세꿀버리를 몰래 뒤쫓아서 벌집을 찾아내고는 손바닥으로 꿀을 한가득 퍼먹는다.,216;깜지곰;217;링곰;901;다투곰,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021601.png
+ 링곰,노말,1.8,동면,b,125.8,근성;속보,"다부진 표정을 하고 있지만, 좋아하는 꿀을 핥을 때는 기쁜 나머지 입가가 절로 느슨해진다.",216;깜지곰;217;링곰;901;다투곰,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021701.png
+ 마그마그,불꽃,0.7,용암,b,35,마그마의무장;불꽃몸,용암으로 된 몸을 가지고 있다. 끊임없이 움직이지 않으면 몸이 식어 굳어져 버린다.,218;마그마그;219;마그카르고,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021801.png
+ 마그카르고,불꽃;바위,0.8,용암,b,55,마그마의무장;불꽃몸,체온은 약 10000도다. 마그마가 굳어 생긴 껍질의 틈새로부터 불꽃을 뿜어낸다.,218;마그마그;219;마그카르고,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/021901.png
+ 꾸꾸리,얼음;땅,0.4,산돼지,b,6.5,둔감;눈숨기,마른 풀 아래서 자란 버섯을 매우 좋아한다. 냄새로 버섯을 찾다가 온천을 발견할 때도 있다.,220;꾸꾸리;221;메꾸리;473;맘모꾸리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022001.png
+ 메꾸리,얼음;땅,1.1,멧돼지,b,55.8,둔감;눈숨기,긴 털로 덮여 있어서 눈이 보이지 않지만 민감한 코를 써서 주위의 상황을 안다.,220;꾸꾸리;221;메꾸리;473;맘모꾸리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022101.png
+ 코산호,물;바위,0.6,산호,b,5,의욕;자연회복,남쪽의 깨끗한 바다에는 많은 코산호가 있다. 더러워진 바다에서는 살 수 없다.,222;코산호;222;코산호,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022201.png
+ 코산호,고스트,0.6,산호,b,0.5,깨어진갑옷,먼 옛날에 바다였던 곳에 흔하게 굴러다닌다. 돌멩이로 착각해서 걷어차면 화를 입는다.,222;코산호;864;산호르곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022202.png
+ 총어,물,0.6,분사,b,12,의욕;스나이퍼,입에서 물을 발사하여 하늘을 나는 먹이를 맞혀 떨어뜨린다고 해서 이 이름이 붙여졌다.,223;총어;224;대포무노,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022301.png
+ 대포무노,물,0.9,분사,b,28.5,흡반;스나이퍼,해저의 바위 그늘이나 구멍을 거처로 해서 산다. 빨판으로 먹이에 달라붙어 놓치지 않는다.,223;총어;224;대포무노,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022401.png
+ 딜리버드,얼음;비행,0.9,배달,b,16,의기양양;의욕,온종일 먹이를 운반한다. 조난당한 사람이 딜리버드의 먹이로 살아났다는 이야기도 있다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022501.png
+ 만타인,물;비행,2.1,연,b,220,쓱쓱;저수,파도가 조용할 때는 드넓은 창해를 나는 듯이 헤엄치는 만타인의 무리와 조우한다.,458;타만타;226;만타인,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022601.png
+ 무장조,강철;비행,1.7,갑옷새,b,50.5,날카로운눈;옹골참,철 같은 단단한 갑옷으로 덮여 있다. 시속 300km의 스피드로 넓은 하늘을 날아다닌다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022701.png
+ 델빌,악;불꽃,0.6,다크,b,10.8,일찍기상;타오르는불꽃,수많은 울음소리를 가려 써서 동료들과 의사소통을 하며 사냥을 하는 지능을 가지고 있다.,228;델빌;229;헬가,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022801.png
+ 헬가,악;불꽃,1.4,다크,b,35,일찍기상;타오르는불꽃,입에서 뿜어내는 불꽃에 의해 화상을 입으면 시간이 아무리 지나도 상처 난 자리가 욱신거린다.,228;델빌;229;헬가,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022901.png
+ 메가헬가,악;불꽃,1.9,다크,b,49.5,선파워,헬가가 으스스하게 멀리서 짖으면 지옥에서 사신이 부르는 소리라고 옛날 사람들은 상상하고 있었다.,228;델빌;229;헬가,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/022902.png
+ 킹드라,물;드래곤,1.8,드래곤,b,152,쓱쓱;스나이퍼,해저 동굴에 살고 있다. 킹드라가 움직이면 거대한 소용돌이가 생겨난다.,116;쏘드라;117;시드라;230;킹드라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/023001.png
+ 코코리,땅,0.5,긴코,b,33.5,픽업,냇가에 굴을 파고 산다. 흙장난을 한 뒤에 몸을 씻지 못하면 안절부절못하기 때문이다.,231;코코리;232;코리갑,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/023101.png
+ 코리갑,땅,1.1,갑옷,b,120,옹골참,튼튼한 피부로 둘러싸여 있기 때문에 차에 부딪혀도 끄떡없다. 그러나 비에는 매우 약하다.,231;코코리;232;코리갑,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/023201.png
+ 폴리곤2,노말,0.6,가상,u,32.5,트레이스;다운로드,행성 개발용 프로그램이 인스톨되어 있다. 우주와 같은 진공 공간에서도 활동할 수 있다.,137;폴리곤;233;폴리곤2;474;폴리곤Z,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/023301.png
+ 노라키,노말,1.4,큰뿔,b,71.2,위협;통찰,옛날에는 가혹한 환경에서 살았기 때문에 오늘날보다도 사이코 파워가 강력했다고 전해진다.,234;노라키;899;신비록,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/023401.png
+ 루브도,노말,1.2,그림장이,b,58,마이페이스;테크니션,꼬리를 붓처럼 써서 영역에 마크를 그린다. 그 종류는 5000개 이상이다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/023501.png
+ 배루키,격투,0.7,싸움,m,21,근성;불굴의마음,툭하면 싸우려 드는 것으로 유명하다. 자신보다 큰 상대에게 도전하므로 상처가 끊이지 않는다.,236;배루키;106;시라소몬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/023601.png
+ 카포에라,격투,1.4,물구나무,m,48,위협;테크니션,팽이처럼 회전하면서 싸운다. 원심력의 파워로 파괴력은 10배다.,236;배루키;106;시라소몬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/023701.png
+ 뽀뽀라,얼음;에스퍼,0.4,뽀뽀,f,6,둔감;예지몽,무엇이든 입술로 건드려 보고 확인한다. 좋아하는 것도 싫어하는 것도 입술이 기억하고 있다.,238;뽀뽀라;124;루주라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/023801.png
+ 에레키드,전기,0.6,전류,b,23.5,정전기,양팔을 빙글빙글 휘둘러서 전기를 발생시킨다. 그러나 만들어 낸 전기는 모아 둘 수 없다.,239;에레키드;125;에레브;466;에레키블,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/023901.png
+ 마그비,불꽃,0.7,불씨,b,21.4,불꽃몸,체온은 약 600도다. 입에서 노란 불꽃을 내고 있으면 건강하다는 증거다.,240;마그비;126;마그마;467;마그마번,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/024001.png
+ 밀탱크,노말,1.2,젖소,f,75.5,두꺼운지방;배짱,밀탱크의 우유를 마시고 자란 아이는 건강하고 강인한 어른이 된다고 한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/024101.png
+ 해피너스,노말,1.5,행복,f,46.8,자연회복;하늘의은총,해피너스가 낳은 알을 한 입이라도 먹은 사람은 누구에게나 상냥해진다.,440;핑복;113;럭키;242;해피너스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/024201.png
+ 라이코,전기,1.9,우레,u,178,프레셔,번개와 함께 떨어졌다고 전해진다. 등의 비구름에서 번개를 뿜어낼 수 있다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/024301.png
+ 앤테이,불꽃,2.1,화산,u,198,프레셔,앤테이가 울부짖으면 세계 어딘가의 화산이 분화한다고 전해진다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/024401.png
+ 스이쿤,물,2,오로라,u,187,프레셔,세계 곳곳을 뛰어다니며 오염된 물을 정화시킨다. 북풍과 함께 떠나간다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/024501.png
+ 애버라스,바위;땅,0.6,바위표면,b,72,근성,땅속 깊은 곳에서 태어나 산을 이룰 정도의 흙을 먹고 나면 몸을 만들기 위해 번데기가 된다.,246;애버라스;247;데기라스;248;마기라스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/024601.png
+ 데기라스,바위;땅,1.2,탄환,b,152,탈피,체내에서 압축한 가스를 기세 좋게 분출시켜 날며 난동을 피우는 번데기.,246;애버라스;247;데기라스;248;마기라스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/024701.png
+ 마기라스,바위;악,2,갑옷,b,202,모래날림,주변 지형을 바꾸는 정도쯤은 쉽게 해낼 정도의 힘을 가지고 있다. 주위를 신경 쓰지 않는 대담한 성격.,246;애버라스;247;데기라스;248;마기라스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/024801.png
+ 메가마기라스,바위;악,2.5,갑옷,b,255,모래날림,한쪽 팔을 움직이는 것만으로도 산을 무너뜨리고 땅을 울리게 하는 엄청난 힘을 감추고 있다.,246;애버라스;247;데기라스;248;마기라스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/024802.png
+ 루기아,에스퍼;비행,5.2,잠수,u,216,프레셔,깊은 해구의 밑바닥에서 잠잔다. 루기아가 날갯짓을 하면 40일 동안 폭풍우가 계속된다고 전해진다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/024901.png
+ 칠색조,불꽃;비행,3.8,무지개색,u,199,프레셔,무지개색 날개를 가지고 있다. 칠색조를 본 사람은 영원한 행복이 약속된다고 한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025001.png
+ 세레비,에스퍼;풀,0.6,시간이동,u,5,자연회복,시간을 넘어 여기저기를 방황한다. 세레비가 모습을 나타낸 숲은 초목이 무성해진다고 한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025101.png
+ 나무지기,풀,0.5,숲도마뱀,b,5,심록,발바닥에는 작은 가시가 많이 달렸기 때문에 벽이나 천장을 걸을 수 있다.,252;나무지기;253;나무돌이;254;나무킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025201.png
+ 나무돌이,풀,0.9,숲도마뱀,b,21.6,심록,밀림에 서식한다. 가지에서 가지로 뛰어 옮겨 가며 이동해서 먹이에 접근한다.,252;나무지기;253;나무돌이;254;나무킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025301.png
+ 나무킹,풀,1.7,밀림,b,52.2,심록,팔에 자란 잎사귀는 큰 나무도 싹둑 베어 넘어뜨릴 정도다. 밀림의 싸움에서는 무적이다.,252;나무지기;253;나무돌이;254;나무킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025401.png
+ 메가나무킹,풀;드래곤,1.9,밀림,b,55.2,피뢰침,팔에 자란 잎사귀는 큰 나무도 싹둑 베어 넘어뜨리는 정도다. 밀림의 싸움에서는 무적이다.,252;나무지기;253;나무돌이;254;나무킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025402.png
+ 아차모,불꽃,0.4,풋내기,b,2.5,맹화,체내에 불꽃이 타오르고 있어 껴안으면 무척 따뜻하다. 1000도의 불구슬을 날린다.,255;아차모;256;영치코;257;번치코,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025501.png
+ 영치코,불꽃;격투,0.9,꼬마닭,b,19.5,맹화,1초에 킥을 10번 날릴 정도로 발을 사용하는 기술에 능하다. 날카로운 울음소리로 위협한다.,255;아차모;256;영치코;257;번치코,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025601.png
+ 번치코,불꽃;격투,1.9,맹화,b,52,맹화,손목에서 뿜어낸 불꽃으로 주먹을 둘러싼 펀치는 상대를 까맣게 태워 버린다.,255;아차모;256;영치코;257;번치코,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025701.png
+ 메가번치코,불꽃;격투,1.9,맹화,b,52,가속,30층 빌딩을 점프로 넘는 점프력을 가졌다. 불꽃펀치가 상대를 태운다.,255;아차모;256;영치코;257;번치코,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025702.png
+ 물짱이,물,0.4,늪물고기,b,7.6,급류,머리의 지느러미로 물의 흐름을 느껴 주위의 상황을 파악한다. 바위를 들어 올릴 정도로 힘이 세다.,258;물짱이;259;늪짱이;260;대짱이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025801.png
+ 늪짱이,물;땅,0.7,늪물고기,b,28,급류,발밑이 질퍽거려도 잘 걸을 수 있는 튼튼한 다리를 가졌다. 진흙에 몸을 묻고 잠잔다.,258;물짱이;259;늪짱이;260;대짱이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/025901.png
+ 대짱이,물;땅,1.5,늪물고기,b,81.9,급류,큰 배를 끌며 헤엄치는 파워의 소유자이다. 굵은 팔을 한 번 휘둘러 상대를 때려눕힌다.,258;물짱이;259;늪짱이;260;대짱이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026001.png
+ 메가대짱이,물;땅,1.9,늪물고기,b,102,쓱쓱,돌처럼 딱딱한 팔을 한 번 휘두르는 것만으로 거대한 돌을 조각조각으로 부순다.,258;물짱이;259;늪짱이;260;대짱이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026002.png
+ 포챠나,악,0.5,물어뜯기,b,13.6,도주;속보,집요한 성격의 포켓몬이다. 점찍은 먹이가 기진맥진 지칠 때까지 뒤쫓아 간다.,261;포챠나;262;그라에나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026101.png
+ 그라에나,악,1,물어뜯기,b,37,위협;속보,무리를 이루어 먹이를 바싹 몰아넣는다. 우수한 트레이너의 명령에는 절대로 거역하지 않는다.,261;포챠나;262;그라에나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026201.png
+ 지그제구리,노말,0.4,앙증너구리,b,17.5,픽업;먹보,지그재그로 걸어서 풀숲이나 땅에 묻혀 있는 보물을 찾아내는 것이 특기인 포켓몬이다.,263;지그제구리;264;직구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026301.png
+ 지그제구리,악;노말,0.4,앙증너구리,b,17.5,픽업;먹보,정신없이 뛰어다닌다. 다른 포켓몬을 발견하면 일부러 부딪혀서 싸움을 건다.,263;지그제구리;264;직구리;862;가로막구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026302.png
+ 직구리,노말,0.5,돌진,b,32.5,픽업;먹보,시속 100km로 먹이를 덮치지만 직선으로만 달릴 수 있어서 실패할 때도 많다.,263;지그제구리;264;직구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026401.png
+ 직구리,악;노말,0.5,돌진,b,32.5,픽업;먹보,긴 혀로 먹잇감을 도발한다. 화가 난 상대에게 강렬한 태클을 선사한다.,263;지그제구리;264;직구리;862;가로막구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026402.png
+ 개무소,벌레,0.3,애벌레,b,3.6,인분,잎사귀를 매우 좋아한다. 찌르꼬에게 습격당했을 때는 엉덩이의 가시로 물리친다.,265;개무소;266;실쿤;267;뷰티플라이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026501.png
+ 실쿤,벌레,0.6,번데기,b,10,탈피,몸에서 나오는 실을 가지에 휘감아서 떨어지지 않게 고정한다. 가만히 꼼짝 않고 진화를 기다린다.,265;개무소;266;실쿤;267;뷰티플라이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026601.png
+ 뷰티플라이,벌레;비행,1,나비,b,28.4,벌레의알림,가늘고 긴 입을 깊이 찔러 상대의 체액을 흡수한다. 공격적인 성격이다.,265;개무소;266;실쿤;267;뷰티플라이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026701.png
+ 카스쿤,벌레,0.7,번데기,b,11.5,탈피,고치 안은 온도가 높다. 그 안에서 전신의 세포가 진화의 에너지를 만들어 낸다.,265;개무소;266;실쿤;267;뷰티플라이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026801.png
+ 독케일,벌레;독,1.2,독나방,b,31.6,인분,야행성 포켓몬이다. 불빛에 이끌려 나온 독케일이 가로수의 잎을 헤적거리며 먹어 댄다.,265;개무소;266;실쿤;267;뷰티플라이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/026901.png
+ 연꽃몬,물;풀,0.5,개구리밥,b,2.6,쓱쓱;젖은접시,수초를 똑 닮은 포켓몬이다. 헤엄을 못 치는 포켓몬을 잎사귀에 태워 건너편 물가까지 운반한다.,270;연꽃몬;271;로토스;272;로파파,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/027001.png
+ 로토스,물;풀,1.2,명랑함,b,32.5,쓱쓱;젖은접시,낚시꾼을 발견하면 물속에서 낚싯줄을 잡아당겨 방해하는 것을 좋아하는 장난꾸러기다.,270;연꽃몬;271;로토스;272;로파파,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/027101.png
+ 로파파,물;풀,1.5,행복하기,b,55,쓱쓱;젖은접시,경쾌한 음악을 들으면 몸속의 힘이 넘쳐흘러 춤추지 않고는 견딜 수 없게 된다.,270;연꽃몬;271;로토스;272;로파파,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/027201.png
+ 도토링,풀,0.5,도토리,b,4,엽록소;일찍기상,가지에 매달려 있으면 나무열매와 똑 닮았다. 쪼아 먹으려 한 포켓몬을 놀래 주며 좋아한다.,273;도토링;274;잎새코;275;다탱구,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/027301.png
+ 잎새코,풀;악,1,꾀부리기,b,28,엽록소;일찍기상,잎새코가 연주하는 풀피리의 음색은 사람을 불안하게 만든다. 숲속에서 살고 있다.,273;도토링;274;잎새코;275;다탱구,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/027401.png
+ 다탱구,풀;악,1.3,부정하기,b,59.6,엽록소;일찍기상,잎사귀 부채를 부치면 풍속 30m의 돌풍이 일어나 민가를 날려 버린다.,273;도토링;274;잎새코;275;다탱구,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/027501.png
+ 테일로,노말;비행,0.3,아기제비,b,2.3,근성,강한 상대에게도 용감히 맞서는 근성의 소유자다. 따뜻한 땅을 찾아서 난다.,276;테일로;277;스왈로,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/027601.png
+ 스왈로,노말;비행,0.7,제비,b,19.8,근성,상공을 선회하면서 먹이를 찾으면 거꾸로 급강하하여 낚아 챈다.,276;테일로;277;스왈로,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/027701.png
+ 갈모매,물;비행,0.6,괭이갈매기,b,9.5,날카로운눈;촉촉바디,상승 기류를 타고 글라이더처럼 넓은 하늘을 돌며 부리로 집은 먹이를 운반한다.,278;갈모매;279;패리퍼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/027801.png
+ 패리퍼,물;비행,1.2,물새,b,28,날카로운눈;잔비,부리에 작은 포켓몬을 넣고 나는 하늘의 배달부. 바다 위에 떠서 날개를 쉬어 주기도 한다.,278;갈모매;279;패리퍼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/027901.png
+ 랄토스,에스퍼;페어리,0.4,느낌,b,6.6,싱크로;트레이스,사람의 감정을 머리의 빨간 뿔로 민감하게 감지하는 힘을 가졌다.,280;랄토스;281;킬리아;282;가디안,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/028001.png
+ 킬리아,에스퍼;페어리,0.8,감정,b,20.2,싱크로;트레이스,사이코 파워를 조작해 주변의 공간을 일그러뜨려 미래를 내다볼 수 있다.,280;랄토스;281;킬리아;282;가디안,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/028101.png
+ 가디안,에스퍼;페어리,1.6,포용,b,48.4,싱크로;트레이스,트레이너를 지키기 위해서라면 사이코 파워를 모두 써서 작은 블랙홀을 만들어 낸다.,280;랄토스;281;킬리아;282;가디안,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/028201.png
+ 메가가디안,에스퍼;페어리,1.6,포용,b,48.4,페어리스킨,트레이너를 지키기 위해서라면 사이코 파워를 모두 써서 작은 블랙홀을 만들어 낸다.,280;랄토스;281;킬리아;282;가디안,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/028202.png
+ 비구술,벌레;물,0.5,소금쟁이,b,1.7,쓱쓱,보통은 연못에서 살고 있지만 소나기가 온 뒤에는 마을 안의 물웅덩이에 모습을 드러낸다.,283;비구술;284;비나방,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/028301.png
+ 비나방,벌레;비행,0.8,안구,b,3.6,위협,4장의 날개로 떠올라 전후좌우 자유자재로 날아다닐 수 있다.,283;비구술;284;비나방,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/028401.png
+ 버섯꼬,풀,0.4,버섯,b,4.5,포자;포이즌힐,습한 장소를 좋아해서 낮에는 숲의 그늘에서 가만히 있는다. 머리에서 독 가루를 뿌린다.,285;버섯꼬;286;버섯모,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/028501.png
+ 버섯모,풀;격투,1.2,버섯,b,39.2,포자;포이즌힐,독 포자를 뿌려 들이마시고 괴로워하는 상대에게 강렬한 펀치를 날린다.,285;버섯꼬;286;버섯모,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/028601.png
+ 게을로,노말,0.8,게으름뱅이,b,24,게으름,하루 중 20시간을 잔다. 보고 있는 상대의 졸음을 유도하는 것도 가지고 있는 능력 중 하나.,287;게을로;288;발바로;289;게을킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/028701.png
+ 발바로,노말,1.4,성난원숭이,b,46.5,의기양양,몸을 움직이지 않으면 스트레스가 너무 쌓여서 상태가 나빠져 버린다.,287;게을로;288;발바로;289;게을킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/028801.png
+ 게을킹,노말,2,나태,b,130.5,게으름,세계에서 제일 게으르지만 쌓인 에너지를 한 번에 표출하면 무서울 정도의 파워를 발휘한다.,287;게을로;288;발바로;289;게을킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/028901.png
+ 토중몬,벌레;땅,0.5,신참,b,5.5,복안,땅 밑에서 성장한다. 거의 보이지 않는 눈 대신 더듬이로 상황을 살핀다.,290;토중몬;291;아이스크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/029001.png
+ 아이스크,벌레;비행,0.8,시노비,b,12,가속,매우 고속으로 움직이므로 모습이 보이지 않게 될 때가 있다. 수액에 모여든다.,290;토중몬;291;아이스크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/029101.png
+ 껍질몬,벌레;고스트,0.8,허물,u,1.2,불가사의부적,허물 속으로 영혼이 들어갔다. 등에 난 틈새로 들여다보면 영혼을 빼앗겨 버린다고 한다.,290;토중몬;291;아이스크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/029201.png
+ 소곤룡,노말,0.6,속삭임,b,16.3,방음,평소에는 속삭이는 듯한 울음소리를 낸다. 불안해지면 제트기와 같은 음량으로 울어 댄다.,293;소곤룡;294;노공룡;295;폭음룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/029301.png
+ 노공룡,노말,1,큰목소리,b,40.5,방음,큰 소리의 충격파로 트럭을 뒤집어 버린다. 발을 쿵쾅거리며 파워를 올린다.,293;소곤룡;294;노공룡;295;폭음룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/029401.png
+ 폭음룡,노말,1.5,소음,b,84,방음,폭음룡이 울부짖는 소리는 10km 전방까지 닿는다. 몸 곳곳의 구멍에서 갖가지 소리를 낸다.,293;소곤룡;294;노공룡;295;폭음룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/029501.png
+ 마크탕,격투,1,근성,b,86.4,두꺼운지방;근성,힘든 수행을 반복하며 강해진다. 어떤 공격도 참아 내는 근성의 포켓몬이다.,296;마크탕;297;하리뭉,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/029601.png
+ 하리뭉,격투,2.3,손바닥치기,b,253.8,두꺼운지방;근성,힘겨루기를 매우 좋아한다. 달리는 열차를 손바닥치기로 멈추게 하는 파워를 가졌다.,296;마크탕;297;하리뭉,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/029701.png
+ 루리리,노말;페어리,0.2,물방울,b,2,두꺼운지방;천하장사,고무공처럼 잘 튀는 꼬리를 휘두르며 자신보다도 커다란 상대에게 맞선다.,298;루리리;183;마릴;184;마릴리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/029801.png
+ 코코파스,바위,1,컴퍼스,b,97,옹골참;자력,코가 자석으로 되어 있으므로 항상 북극 방향으로 얼굴을 향하고 있는 포켓몬이다.,299;코코파스;476;대코파스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/029901.png
+ 에나비,노말,0.6,작은고양이,b,11,헤롱헤롱바디;노말스킨,움직이는 것을 무심코 쫓아간다. 자신의 꼬리를 쫓아서 똑같은 장소를 빙글빙글 돈다.,300;에나비;301;델케티,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030001.png
+ 델케티,노말,1.1,새침떼기,b,32.6,헤롱헤롱바디;노말스킨,아름다운 털을 가지고 있어서 여성 트레이너들에게 매우 인기 있다. 정해진 거처를 갖고 있지 않다.,300;에나비;301;델케티,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030101.png
+ 깜까미,악;고스트,0.5,어둠,b,11,날카로운눈;시간벌기,어두운 동굴에 거처를 만들고 예리한 손톱을 써서 보석을 파내어 먹는다.,302;깜까미;302;메가깜까미,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030201.png
+ 메가깜까미,악;고스트,0.5,어둠,b,161,매직미러,메가진화의 영향을 받아서 거대화한 가슴의 보석은 어떤 공격도 튕겨낸다.,302;깜까미;302;메가깜까미,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030202.png
+ 입치트,강철;페어리,0.6,배반,b,11.5,괴력집게;위협,뿔이 변형되어 생긴 큰 턱이 머리에 달려 있다. 철골을 물어서 끊어 버린다.,303;입치트;303;메가입치트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030301.png
+ 메가입치트,강철;페어리,1,배반,b,23.5,천하장사,얌전한 얼굴로 상대를 방심하게 만들고 큰 턱으로 덥석 문다. 한번 물면 절대로 놓지 않는다.,303;입치트;303;메가입치트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030302.png
+ 가보리,강철;바위,0.4,철갑옷,b,60,옹골참;돌머리,평소에는 산속에서 살고 있지만 배가 고프면 산기슭에 나타나 선로나 차를 먹어 버린다.,304;가보리;305;갱도라;306;보스로라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030401.png
+ 갱도라,강철;바위,0.9,철갑옷,b,120,옹골참;돌머리,철광석을 파내어 먹는다. 강철의 몸을 서로 부딪치며 영역 싸움을 하는 습성이 있다.,304;가보리;305;갱도라;306;보스로라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030501.png
+ 보스로라,강철;바위,2.1,철갑옷,b,360,옹골참;돌머리,강철의 뿔로 단단한 암반을 무너뜨리며 식량이 되는 철을 찾아서 터널을 판다.,304;가보리;305;갱도라;306;보스로라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030601.png
+ 메가보스로라,강철,2.2,철갑옷,b,395,필터,산을 통째로 영역으로 한다. 상처가 많은 보스로라일수록 많이 싸웠다는 것이므로 얕볼 수 없다.,304;가보리;305;갱도라;306;보스로라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030602.png
+ 요가랑,격투;에스퍼,0.6,명상,b,11.2,순수한힘,매일 요가 수행을 거르지 않는다. 명상을 통해서 정신력을 높인다.,307;요가랑;308;요가램,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030701.png
+ 요가램,격투;에스퍼,1.3,명상,b,31.5,순수한힘,요가 수행으로 단련된 사이코 파워로 상대의 움직임을 예상할 수 있다.,307;요가랑;308;요가램,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030801.png
+ 메가요가램,격투;에스퍼,1.3,명상,b,31.5,순수한힘,춤추는 듯한 우아한 움직임으로 공격을 피하며 상대에게 강력한 일격을 선사한다.,307;요가랑;308;요가램,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030802.png
+ 썬더라이,전기,0.6,천둥번개,b,15.2,정전기;피뢰침,털에 모은 전기를 써서 근육을 자극함으로써 순발력을 높인다.,309;썬더라이;310;썬더볼트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/030901.png
+ 썬더볼트,전기,1.5,방전,b,40.2,정전기;피뢰침,갈기를 통해 전기를 방출한다. 머리 위에 번개 구름을 만들고 천둥 번개를 떨어뜨려 공격한다.,309;썬더라이;310;썬더볼트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031001.png
+ 메가썬더볼트,전기,1.8,방전,b,44,위협,좀처럼 사람 앞에 모습을 드러내지 않는다. 번개가 떨어진 곳에 보금자리가 있다고 한다.,309;썬더라이;310;썬더볼트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031002.png
+ 플러시,전기,0.4,응원,b,4.2,플러스,스파크를 톡톡 만들어 동료를 응원한다. 전신주에서 전기를 흡수한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031101.png
+ 마이농,전기,0.4,응원,b,4.2,마이너스,동료를 응원하는 습성이 있다. 질 것 같아지면 몸에서 내는 스파크의 수가 점점 늘어난다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031201.png
+ 볼비트,벌레,0.7,반딧불,m,17.7,발광;벌레의알림,밤이 되면 엉덩이를 빛나게 해 동료와 대화한다. 네오비트가 내는 달콤한 향기를 매우 좋아한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031301.png
+ 네오비트,벌레,0.6,반딧불,f,17.7,둔감;색안경,달콤한 향기로 볼비트를 유도해서 밤하늘에 빛의 사인을 그린다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031401.png
+ 로젤리아,풀;독,0.3,가시,b,2,자연회복;독가시,맑은 물을 마시고 자란 로젤리아는 산뜻한 색상의 꽃을 피우는 것으로 알려져 있다.,406;꼬몽울;315;로젤리아;407;로즈레이드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031501.png
+ 꼴깍몬,독,0.4,밥통,b,10.3,해감액;점착,무엇이든 소화하는 위를 가졌다. 소화할 때 발생하는 가스는 강렬한 악취가 난다.,316;꼴깍몬;317;꿀꺽몬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031601.png
+ 꿀꺽몬,독,1.7,독봉지,b,80,해감액;점착,입에 들어가는 크기의 것이라면 무엇이든 통째로 삼킨다. 특수한 위액으로 무엇이든 소화한다.,316;꼴깍몬;317;꿀꺽몬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031701.png
+ 샤프니아,물;악,0.8,사나움,b,20.8,까칠한피부,영역에 침입한 상대를 집단으로 공격한다. 날카로운 이빨은 보트의 밑바닥도 물어뜯는다.,318;샤프니아;319;샤크니아,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031801.png
+ 샤크니아,물;악,1.8,난폭,b,88.8,까칠한피부,철판도 물어뜯는 이빨을 가졌으며 헤엄치는 속도는 시속 120km다. 별명은 바다의 건달이다.,318;샤프니아;319;샤크니아,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031901.png
+ 메가샤크니아,물;악,2.5,난폭,b,130.3,옹골찬턱,머리에 돋아난 가시는 이빨이 변화한 것이다. 상처 입고 부러져도 그 자리에 몇 번이고 생겨난다.,318;샤프니아;319;샤크니아,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/031902.png
+ 고래왕자,물,2,둥근고래,b,130,수의베일;둔감,맑은 날에는 모래 해변에 올라가 공처럼 튀면서 논다. 코에서 물을 뿜어낸다.,320;고래왕자;321;고래왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/032001.png
+ 고래왕,물,14.5,뜸고래,b,398,수의베일;둔감,제일 큰 포켓몬이다. 숨을 들이쉬지 않고 3000m의 깊이까지 잠수할 수 있다.,320;고래왕자;321;고래왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/032101.png
+ 둔타,불꽃;땅,0.7,둔감,b,24,둔감;단순,1200도의 마그마가 체내에서 끓고 있다. 추워지면 마그마가 굳어서 움직임이 둔해진다.,322;둔타;323;폭타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/032201.png
+ 폭타,불꽃;땅,1.9,분화,b,220,마그마의무장;하드록,화산의 분화구에서 생활한다. 10년마다 등의 혹이 대분화하는 것으로 유명하다.,322;둔타;323;폭타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/032301.png
+ 메가폭타,불꽃;땅,2.5,분화,b,320.5,우격다짐,등의 혹 모양 화산은 10년마다 대분화하나 심하게 화가 나도 분화한다.,322;둔타;323;폭타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/032302.png
+ 코터스,불꽃,0.5,석탄,b,80.4,하얀연기;가뭄,등껍질 안에서 석탄을 태운다. 적에게 공격받으면 검은 연기를 흩뿌리고 도망친다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/032401.png
+ 피그점프,에스퍼,0.7,바운스,b,30.6,두꺼운지방;마이페이스,뛰어오르는 것을 멈추면 죽는다고 한다. 머리에 이고 있는 진주가 사이코 파워를 증폭시켜 준다.,325;피그점프;326;피그킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/032501.png
+ 피그킹,에스퍼,0.9,조작,b,71.5,두꺼운지방;마이페이스,상대를 조종할 때 사용하는 이상한 스텝은 옛날에 외국에서 크게 유행했던 적이 있다.,325;피그점프;326;피그킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/032601.png
+ 얼루기,노말,1.1,얼룩팬더,b,5,마이페이스;갈지자걸음,똑같은 얼룩무늬의 얼루기는 없다. 휘청휘청거리는 걸음걸이로 상대의 노림수를 피한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/032701.png
+ 톱치,땅,0.7,개미지옥,b,15,괴력집게;개미지옥,사막에 만든 원뿔형의 구멍 밑바닥에서 먹이가 빠져 떨어지는 것을 계속 기다린다.,328;톱치;329;비브라바;330;플라이곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/032801.png
+ 비브라바,땅;드래곤,1.1,진동,b,15.3,부유,날개를 격하게 진동시켜서 초음파를 낸다. 사람도 두통을 일으킬 정도로 강력하다.,328;톱치;329;비브라바;330;플라이곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/032901.png
+ 플라이곤,땅;드래곤,2,정령,b,82,부유,강렬한 날개의 움직임이 모래바람을 일으킨다. 사막의 정령이라고 불린다.,328;톱치;329;비브라바;330;플라이곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/033001.png
+ 선인왕,풀,0.4,선인장,b,51.3,모래숨기,사막 같은 혹독한 환경을 좋아한다. 몸속에 축적된 물로 30일간 살 수 있다.,331;선인왕;332;밤선인,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/033101.png
+ 밤선인,풀;악,1.3,허수아비,b,77.4,모래숨기,사막의 여행자 뒤를 집단으로 쫓아 지쳐 움직이지 못하기를 기다린다.,331;선인왕;332;밤선인,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/033201.png
+ 파비코,노말;비행,0.4,솜새,b,1.2,자연회복,솜 같은 날개를 손질하는 일은 절대 거르지 않는다. 더러워지면 물로 깨끗하게 씻는다.,333;파비코;334;파비코리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/033301.png
+ 파비코리,드래곤;비행,1.1,허밍,b,20.6,자연회복,마음이 서로 통한 사람이 있으면 부드럽고 아름다운 날개로 살짝 감싸고 허밍을 한다.,333;파비코;334;파비코리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/033401.png
+ 메가파비코리,드래곤;페어리,1.5,허밍,b,20.6,페어리스킨,넓은 하늘을 느긋하게 난다. 파비코리의 아름다운 콧노래를 들으면 황홀한 꿈을 꾸는 기분이다.,333;파비코;334;파비코리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/033402.png
+ 쟝고,노말,1.3,고양이족제비,b,40.3,면역,세비퍼와는 사연이 깊은 사이. 만나면 곧바로 앞발의 발톱을 펼쳐 위협한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/033501.png
+ 세비퍼,독,2.7,송곳뱀,b,52.5,탈피,단단한 바위로 칼날 같은 꼬리를 간다. 수풀에 숨어서 먹이에 접근한 다음 독 이빨로 공격한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/033601.png
+ 루나톤,바위;에스퍼,1,별똥별,u,168,부유,보름달의 밤이 되면 활발하게 활동하기 때문에 달의 변화와 관계있다고 전해진다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/033701.png
+ 솔록,바위;에스퍼,1.2,별똥별,u,154,부유,태양의 분신이라는 소문이 도는 신종 포켓몬이다. 몸을 회전시켜 빛을 발한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/033801.png
+ 미꾸리,물;땅,0.4,수염물고기,b,1.9,둔감;위험예지,2개의 수염은 민감한 레이더이다. 진흙으로 탁해진 물속에서도 먹이의 위치를 감지한다.,339;미꾸리;340;메깅,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/033901.png
+ 메깅,물;땅,0.9,수염물고기,b,23.6,둔감;위험예지,영역 의식이 매우 강하여 외부의 적이 다가오면 격렬하게 지면을 울리며 덤벼든다.,339;미꾸리;340;메깅,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/034001.png
+ 가재군,물,0.6,건달,b,11.5,괴력집게;조가비갑옷,어떤 환경에도 적응하는 강한 생명력의 소유자다. 집은 먹이는 놓치지 않는다.,341;가재군;342;가재장군,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/034101.png
+ 가재장군,물;악,1.1,불량배,b,32.8,괴력집게;조가비갑옷,연못에 사는 다른 포켓몬을 집게로 집어 들어 연못 밖으로 내던져 버리는 난동꾼이다.,341;가재군;342;가재장군,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/034201.png
+ 오뚝군,땅;에스퍼,0.5,토우,u,21.5,부유,한 다리로 회전하면서 이동한다. 고대 유적에서 발견된 희귀한 포켓몬이다.,343;오뚝군;344;점토도리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/034301.png
+ 점토도리,땅;에스퍼,1.5,토우,u,108,부유,고대의 진흙 인형이 괴이한 광선을 쬐어 생명이 깃들면서 포켓몬이 되었다.,343;오뚝군;344;점토도리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/034401.png
+ 릴링,바위;풀,1,바다나리,b,23.8,흡반,약 1억 년 전의 해저에서 살고 있던 고대의 포켓몬이다. 과학의 힘으로 부활했다.,345;릴링;346;릴리요,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/034501.png
+ 릴리요,바위;풀,1.5,바위단지,b,60.4,흡반,따뜻한 바다의 얕은 곳에 있다. 바닷물이 빠지면 모래 해변에 숨어 있는 먹이를 파내어 먹는다.,345;릴링;346;릴리요,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/034601.png
+ 아노딥스,바위;벌레,0.7,고대새우,b,12.5,전투무장,화석에서 부활한 포켓몬의 조상 중 하나. 바다에서 살고 발톱으로 먹이를 잡는다.,347;아노딥스;348;아말도,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/034701.png
+ 아말도,바위;벌레,1.5,갑주,b,68.2,전투무장,진화하여 지상에서 살게 되었다. 전신이 튼튼한 갑옷으로 덮여 있다.,347;아노딥스;348;아말도,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/034801.png
+ 빈티나,물,0.6,물고기,b,7.4,쓱쓱;둔감,볼품없는 모습으로 유명하다. 서식 수는 많지만 한군데 모여 있는 습성이 있다.,349;빈티나;350;밀로틱,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/034901.png
+ 밀로틱,물,6.2,사랑,b,162,이상한비늘;승기,사람들이 싸움을 시작하면 호수 깊은 곳에서 나타나 거칠어진 마음을 가라앉힌다고 한다.,349;빈티나;350;밀로틱,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035001.png
+ 캐스퐁,노말,0.3,날씨,b,0.8,기분파,날씨에 따라서 모습이 바뀐다. 최근 발견된 바에 따르면 물의 분자와 똑 닮았다고 한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035101.png
+ 켈리몬,노말,1,색변화,b,22,변색,몸의 색을 자유롭게 바꾸는 능력을 가지고 있다. 배에 있는 톱니무늬만은 바뀌지 않는다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035201.png
+ 어둠대신,고스트,0.6,인형,b,2.3,불면;통찰,원한이나 질투 같은 감정이 좋아하는 먹이다. 뾰족하게 솟은 뿔이 인간의 기분을 감지해 낸다.,353;어둠대신;354;다크펫,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035301.png
+ 다크펫,고스트,1.1,봉제인형,b,12.5,불면;통찰,버려진 인형에 원념이 깃들어 포켓몬이 되었다. 어둑한 뒷골목에서 발견된다.,353;어둠대신;354;다크펫,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035401.png
+ 메가다크펫,고스트,1.2,봉제인형,b,13,짓궂은마음,버려진 인형에 원념이 깃들어 포켓몬이 되었다. 자신을 버린 아이를 찾고 있다.,353;어둠대신;354;다크펫,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035402.png
+ 해골몽,고스트,0.8,마중,b,15,부유,어디까지라도 먹이를 쫓아가는 집념이 강한 성격이지만 아침 해가 떠오르면 포기한다.,355;해골몽;356;미라몽;477;야느와르몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035501.png
+ 미라몽,고스트,1.6,손짓,b,30.6,프레셔,몸 안은 빈 공간으로 이루어져 있어서 들여다본 상대를 빨아들여 버린다고 전해진다.,355;해골몽;356;미라몽;477;야느와르몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035601.png
+ 트로피우스,풀;비행,2,후르츠,b,100,엽록소;선파워,열대 정글에 서식한다. 목에 달린 송이는 달고 맛있다. 1년에 2번 열매를 맺는다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035701.png
+ 치렁,에스퍼,0.6,풍경,b,1,부유,울음소리로 공기를 진동시켜 상대를 날려 버린다. 7종류의 목소리로 동료와 대화한다.,433;랑딸랑;358;치렁,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035801.png
+ 앱솔,악,1.2,재난,b,47,프레셔;대운,재해의 위험을 감지한다. 위험을 알리는 때에만 사람 앞에 나타난다고 한다.,359;앱솔;359;메가앱솔,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035901.png
+ 메가앱솔,악,1.2,재난,b,49,매직미러,날개처럼 곤두선 털을 날갯짓하며 상대를 위압하는 오라를 뿜어낸다.,359;앱솔;359;메가앱솔,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/035902.png
+ 마자,에스퍼,0.6,명랑,b,14,그림자밟기,동료들과 밀어내기 놀이를 하면서 인내심이 강한 성격으로 자란다. 달콤한 과일을 매우 좋아한다.,360;마자;202;마자용,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/036001.png
+ 눈꼬마,얼음,0.7,눈우산,b,16.8,정신력;아이스바디,커다란 잎사귀 아래서 여러 마리의 눈꼬마가 모여 사이좋게 살고 있다고 한다.,361;눈꼬마;362;얼음귀신,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/036101.png
+ 얼음귀신,얼음,1.5,얼굴,b,256.5,정신력;아이스바디,커다란 입에서 뿜는 냉기로 먹이는 한순간에 꽁꽁. 그대로 아드득아드득 잡아먹는다.,361;눈꼬마;362;얼음귀신,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/036201.png
+ 메가얼음귀신,얼음,2.1,얼굴,b,350.2,프리즈스킨,과잉 메가진화 에너지가 입에서 넘쳐 턱이 빠졌다. 항상 눈보라를 내뿜고 있다.,361;눈꼬마;362;얼음귀신,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/036202.png
+ 대굴레오,얼음;물,0.8,손뼉,b,39.5,두꺼운지방;아이스바디,유빙의 위를 데굴데굴 굴러서 해안에 다다른다. 헤엄치기에는 불편한 체형이다.,363;대굴레오;364;씨레오;365;씨카이저,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/036301.png
+ 씨레오,얼음;물,1.1,공돌리기,b,87.6,두꺼운지방;아이스바디,무엇이든 코 위에서 돌리는 버릇을 가지고 있다. 돌리면서 냄새나 감촉을 기억한다.,363;대굴레오;364;씨레오;365;씨카이저,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/036401.png
+ 씨카이저,얼음;물,1.4,얼음깨기,b,150.6,두꺼운지방;아이스바디,큰 얼음을 이빨로 부순다. 두꺼운 지방은 추위뿐만 아니라 상대의 공격도 이겨 낸다.,363;대굴레오;364;씨레오;365;씨카이저,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/036501.png
+ 진주몽,물,0.4,두조개,b,52.5,조가비갑옷,평생동안 하나만 만드는 진주는 사이코 파워를 증폭시키는 작용을 한다고 한다.,366;진주몽;367;헌테일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/036601.png
+ 헌테일,물,1.7,깊은바다,b,27,쓱쓱,심해에 서식하는 포켓몬이다. 작은 물고기 형태를 한 꼬리로 먹이를 유인하여 붙잡는다.,366;진주몽;367;헌테일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/036701.png
+ 분홍장이,물,1.8,남해,b,22.6,쓱쓱,바다의 밑바닥에 살고 있지만 봄이 되면 몸의 분홍색이 웬일인지 선명하게 물든다.,366;진주몽;367;헌테일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/036801.png
+ 시라칸,물;바위,1,장수,b,23.4,쓱쓱;돌머리,심해 조사에서 발견된 희귀한 포켓몬이다. 1억 년 동안 모습이 바뀌지 않았다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/036901.png
+ 사랑동이,물,0.6,랑데부,b,8.7,쓱쓱,하트 모양이 인기가 많다. 좋아하는 사람에게 사랑동이를 보내는 풍습이 남아 있는 곳이 있다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037001.png
+ 아공이,드래곤,0.6,돌머리,b,42.1,돌머리,강철에 비견될 정도로 단단한 머리는 바위도 산산조각을 내 버린다. 날개가 자라기를 계속해서 기다린다.,371;아공이;372;쉘곤;373;보만다,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037101.png
+ 쉘곤,드래곤,1.1,인내,b,110.5,돌머리,껍질 안에서는 폭발적인 스피드로 세포가 변화하며 진화의 준비를 하고 있다.,371;아공이;372;쉘곤;373;보만다,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037201.png
+ 보만다,드래곤;비행,1.5,드래곤,b,102.6,위협,드디어 자라난 날개로 넓은 하늘을 날아다닌다. 기쁜 마음에 화염을 뿜어 일대를 불태워 버린다.,371;아공이;372;쉘곤;373;보만다,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037301.png
+ 메가보만다,드래곤;비행,1.8,드래곤,b,112.6,스카이스킨,칼날처럼 날카로운 날개로 가는 곳을 가로막은 모든 것을 두 동강 내고 계속 날아다닌다.,371;아공이;372;쉘곤;373;보만다,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037302.png
+ 메탕,강철;에스퍼,0.6,철공,u,95.2,클리어바디,자력의 파장으로 동료와 대화한다. 무리를 지은 메탕은 한 치의 흐트러짐 없이 움직인다.,374;메탕;375;메탕구;376;메타그로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037401.png
+ 메탕구,강철;에스퍼,1.2,철발톱,u,202.5,클리어바디,2마리의 메탕이 합체했다. 강철의 몸은 제트기와 충돌해도 상처 입지 않는다.,374;메탕;375;메탕구;376;메타그로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037501.png
+ 메타그로스,강철;에스퍼,1.6,무쇠다리,u,550,클리어바디,메탕구가 합체해서 생겨났다. 4개의 뇌를 가진 메타그로스는 슈퍼컴퓨터 수준의 지능이다.,374;메탕;375;메탕구;376;메타그로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037601.png
+ 메가메타그로스,강철;에스퍼,2.5,무쇠다리,u,942.9,단단한발톱,1마리의 메타그로스와 1마리의 메탕구와 2마리의 메탕이 연결된 모습이다.,374;메탕;375;메탕구;376;메타그로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037602.png
+ 레지락,바위,1.7,바위산,u,230,클리어바디,전신이 바위로 되어 있다. 싸움으로 몸이 깨어져도 바위를 붙여서 치료해 버린다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037701.png
+ 레지아이스,얼음,1.8,빙산,u,175,클리어바디,빙하기에 생겨난 얼음으로 몸이 만들어져 있다. 마이너스 200도의 냉기를 다룬다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037801.png
+ 레지스틸,강철,1.9,쇠철,u,205,클리어바디,몇만 년 동안 지하의 압력에 의해서 단련된 금속의 몸은 상처 하나 입지 않는다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/037901.png
+ 라티아스,드래곤;에스퍼,1.4,무한,f,40,부유,빛을 굴절시키는 깃털로 전신을 둘러싸 모습을 보이지 않게 하는 능력을 가지고 있다.,380;라티아스;380;메가라티아스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038001.png
+ 메가라티아스,드래곤;에스퍼,1.8,무한,f,52,부유,텔레파시로 마음이 통한다. 빛을 굴절시키는 깃털로 몸을 둘러싸 모습을 지운다.,380;라티아스;380;메가라티아스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038002.png
+ 라티오스,드래곤;에스퍼,2,무한,m,60,부유,높은 지능을 가진 포켓몬이다. 팔을 접어 날면 제트기를 추월할 만큼 빠르다.,381;라티오스;381;메가라티오스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038101.png
+ 메가라티오스,드래곤;에스퍼,2.3,무한,m,70,부유,높은 지능을 가진 포켓몬이다. 팔을 접어 날면 제트기를 추월할 만큼 빠르다.,381;라티오스;381;메가라티오스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038102.png
+ 가이오가,물,4.5,해저,u,352,잔비,많은 비를 내리게 하는 능력으로 바다를 넓혔다고 전해진다. 해구의 밑바닥에서 잠들어 있었다.,382;가이오가;382;원시가이오가,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038201.png
+ 원시가이오가,물,9.8,해저,u,430,시작의바다,많은 비와 큰 해일로 바다를 넓힌 신화의 포켓몬이다. 그란돈과 격하게 싸웠다.,382;가이오가;382;원시가이오가,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038202.png
+ 그란돈,땅,3.5,대륙,u,950,가뭄,먼 옛날 가이오가와 사투를 벌인 후 지하 마그마 속에서 잠들어 있던 포켓몬이다.,383;그란돈;383;원시그란돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038301.png
+ 원시그란돈,땅;불꽃,5,대륙,u,999.7,끝의대지,고열로 물을 증발시켜 대지를 넓혔다고 전해진다. 가이오가와 격하게 싸웠다.,383;그란돈;383;원시그란돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038302.png
+ 레쿠쟈,드래곤;비행,7,천공,u,206.5,에어록,구름보다 아득히 먼 위의 오존층에 서식하고 있기 때문에 지상에서 모습을 볼 수 없다.,384;레쿠쟈;384;메가레쿠쟈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038401.png
+ 메가레쿠쟈,드래곤;비행,10.8,천공,u,392,델타스트림,구름보다 아득히 먼 위의 오존층에 서식하고 있기 때문에 지상에서 모습을 볼 수 없다.,384;레쿠쟈;384;메가레쿠쟈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038402.png
+ 지라치,강철;에스퍼,0.3,희망사항,u,1.1,하늘의은총,1000년 중 7일 동안만 깨어나 모든 소원을 이루어 주는 능력을 발휘한다고 한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038501.png
+ 테오키스,에스퍼,1.7,DNA,u,60.8,프레셔,운석에 붙어 있던 우주 바이러스의 DNA가 변이하여 생겨난 포켓몬이다.,386;테오키스;386;테오키스;386;테오키스;No. 0386;테오키스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038601.png
+ 테오키스,에스퍼,1.7,DNA,u,60.8,프레셔,운석에 붙어 있던 우주 바이러스의 DNA가 변이하여 생겨난 포켓몬이다.,386;테오키스;386;테오키스;386;테오키스;No. 0386;테오키스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038602.png
+ 테오키스,에스퍼,1.7,DNA,u,60.8,프레셔,운석에 붙어 있던 우주 바이러스의 DNA가 변이하여 생겨난 포켓몬이다.,386;테오키스;386;테오키스;386;테오키스;No. 0386;테오키스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038603.png
+ 테오키스,에스퍼,1.7,DNA,u,60.8,프레셔,운석에 붙어 있던 우주 바이러스의 DNA가 변이하여 생겨난 포켓몬이다.,386;테오키스;386;테오키스;386;테오키스;No. 0386;테오키스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038604.png
+ 모부기,풀,0.4,어린잎,b,10.2,심록,흙으로 만들어진 등껍질은 물을 마시면 한층 단단해진다. 호수 근처에서 살고 있다.,387;모부기;388;수풀부기;389;토대부기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038701.png
+ 수풀부기,풀,1.1,나무숲,b,97,심록,숲속의 물가에서 산다. 낮에는 숲 밖으로 나와서 등껍질의 나무에 빛을 쬔다.,387;모부기;388;수풀부기;389;토대부기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038801.png
+ 토대부기,풀;땅,2.2,대륙,b,310,심록,작은 포켓몬들이 모여 움직이지 않는 토대부기의 등에서 둥지를 만들려고 하는 경우가 있다.,387;모부기;388;수풀부기;389;토대부기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/038901.png
+ 불꽃숭이,불꽃,0.5,꼬마원숭이,b,6.2,맹화,낭떠러지 절벽을 민첩하게 올라 바위산의 위에서 생활한다. 불꽃을 끄고 잠든다.,390;불꽃숭이;391;파이숭이;392;초염몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/039001.png
+ 파이숭이,불꽃;격투,0.9,개구쟁이,b,22,맹화,꼬리의 불꽃을 길게 늘여 몸을 커 보이게 해서 습격해 온 적에게 겁을 준다.,390;불꽃숭이;391;파이숭이;392;초염몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/039101.png
+ 초염몽,불꽃;격투,1.2,화염,b,55,맹화,양팔과 양다리를 활용한 특수한 격투 기술을 사용한다. 불꽃은 평생 꺼지지 않는다.,390;불꽃숭이;391;파이숭이;392;초염몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/039201.png
+ 팽도리,물,0.4,펭귄,b,5.2,급류,자존심이 강해서 사람에게 먹이를 얻는 것을 싫어한다. 긴 솜털이 추위를 막는다.,393;팽도리;394;팽태자;395;엠페르트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/039301.png
+ 팽태자,물,0.8,펭귄,b,23,급류,무리를 만들지 않고 혼자 생활한다. 어떤 팽태자라도 자신이 제일 훌륭하다고 생각하는 듯하다.,393;팽도리;394;팽태자;395;엠페르트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/039401.png
+ 엠페르트,물;강철,1.7,황제,b,84.5,급류,부리에서 늘어난 3개의 뿔은 강하다는 것을 증명한다. 리더의 뿔이 제일 크다.,393;팽도리;394;팽태자;395;엠페르트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/039501.png
+ 찌르꼬,노말;비행,0.3,찌르레기,b,2,날카로운눈,벌레포켓몬을 노리고 산과 들을 많은 무리로 날아다닌다. 울음소리가 무척 시끄럽다.,396;찌르꼬;397;찌르버드;398;찌르호크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/039601.png
+ 찌르버드,노말;비행,0.6,찌르레기,b,15.5,위협,자신의 약함을 잘 알고 있기에 항상 무리를 지어 살고 있다. 혼자가 되면 요란하게 운다.,396;찌르꼬;397;찌르버드;398;찌르호크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/039701.png
+ 찌르호크,노말;비행,1.2,맹금,b,24.9,위협,찌르호크가 되면 무리에서 떨어져 혼자서 살아간다. 강인한 날개를 가지고 있다.,396;찌르꼬;397;찌르버드;398;찌르호크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/039801.png
+ 비버니,노말,0.5,둥글쥐,b,20,단순;천진,어떤 것에도 동요하지 않는 대담한 신경의 소유자다. 보기보다는 기민하게 활동한다.,399;비버니;400;비버통,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/039901.png
+ 비버통,노말;물,1,비버,b,31.5,단순;천진,강을 나무줄기나 진흙의 댐으로 막아서 거처를 만든다. 부지런한 일꾼으로 알려져 있다.,399;비버니;400;비버통,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/040001.png
+ 귀뚤뚜기,벌레,0.3,귀뚜라미,b,2.2,탈피,다리가 짧아 넘어지려고 할 때마다 단단한 더듬이가 서로 비벼져서 실로폰 같은 소리가 울린다.,401;귀뚤뚜기;402;귀뚤톡크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/040101.png
+ 귀뚤톡크,벌레,1,귀뚜라미,b,25.5,벌레의알림,몸 안에 있는 빈 공간으로 소리를 메아리치게 해 아름다운 울음소리가 된다.,401;귀뚤뚜기;402;귀뚤톡크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/040201.png
+ 꼬링크,전기,0.5,섬광,b,9.5,투쟁심;위협,몸을 움직일 때마다 근육이 늘어났다 줄어들었다 하여 전기가 발생한다. 궁지에 몰리면 몸이 빛난다.,403;꼬링크;404;럭시오;405;렌트라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/040301.png
+ 럭시오,전기,0.9,전광,b,30.5,투쟁심;위협,날카로운 발톱의 끝에는 강한 전기가 흐르고 있어서 살짝 스치는 것만으로 상대를 기절시킨다.,403;꼬링크;404;럭시오;405;렌트라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/040401.png
+ 렌트라,전기,1.4,안광,b,42,투쟁심;위협,벽 저편까지 볼 수 있는 힘으로 도망친 먹이를 쫓는 것 이외에도 미아가 된 아이를 찾기도 한다.,403;꼬링크;404;럭시오;405;렌트라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/040501.png
+ 꼬몽울,풀;독,0.2,꽃봉오리,b,1.2,자연회복;독가시,겨울 동안 봉오리를 닫고 추위를 견딘다. 봄이 되면 봉오리를 펴서 꽃가루를 날린다.,406;꼬몽울;315;로젤리아;407;로즈레이드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/040601.png
+ 로즈레이드,풀;독,0.9,부케,b,14.5,자연회복;독가시,달콤한 향기로 유인하여 양팔의 꽃다발 속에 있는 가시의 채찍으로 꼼짝 못 하게 한다.,406;꼬몽울;315;로젤리아;407;로즈레이드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/040701.png
+ 두개도스,바위,0.9,박치기,b,31.5,틀깨기,약 1억 년 전에 고대의 밀림에서 살고 있었다. 두개골이 철처럼 단단하다.,408;두개도스;409;램펄드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/040801.png
+ 램펄드,바위,1.6,박치기,b,102.5,틀깨기,강력한 박치기 공격은 아무리 튼튼한 것이라도 일격에 분쇄하는 위력을 가지고 있다.,408;두개도스;409;램펄드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/040901.png
+ 방패톱스,바위;강철,0.5,실드,b,57,옹골참,약 1억 년 전에 밀림에서 살고 있었던 포켓몬이다. 얼굴의 피부가 매우 단단하다.,410;방패톱스;411;바리톱스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041001.png
+ 바리톱스,바위;강철,1.3,실드,b,149.5,옹골참,정면에서의 공격은 전부 튕겨 낸다. 풀이나 나무열매를 먹는 얌전한 성격이다.,410;방패톱스;411;바리톱스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041101.png
+ 도롱충이,벌레,0.2,도롱이벌레,b,3.4,탈피,차가운 초겨울 바람을 막으려고 작은 가지나 낙엽을 재료로 도롱이를 만들어 몸을 감싼다.,412;도롱충이;413;도롱마담,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041201.png
+ 도롱충이,벌레,0.2,도롱이벌레,b,3.4,탈피,차가운 초겨울 바람을 막으려고 작은 가지나 낙엽을 재료로 도롱이를 만들어 몸을 감싼다.,412;도롱충이;413;도롱마담,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041202.png
+ 도롱충이,벌레,0.2,도롱이벌레,b,3.4,탈피,차가운 초겨울 바람을 막으려고 작은 가지나 낙엽을 재료로 도롱이를 만들어 몸을 감싼다.,412;도롱충이;413;도롱마담,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041203.png
+ 도롱마담,벌레;풀,0.5,도롱이벌레,f,6.5,위험예지,도롱충이로부터 진화할 때 도롱이가 몸의 일부가 되었다. 일생 도롱이를 벗는 일은 없다.,412;도롱충이;413;도롱마담,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041301.png
+ 도롱마담,벌레;땅,0.5,도롱이벌레,f,6.5,위험예지,도롱충이로부터 진화할 때 도롱이가 몸의 일부가 되었다. 일생 도롱이를 벗는 일은 없다.,412;도롱충이;413;도롱마담,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041302.png
+ 도롱마담,벌레;강철,0.5,도롱이벌레,f,6.5,위험예지,도롱충이로부터 진화할 때 도롱이가 몸의 일부가 되었다. 일생 도롱이를 벗는 일은 없다.,412;도롱충이;413;도롱마담,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041303.png
+ 나메일,벌레;비행,0.9,나방,m,23.3,벌레의알림,꽃의 꿀을 매우 좋아한다. 세꿀버리가 모아 둔 꿀을 가로채어 먹어 버린다.,412;도롱충이;413;도롱마담,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041401.png
+ 세꿀버리,벌레;비행,0.3,꼬마벌,b,5.5,꿀모으기,밤이 되면 100마리 정도의 세꿀버리가 모여 커다란 덩어리가 되어 잠잔다.,415;세꿀버리;416;비퀸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041501.png
+ 비퀸,벌레;비행,1.2,벌집,f,38.5,프레셔,몸통은 새끼들의 둥지다. 여러 페로몬을 내뿜어 새끼들을 자유롭게 조종한다.,415;세꿀버리;416;비퀸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041601.png
+ 파치리스,전기,0.4,전기다람쥐,b,3.9,도주;픽업,볼에 전기 주머니를 가진 포켓몬의 일종. 꼬리에 모인 전기를 방출한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041701.png
+ 브이젤,물,0.7,바다족제비,b,29.5,쓱쓱,꼬리를 스크루처럼 돌려서 수중을 헤엄치는 것뿐만 아니라 엉겨 붙는 해초도 자를 수 있다.,418;브이젤;419;플로젤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041801.png
+ 플로젤,물,1.1,바다족제비,b,33.5,쓱쓱,부낭을 부풀리면 사람을 등에 태울 수 있다. 부낭을 오그라들게 하여 잠수한다.,418;브이젤;419;플로젤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/041901.png
+ 체리버,풀,0.4,버찌,b,3.3,엽록소,진화에 필요한 영양분이 작은 구슬에 모여 있다. 매우 달고 맛있는 듯하다.,420;체리버;421;체리꼬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042001.png
+ 체리꼬,풀,0.5,벚꽃,b,9.3,플라워기프트,햇살이 강해지면 꽃이 핀다. 봉오리일 때에 참고 견딘 울분을 한번에 푸는 것이다.,420;체리버;421;체리꼬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042101.png
+ 체리꼬,풀,0.5,벚꽃,b,9.3,플라워기프트,햇살이 강해지면 꽃이 핀다. 봉오리일 때에 참고 견딘 울분을 한번에 푸는 것이다.,420;체리버;421;체리꼬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042102.png
+ 깝질무,물,0.3,갯민숭달팽이,b,6.3,점착;마중물,옛날에는 등에 조개껍질을 지고 있었다. 셀러 등과 가까운 종류의 포켓몬.,422;깝질무;423;트리토돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042201.png
+ 깝질무,물,0.3,갯민숭달팽이,b,6.3,점착;마중물,이 모습을 한 깝질무의 수가 점점 줄어들고 있다는 논문이 최근 발표되었다.,422;깝질무;423;트리토돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042202.png
+ 트리토돈,물;땅,0.9,갯민숭달팽이,b,29.9,점착;마중물,온몸이 점액으로 끈적거린다. 옛날에는 이 모습의 개체가 압도적으로 더 많았다.,422;깝질무;423;트리토돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042301.png
+ 트리토돈,물;땅,0.9,갯민숭달팽이,b,29.9,점착;마중물,"평소에는 물가에 있지만, 비가 오래 내리면 바다에서 멀리 떨어진 산에서 발견될 때도 있다.",422;깝질무;423;트리토돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042302.png
+ 겟핸보숭,노말,1.2,긴꼬리,b,20.3,테크니션;픽업,2개의 꼬리로 나무열매 껍질을 솜씨 좋게 벗겨 먹는다. 진짜 팔은 거의 쓰지 않게 되었다.,190;에이팜;424;겟핸보숭,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042401.png
+ 흔들풍손,고스트;비행,0.4,풍선,b,1.2,유폭;곡예,풍선으로 착각해 흔들풍손을 가지고 있었던 어린아이가 사라지는 경우가 있다고 한다.,425;흔들풍손;426;둥실라이드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042501.png
+ 둥실라이드,고스트;비행,1.2,기구,b,15,유폭;곡예,몸 안에서 가스를 만들거나 토해 내며 하늘을 나는 높이를 조절한다.,425;흔들풍손;426;둥실라이드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042601.png
+ 이어롤,노말,0.4,토끼,b,5.5,도주;서투름,말고 있던 귀를 기세 좋게 뻗어서 상대를 힘껏 친다. 어른이라도 펄쩍 뛸 만큼 아프다.,427;이어롤;428;이어롭,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042701.png
+ 이어롭,노말,1.2,토끼,b,33.3,헤롱헤롱바디;서투름,경계심이 강한 포켓몬이다. 위험을 느끼면 푹신푹신한 귀 끝의 털로 몸을 감싼다.,427;이어롤;428;이어롭,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042801.png
+ 메가이어롭,노말;격투,1.3,토끼,b,28.3,배짱,경계심이 아주 강하다. 위험을 감지하면 가뿐하게 뛰어올라 달아난다.,427;이어롤;428;이어롭,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042802.png
+ 무우마직,고스트,0.9,매지컬,b,4.4,부유,주문 같은 울음소리지만 가끔 상대를 행복하게 만드는 효과도 감춰져 있다고 한다.,200;무우마;429;무우마직,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/042901.png
+ 돈크로우,악;비행,0.9,큰형님,b,27.3,불면;대운,인정사정 없는 성격. 부하인 니로우의 실패는 절대 용서하지 않는다고 전해진다.,198;니로우;430;돈크로우,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/043001.png
+ 나옹마,노말,0.5,내숭,b,3.9,유연;마이페이스,마음에 안 들면 발톱을 세우지만 가끔 울음소리로 응석을 부리는 성격이 일부에게 매우 인기가 있다.,431;나옹마;432;몬냥이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/043101.png
+ 몬냥이,노말,1,얼룩고양이,b,43.8,두꺼운지방;마이페이스,다른 포켓몬의 거처라 할지라도 아무렇지 않게 들어가서 쿨쿨 잘 정도로 뻔뻔하다.,431;나옹마;432;몬냥이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/043201.png
+ 랑딸랑,에스퍼,0.2,방울,b,0.6,부유,목 속의 둥근 구슬을 떨게 하여 울음소리를 낸다. 두둥실 떠서 이동한다.,433;랑딸랑;358;치렁,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/043301.png
+ 스컹뿡,독;악,0.4,스컹크,b,19.2,악취;유폭,엉덩이에서 뿜어지는 역한 분비액의 냄새는 반경 2km까지 멀리 퍼져 주변의 포켓몬이 자리를 뜨게 한다.,434;스컹뿡;435;스컹탱크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/043401.png
+ 스컹탱크,독;악,1,스컹크,b,38,악취;유폭,꼬리 끝에서 심한 냄새가 나는 액체를 날려 공격하지만 위에서 공격을 받게 되면 당황한다.,434;스컹뿡;435;스컹탱크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/043501.png
+ 동미러,강철;에스퍼,0.5,청동,u,60.5,부유;내열,옛날 사람들은 동미러의 등 무늬에 신비한 힘이 깃들어 있다고 믿었다.,436;동미러;437;동탁군,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/043601.png
+ 동탁군,강철;에스퍼,1.3,동탁,u,187,부유;내열,비구름을 부르는 포켓몬으로 아주 옛날부터 떠받들어졌다. 가끔 땅에 묻혀 있다.,436;동미러;437;동탁군,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/043701.png
+ 꼬지지,바위,0.5,분재,b,15,옹골참;돌머리,체내의 불필요한 수분을 눈으로 내보내 조절한다. 울고 있는 것처럼 보일 뿐이다.,438;꼬지지;185;꼬지모,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/043801.png
+ 흉내내,에스퍼;페어리,0.6,따라하기,b,13,방음;필터,상대의 움직임을 흉내 내는 습성이 있다. 모방을 당한 상대는 눈을 뗄 수 없게 된다고 한다.,439;흉내내;122;마임맨,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/043901.png
+ 핑복,노말,0.6,소꿉놀이,f,24.4,자연회복;하늘의은총,배의 주머니에 하얗고 동그란 돌을 넣고 있다. 사이가 좋아지면 나누어 주는 일도 있다.,440;핑복;113;럭키;242;해피너스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044001.png
+ 페라페,노말;비행,0.5,음표,b,1.9,날카로운눈;갈지자걸음,사람의 말을 기억해서 운다. 동료가 한 장소에 모이면 모두 똑같은 말을 기억한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044101.png
+ 화강돌,고스트;악,1,봉인,b,108,프레셔,항상 나쁜 짓만 하고 있었기에 신비한 술법에 의해 본모습을 쐐기돌에 속박당했다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044201.png
+ 딥상어동,드래곤;땅,0.7,육지상어,b,20.5,모래숨기,구멍에 숨어서 먹이나 적이 지나가면 뛰쳐나가 문다. 기세가 대단해 이가 빠질 때도 있다.,443;딥상어동;444;한바이트;445;한카리아스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044301.png
+ 한바이트,드래곤;땅,1.4,동굴,b,56,모래숨기,드물게 탈피해서 비늘이 벗겨진다. 그 성분이 들어 있는 약은 피곤한 몸을 회복시켜 준다.,443;딥상어동;444;한바이트;445;한카리아스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044401.png
+ 한카리아스,드래곤;땅,1.9,마하,b,95,모래숨기,고속으로 달려나가면 날개가 공기의 칼날을 만들어 내고 이로 인해 주변의 나무는 절단된다.,443;딥상어동;444;한바이트;445;한카리아스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044501.png
+ 메가한카리아스,드래곤;땅,1.9,마하,b,95,모래의힘,과한 에너지로 양손과 날개가 녹아버려 거대한 낫 모양으로 변화했다.,443;딥상어동;444;한바이트;445;한카리아스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044502.png
+ 먹고자,노말,0.6,대식가,b,105,픽업;두꺼운지방,하루에 한 번 체중과 같은 양의 먹이를 한 번에 먹는다. 거의 씹지 않고 통째로 삼킨다.,446;먹고자;143;잠만보,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044601.png
+ 리오르,격투,0.7,파문,b,20.2,불굴의마음;정신력,파동을 내서 동료끼리 의사소통을 한다. 밤새도록 계속 달릴 수 있다.,447;리오르;448;루카리오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044701.png
+ 루카리오,격투;강철,1.2,파동,b,54,불굴의마음;정신력,파동을 포착하여 보이지 않는 상대의 모습도 볼 수 있다고 전해진다.,447;리오르;448;루카리오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044801.png
+ 메가루카리오,격투;강철,1.3,파동,b,57.5,적응력,메가진화 에너지와 파동이 섞여 돌아다닌 흔적이 온몸에 검게 새겨져 있다,447;리오르;448;루카리오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044802.png
+ 히포포타스,땅,0.8,하마,b,49.5,모래날림,콧구멍을 꽉 막고 모래 속을 걸어 다니듯 이동한다. 10마리 정도가 무리 지어 생활한다.,449;히포포타스;450;하마돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/044901.png
+ 하마돈,땅,2,중량,b,300,모래날림,의외로 화를 잘 내는 포켓몬으로 입을 크게 벌려 주위에 자신의 강함을 어필한다.,449;히포포타스;450;하마돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/045001.png
+ 스콜피,독;벌레,0.8,전갈,b,12,전투무장;스나이퍼,꼬리의 발톱으로 먹이를 집어 독을 주입한다. 독이 퍼질 때까지 절대 놓치지 않는 집념이 있다.,451;스콜피;452;드래피온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/045101.png
+ 드래피온,독;악,1.3,요괴전갈,b,61.5,전투무장;스나이퍼,양팔의 발톱은 자동차를 동강 내는 파괴력이 있다. 발톱의 끝에서 독을 뿌린다.,451;스콜피;452;드래피온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/045201.png
+ 삐딱구리,독;격투,0.7,독설,b,23,위험예지;건조피부,독주머니를 부풀리며 울어서 주변에 으스스한 소리를 퍼트린 후 상대가 풀죽으면 독찌르기를 한다.,453;삐딱구리;454;독개굴,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/045301.png
+ 독개굴,독;격투,1.3,독설,b,44.4,위험예지;건조피부,유연한 몸으로 상대의 공격을 피하며 깊숙이 뛰어들어 독가시를 꿰찌른다.,453;삐딱구리;454;독개굴,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/045401.png
+ 무스틈니,풀,1.4,벌레잡이,b,27,부유,달콤한 냄새의 타액으로 먹이를 유인하여 큰 턱으로 꿀꺽한다. 하루에 걸쳐 먹이를 먹는다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/045501.png
+ 형광어,물,0.4,비어,b,7,쓱쓱;마중물,몸 옆쪽에 있는 줄에 태양 빛을 모아 둘 수 있다. 밤이 되면 아름답게 빛난다.,456;형광어;457;네오라이트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/045601.png
+ 네오라이트,물,1.2,네온,b,24,쓱쓱;마중물,빛으로 먹이를 유인하지만 천적인 사나운 물고기포켓몬까지 다가온다.,456;형광어;457;네오라이트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/045701.png
+ 타만타,물;비행,1,연,b,65,쓱쓱;저수,2개의 더듬이로 해수의 미묘한 움직임을 포착한다. 사람을 잘 따르는 포켓몬이다.,458;타만타;226;만타인,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/045801.png
+ 눈쓰개,풀;얼음,1,얼음나무,b,50.5,눈퍼뜨리기,추운 계절에는 산기슭까지 내려오지만 봄이 되면 눈이 남아 있는 산 정상으로 돌아간다.,459;눈쓰개;460;눈설왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/045901.png
+ 눈설왕,풀;얼음,2.2,얼음나무,b,135.5,눈퍼뜨리기,만년설이 쌓인 산맥에서 조용히 지낸다. 블리자드를 발생시켜 모습을 감춘다.,459;눈쓰개;460;눈설왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/046001.png
+ 메가눈설왕,풀;얼음,2.7,얼음나무,b,185,눈퍼뜨리기,블리자드를 발생시켜 주변 일대를 새하얗게 만든다. 별명은 아이스 몬스터다.,459;눈쓰개;460;눈설왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/046002.png
+ 포푸니라,악;얼음,1.1,갈고리손톱,b,34,프레셔,진화한 후 더욱 약삭빨라져 발톱으로 돌에 사인을 새겨 커뮤니케이션을 시도한다.,215;포푸니;461;포푸니라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/046101.png
+ 자포코일,전기;강철,1.2,자기장,u,180,자력;옹골참,괴전파를 발신하며 하늘을 날면서 미지의 전파를 수신한다고 한다.,81;코일;82;레어코일;462;자포코일,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/046201.png
+ 내룸벨트,노말,1.7,핥기,b,140,마이페이스;둔감,쭉쭉 늘어나는 혓바닥으로 무엇이든 휘감는다. 함부로 다가가면 타액으로 끈적끈적거리게 된다.,108;내루미;463;내룸벨트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/046301.png
+ 거대코뿌리,땅;바위,2.4,드릴,b,282.8,피뢰침;하드록,바위를 손바닥의 구멍에 채워서 근육의 힘으로 발사한다. 드물게 꼬마돌을 날린다.,111;뿔카노;112;코뿌리;464;거대코뿌리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/046401.png
+ 덩쿠림보,풀,2,넝쿨,b,128.6,엽록소;리프가드,식물의 덩굴로 이루어진 팔을 늘여서 먹이를 포박한다. 팔을 먹혀도 아무렇지도 않다.,114;덩쿠리;465;덩쿠림보,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/046501.png
+ 에레키블,전기,1.8,뇌전,b,138.6,전기엔진,2개의 꼬리 끝을 상대에게 바싹 대어 2만 볼트 이상의 전류를 흘려 공격한다.,239;에레키드;125;에레브;466;에레키블,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/046601.png
+ 마그마번,불꽃,1.6,폭염,b,68,불꽃몸,팔 끝에서 섭씨 2000도의 불구슬을 발사한다. 화산의 분화구를 거처로 삼는다.,240;마그비;126;마그마;467;마그마번,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/046701.png
+ 토게키스,페어리;비행,1.5,축복,b,38,의욕;하늘의은총,다툼이 일어나는 장소에는 절대 나타나지 않는다. 최근에는 모습을 보기 어려워졌다.,175;토게피;176;토게틱;468;토게키스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/046801.png
+ 메가자리,벌레;비행,1.9,깨비잠자리,b,51.5,가속;색안경,날갯짓할 때의 충격파로 상대의 몸 안쪽에 치명적인 데미지를 준다.,193;왕자리;469;메가자리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/046901.png
+ 리피아,풀,1,심록,b,25.5,리프가드,맑은 날에 잠든 리피아는 광합성을 해서 깨끗한 공기를 만들어 낸다.,133;이브이;134;샤미드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047001.png
+ 글레이시아,얼음,0.8,신설,b,25.9,눈숨기,체온을 자유자재로 컨트롤해 대기의 수분을 얼려서 다이아몬드더스트를 일으킨다.,133;이브이;134;샤미드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047101.png
+ 글라이온,땅;비행,2,송곳니전갈,b,42.5,괴력집게;모래숨기,꼬리로 나뭇가지에 매달려 먹이를 관찰한다. 틈을 봐서 상공에서 덮친다.,207;글라이거;472;글라이온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047201.png
+ 맘모꾸리,얼음;땅,2.5,2개송곳니,b,291,둔감;눈숨기,얼음으로 만들어진 훌륭한 이빨이 있다. 빙하기가 끝나고 따뜻해졌기 때문에 수가 줄어들었다.,220;꾸꾸리;221;메꾸리;473;맘모꾸리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047301.png
+ 폴리곤Z,노말,0.9,가상,b,34,적응력;다운로드,더욱 우수한 포켓몬으로 만들고자 프로그램을 추가했지만 어쩐지 괴상하게 행동하기 시작했다.,137;폴리곤;233;폴리곤2;474;폴리곤Z,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047401.png
+ 엘레이드,에스퍼;격투,1.6,검,m,52,불굴의마음;예리함,누군가를 지키려고 할 때는 팔꿈치를 늘여서 칼처럼 변화시키고 격렬하게 싸운다.,280;랄토스;281;킬리아;282;가디안,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047501.png
+ 메가엘레이드,에스퍼;격투,1.6,검,m,56.4,정신력,상대의 생각을 민감하게 포착하는 능력을 가졌기 때문에 먼저 공격할 수 있다.,280;랄토스;281;킬리아;282;가디안,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047502.png
+ 대코파스,바위;강철,1.4,컴퍼스,b,340,옹골참;자력,전신에서 강한 자력을 발산하고 있다. 꼬마코파스라고 불리는 3개의 유닛을 조종한다.,299;코코파스;476;대코파스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047601.png
+ 야느와르몽,고스트,2.2,움켜쥐기,b,106.6,프레셔,머리의 안테나로 영계로부터의 전파를 수신한다. 지시를 받아 사람을 영계로 데리고 간다.,355;해골몽;356;미라몽;477;야느와르몽,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047701.png
+ 눈여아,얼음;고스트,1.3,설국,f,26.6,눈숨기,마음에 든 인간과 포켓몬을 냉기로 얼린 다음 보금자리에 가져가서 장식한다.,361;눈꼬마;362;얼음귀신,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047801.png
+ 로토무,전기;고스트,0.3,플라스마,u,0.3,부유,전기 같은 몸은 일부 기계에 들어갈 수 있다. 그리고 그 몸으로 장난을 친다.,479;로토무;479;로토무;479;로토무;No. 0479;로토무;No. 0479;로토무;No. 0479;로토무,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047901.png
+ 로토무,전기;불꽃,0.3,플라스마,u,0.3,부유,오븐레인지의 상태가 나쁘면 안에 들어 있는 로토무도 기운이 나지 않는다고 한다.,479;로토무;479;로토무;479;로토무;No. 0479;로토무;No. 0479;로토무;No. 0479;로토무,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047902.png
+ 로토무,전기;물,0.3,플라스마,u,0.3,부유,세탁기에 들어간 모습. 주변을 침수시키고는 만족스러운 듯이 끄덕이고 있다.,479;로토무;479;로토무;479;로토무;No. 0479;로토무;No. 0479;로토무;No. 0479;로토무,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047903.png
+ 로토무,전기;얼음,0.3,플라스마,u,0.3,부유,냉장고에 들어간 모습. 냉기로 주위를 얼려 놓고는 유쾌하다는 듯이 통통 튄다.,479;로토무;479;로토무;479;로토무;No. 0479;로토무;No. 0479;로토무;No. 0479;로토무,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047904.png
+ 로토무,전기;비행,0.3,플라스마,u,0.3,부유,선풍기에 들어간 모습. 주위에 있는 물건을 날려 버리고는 해냈다는 듯이 싱글벙글하고 있다.,479;로토무;479;로토무;479;로토무;No. 0479;로토무;No. 0479;로토무;No. 0479;로토무,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047905.png
+ 로토무,전기;풀,0.3,플라스마,u,0.3,부유,로토무도감이 만들어진 계기가 된 가전제품 중 하나가 바로 잔디깎이였다.,479;로토무;479;로토무;479;로토무;No. 0479;로토무;No. 0479;로토무;No. 0479;로토무,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/047906.png
+ 유크시,에스퍼,0.3,지식,u,0.3,부유,지식의 신이라 불리고 있다. 눈을 마주친 사람의 기억을 지워 버리는 힘을 가지고 있다고 한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048001.png
+ 엠라이트,에스퍼,0.3,감정,u,0.3,부유,슬픔의 괴로움과 즐거움의 소중함을 사람들에게 가르쳐 주었다. 감정의 신이라 불리고 있다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048101.png
+ 아그놈,에스퍼,0.3,의지,u,0.3,부유,의지의 신이라 불리고 있다. 호수의 밑바닥에서 계속 잠을 자며 세계의 균형을 지키고 있다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048201.png
+ 디아루가,강철;드래곤,5.4,시간,u,683,프레셔,시간을 조종하는 힘을 가지고 있다. 신오지방에서는 신이라고 불리며 신화에 등장한다.,483;디아루가;483;디아루가,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048301.png
+ 디아루가,강철;드래곤,7,시간,u,850,프레셔,밝은 빛이 폼체인지의 방아쇠가 되었다. 창조신과 흡사한 이 모습이야말로 진정한 모습임에 의심할 여지가 없을 정도로 강력한 힘을 발휘한다.,483;디아루가;483;디아루가,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048302.png
+ 펄기아,물;드래곤,4.2,공간,u,336,프레셔,공간을 뒤틀리게 하는 능력을 가졌으며 신오지방의 신화에서는 신으로 묘사되고 있다.,484;펄기아;484;펄기아,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048401.png
+ 펄기아,물;드래곤,6.3,공간,u,660,프레셔,하늘을 나는 모습은 만물의 창조주를 연상케한다. 창조주의 모습을 흉내 냄으로써 그 힘을 자신의 것으로 만들었다고 추측된다.,484;펄기아;484;펄기아,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048402.png
+ 히드런,불꽃;강철,1.7,화구,b,430,타오르는불꽃,화산의 동굴에서 서식한다. 십자형의 발톱을 박아서 벽이나 천장을 돌아다닌다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048501.png
+ 레지기가스,노말,3.7,거대,u,420,슬로스타트,밧줄로 묶은 대륙을 당겨서 움직였다고 하는 전설이 남아 있다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048601.png
+ 기라티나,고스트;드래곤,4.5,반골,u,750,프레셔,이 세상의 이면에 있는 세계에 살고 있다고 전해지는 포켓몬이다. 고대의 무덤에 나타난다.,487;기라티나;487;기라티나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048701.png
+ 기라티나,고스트;드래곤,6.9,반골,u,650,부유,이 세상의 이면에 있는 세계에 살고 있다고 전해지는 포켓몬이다. 고대의 무덤에 나타난다.,487;기라티나;487;기라티나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048702.png
+ 크레세리아,에스퍼,1.5,초승달,f,85.6,부유,비행할 때는 베일 같은 날개에서 빛나는 입자를 흩뿌린다. 초승달의 화신으로 불리고 있다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048801.png
+ 피오네,물,0.4,해양,u,3.1,촉촉바디,따뜻한 바다에 사는 포켓몬이다. 머리의 부낭을 부풀려서 파도 사이를 떠돌며 먹이를 찾는다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/048901.png
+ 마나피,물,0.3,회유,u,1.4,촉촉바디,차가운 바다 밑에서 태어났다. 자신이 태어난 바다의 밑바닥까지 긴 거리를 헤엄쳐서 돌아간다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/049001.png
+ 다크라이,악,1.5,암흑,u,50.5,나이트메어,사람들을 깊은 잠으로 유인하여 꿈을 꾸게 하는 능력을 가지고 있다. 그믐달이 뜨는 밤에 활동한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/049101.png
+ 쉐이미,풀,0.2,감사,u,2.1,자연회복,꽃밭 속에서 살고 있지만 몸을 웅크리면 꽃처럼 보이기 때문에 누구도 눈치채지 못한다.,492;쉐이미;492;쉐이미,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/049201.png
+ 쉐이미,풀;비행,0.4,감사,u,5.2,하늘의은총,꽃밭 속에서 살고 있지만 몸을 웅크리면 꽃처럼 보이기 때문에 누구도 눈치채지 못한다.,492;쉐이미;492;쉐이미,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/049202.png
+ 아르세우스,노말,3.2,창조,u,320,멀티타입,1000개의 팔로 우주를 만든 포켓몬으로 신화에 묘사된다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/049301.png
+ 비크티니,에스퍼;불꽃,0.4,승리,u,4,승리의별,승리를 부르는 포켓몬이다. 비크티니와 함께하는 트레이너는 그 어떤 승부에서도 승리한다고 한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/049401.png
+ 주리비얀,풀,0.6,풀뱀,b,8.1,심록,태양의 빛을 받으면 평소보다 빨리 움직일 수 있다. 손보다 덩굴을 잘 사용한다.,495;주리비얀;496;샤비;497;샤로다,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/049501.png
+ 샤비,풀,0.8,풀뱀,b,16,심록,땅을 미끄러지듯 달린다. 빠른 움직임으로 상대를 혼란시키고 덩굴채찍으로 꼼짝 못하게 한다.,495;주리비얀;496;샤비;497;샤로다,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/049601.png
+ 샤로다,풀,3.3,로열,b,63,심록,샤로다의 고상한 눈동자로 쏘아보아도 태연할 정도로 강한 상대에게만 진정한 실력을 발휘한다.,495;주리비얀;496;샤비;497;샤로다,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/049701.png
+ 뚜꾸리,불꽃,0.5,불돼지,b,9.9,맹화,적의 공격을 가볍게 피하고 코로 불구슬을 쏘아댄다. 불꽃으로 나무열매를 구워 먹는다.,498;뚜꾸리;499;차오꿀;500;염무왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/049801.png
+ 차오꿀,불꽃;격투,1,불돼지,b,55.5,맹화,먹을수록 태울 것이 많아져 위 속의 불꽃이 강해지고 파워도 점점 넘치게 된다.,498;뚜꾸리;499;차오꿀;500;염무왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/049901.png
+ 염무왕,불꽃;격투,1.6,큰불돼지,b,150,맹화,턱의 화염으로 주먹을 불태워 불꽃펀치를 날린다. 동료애가 깊은 포켓몬이다.,498;뚜꾸리;499;차오꿀;500;염무왕,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/050001.png
+ 수댕이,물,0.5,해달,b,5.9,급류,배에 생기는 가리비칼은 싸울 때뿐 아니라 딱딱한 나무열매를 쪼갤 때도 사용한다.,501;수댕이;502;쌍검자비;503;대검귀,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/050101.png
+ 쌍검자비,물,0.8,수행,b,24.5,급류,물 흐르는 듯한 칼솜씨로 2개의 가리비칼을 사용하는 기술은 엄격한 수련을 통해 익힌 것이다.,501;수댕이;502;쌍검자비;503;대검귀,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/050201.png
+ 대검귀,물,1.5,관록,b,94.6,급류,상대가 눈을 깜빡이는 동안에 앞다리에 붙어 있는 각검으로 상대를 베고 원래대로 되돌린다.,501;수댕이;502;쌍검자비;503;대검귀,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/050301.png
+ 대검귀,물;악,1.5,관록,b,58.2,급류,히스이에서 진화한 희귀한 모습. 비정한 성격과 칼 솜씨를 자랑한다. 성난 파도 같은 연격은 천 겹의 파도와도 같다.,501;수댕이;502;쌍검자비;503;대검귀,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/050302.png
+ 보르쥐,노말,0.5,망보기,b,11.6,도주;날카로운눈,볼의 주머니에 먹이를 모아두고 며칠이고 망보기를 계속한다. 꼬리로 동료에게 신호한다.,504;보르쥐;505;보르그,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/050401.png
+ 보르그,노말,1.1,경계,b,27,발광;날카로운눈,체내의 발광물질로 눈이나 몸을 빛나게 하여 습격해 온 상대를 풀이 죽게 만든다.,504;보르쥐;505;보르그,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/050501.png
+ 요테리,노말,0.4,강아지,b,4.1,의기양양;픽업,용감하고 신중하다. 얼굴을 덮고 있는 부드러운 털로 주변의 정보를 캐치한다.,506;요테리;507;하데리어;508;바랜드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/050601.png
+ 하데리어,노말,0.9,충견,b,14.7,위협;모래헤치기,매우 영리하고 금방 친해진다. 인간의 파트너가 된 첫 포켓몬이라는 설도 있다.,506;요테리;507;하데리어;508;바랜드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/050701.png
+ 바랜드,노말,1.2,관대,b,61,위협;모래헤치기,사람과 사는 것을 좋아하는 듯하다. 야생에서 잡아도 3일만 지나면 사람을 따르게 된다.,506;요테리;507;하데리어;508;바랜드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/050801.png
+ 쌔비냥,악,0.4,성악,b,10.1,유연;곡예,곤란해하는 모습을 보기 위해 사람의 물건을 훔친다. 훔처우와는 라이벌 관계다.,509;쌔비냥;510;레파르다스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/050901.png
+ 레파르다스,악,1.1,냉혹,b,37.5,유연;곡예,아름다운 털과 스타일에 쉽게 매료되지만 변덕스럽고 흉포한 포켓몬이다.,509;쌔비냥;510;레파르다스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/051001.png
+ 야나프,풀,0.6,풀원숭이,b,10.5,먹보,기운이 없는 포켓몬에게 머리의 잎사귀를 나눠준다. 피로를 풀어주는 효과가 있다.,511;야나프;512;야나키,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/051101.png
+ 야나키,풀,1.1,가시원숭이,b,30.5,먹보,가시가 잔뜩 박힌 꼬리를 상대에게 힘껏 쳐서 공격한다. 기질이 격한 포켓몬이다.,511;야나프;512;야나키,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/051201.png
+ 바오프,불꽃,0.6,고온,b,11,먹보,지능이 높고 나무열매는 구운 뒤 먹는 습성이 있다. 사람 도와주기를 좋아한다.,513;바오프;514;바오키,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/051301.png
+ 바오키,불꽃,1,불티,b,28,먹보,몸속에서 태운 불꽃을 머리나 꼬리로 흩뿌려서 상대를 태운다.,513;바오프;514;바오키,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/051401.png
+ 앗차프,물,0.6,물뿌리기,b,13.5,먹보,머리 송아리에 모은 물은 영양 듬뿍. 꼬리를 사용해서 그 물을 초목에 뿌린다.,515;앗차프;516;앗차키,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/051501.png
+ 앗차키,물,1,방수,b,29,먹보,꼬리에서 발사하는 고압의 물은 콘크리트 벽도 파괴할 수 있는 위력을 지녔다.,515;앗차프;516;앗차키,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/051601.png
+ 몽나,에스퍼,0.6,꿈먹기,b,23.3,예지몽;싱크로,깊은 밤중 머리맡에 나타난다. 꿈을 먹는 동안 몸에 있는 무늬가 어렴풋이 빛난다.,517;몽나;518;몽얌나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/051701.png
+ 몽얌나,에스퍼,1.1,꿈결,b,60.5,예지몽;싱크로,뿜어내는 연기가 거무스름할 때는 가까이 가지 않는 것이 좋다. 악몽이 현실이 되기 때문이다.,517;몽나;518;몽얌나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/051801.png
+ 콩둘기,노말;비행,0.3,아기비둘기,b,2.1,부풀린가슴;대운,사람이 사는 곳에 나타난다. 먹이를 뿌려주면 수백 마리가 모여들기 때문에 주의해야 한다.,519;콩둘기;520;유토브;521;켄호로우,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/051901.png
+ 유토브,노말;비행,0.6,들비둘기,b,15,부풀린가슴;대운,하늘을 나는 속도는 그저 그렇다. 아무리 멀리 떨어져 있어도 주인과 자신의 둥지를 기억하고 있다.,519;콩둘기;520;유토브;521;켄호로우,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/052001.png
+ 켄호로우,노말;비행,1.2,프라이드,m,29,부풀린가슴;대운,높은 비행 능력을 가졌다. 암컷은 지구력이 뛰어나며 수컷은 비행 속도가 뛰어나다.,519;콩둘기;520;유토브;521;켄호로우,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/052101.png
+ 켄호로우,노말;비행,1.2,프라이드,f,29,부풀린가슴;대운,높은 비행 능력을 가졌으며 특히 지구력이 뛰어나다. 수컷보다 길들이기 어렵다.,519;콩둘기;520;유토브;521;켄호로우,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/052102.png
+ 줄뮤마,전기,0.8,하전,b,29.8,피뢰침;전기엔진,번개 구름이 하늘을 뒤덮으면 나타난다. 갈기로 번개를 붙잡아 전기를 모은다.,522;줄뮤마;523;제브라이카,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/052201.png
+ 제브라이카,전기,1.6,뇌전,b,79.5,피뢰침;전기엔진,격렬한 기질의 소유자. 날뛰면 갈기에서 번개를 사방팔방으로 방전한다.,522;줄뮤마;523;제브라이카,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/052301.png
+ 단굴,바위,0.4,맨틀,b,18,옹골참;깨어진갑옷,철과 비슷하게 단단하지만 오랫동안 물에 담가두면 조금 부드러워진다고 한다.,524;단굴;525;암트르;526;기가이어스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/052401.png
+ 암트르,바위,0.9,광석,b,102,옹골참;깨어진갑옷,오렌지색 결정이 빛나기 시작하면 조심해야 한다. 에너지를 쏘아대기 때문이다.,524;단굴;525;암트르;526;기가이어스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/052501.png
+ 기가이어스,바위,1.7,고압,b,260,옹골참;모래날림,씩씩해서 공사 현장이나 채굴장에서 대왕끼리동이나 사람과 함께 일할 때도 있다.,524;단굴;525;암트르;526;기가이어스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/052601.png
+ 또르박쥐,에스퍼;비행,0.4,박쥐,b,2.1,천진;서투름,동굴을 올려다봤을 때 벽에 하트 모양 자국이 있다면 또르박쥐가 살고 있다는 증거다.,527;또르박쥐;528;맘박쥐,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/052701.png
+ 맘박쥐,에스퍼;비행,0.9,구애,b,10.5,천진;서투름,아주 강력한 음파를 내보낸 후에는 지쳐서 당분간 날 수 없게 된다.,527;또르박쥐;528;맘박쥐,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/052801.png
+ 두더류,땅,0.3,두더지,b,8.5,모래헤치기;모래의힘,양손의 손톱을 서로 겹치고 몸을 고속으로 회전시킨 뒤 먹이를 향해 돌진한다.,529;두더류;530;몰드류,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/052901.png
+ 몰드류,땅;강철,0.7,땅밑,b,40.4,모래헤치기;모래의힘,자연적으로 생긴 동굴로 보이지만 사실은 몰드류가 파낸 흔적인 경우는 흔히 있는 일이다.,529;두더류;530;몰드류,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/053001.png
+ 다부니,노말,1.1,히어링,b,31,치유의마음;재생력,귀의 더듬이로 상대의 컨디션이나 알에서 포켓몬이 언제 나올지도 알 수 있다.,531;다부니;531;메가다부니,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/053101.png
+ 메가다부니,노말;페어리,1.5,히어링,b,32,치유의마음,귀의 더듬이로 상대의 컨디션이나 알에서 포켓몬이 언제 나올지도 알 수 있다.,531;다부니;531;메가다부니,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/053102.png
+ 으랏차,격투,0.6,근골,b,12.5,근성;우격다짐,건축 일을 돕는 것을 좋아한다. 비가 내려서 공사를 쉬는 날에는 각목을 휘두르며 날뛴다.,532;으랏차;533;토쇠골;534;노보청,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/053201.png
+ 토쇠골,격투,1.2,근골,b,40,근성;우격다짐,동료나 근육몬과 서로 근육을 자랑한다. 진 쪽은 당분간 모습을 감춘다.,532;으랏차;533;토쇠골;534;노보청,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/053301.png
+ 노보청,격투,1.4,근골,b,87,근성;우격다짐,같은 성분이라도 노보청이 배합한 콘크리트가 훨씬 견고하고 튼튼하다.,532;으랏차;533;토쇠골;534;노보청,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/053401.png
+ 동챙이,물,0.5,올챙이,b,4.5,쓱쓱;촉촉바디,아름다운 파문이 펼쳐지는 물 아래에는 동챙이가 날카로운 소리로 울고 있다.,535;동챙이;536;두까비;537;두빅굴,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/053501.png
+ 두까비,물;땅,0.8,진동,b,17,쓱쓱;촉촉바디,두통을 일으킬 정도의 음파로 먹이를 충분히 약하게 만든 뒤 끈적끈적한 혀로 포박한다.,535;동챙이;536;두까비;537;두빅굴,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/053601.png
+ 두빅굴,물;땅,1.5,진동,b,62,쓱쓱;독수,전신의 혹을 진동시켜서 지진과 같은 흔들림을 일으킨다. 삐딱구리와 가까운 종이다.,535;동챙이;536;두까비;537;두빅굴,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/053701.png
+ 던지미,격투,1.3,유도,m,55.5,근성;정신력,메치는 기술의 실력은 일류다. 싸움으로 흘린 땀이 배어 띠의 색이 진해져 간다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/053801.png
+ 타격귀,격투,1.4,태권도,m,51,옹골참;정신력,한결같이 강해지기를 추구한다. 산에서 수행 중인 타격귀를 발견한다면 조용히 물러나자.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/053901.png
+ 두르보,벌레;풀,0.3,재봉,b,2.5,벌레의알림;엽록소,잎사귀를 물어뜯어 입에서 뱉어낸 점착실로 꿰맨다. 스스로 옷을 만드는 포켓몬이다.,540;두르보;541;두르쿤;542;모아머,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/054001.png
+ 두르쿤,벌레;풀,0.5,잎숨기,b,7.3,리프가드;엽록소,두르쿤이 사는 숲은 초목이 잘 자란다. 두르쿤이 낙엽을 영양분으로 바꾸기 때문이다.,540;두르보;541;두르쿤;542;모아머,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/054101.png
+ 모아머,벌레;풀,1.2,육아,b,20.5,벌레의알림;엽록소,어린 포켓몬을 보면 입에서 내뿜는 점착실로 잎사귀의 옷을 지어 준다.,540;두르보;541;두르쿤;542;모아머,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/054201.png
+ 마디네,벌레;독,0.4,지네,b,5.3,독가시;벌레의알림,태우지네와는 종류가 다른 동료지만 서로 만나면 큰 싸움이 된다.,543;마디네;544;휠구;545;펜드라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/054301.png
+ 휠구,벌레;독,1.2,눈썹지네,b,58.5,독가시;벌레의알림,고속으로 회전해 상대에게 돌격한다. 최고 시속은 약 100km에 달한다.,543;마디네;544;휠구;545;펜드라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/054401.png
+ 펜드라,벌레;독,2.5,메가지네,b,200.5,독가시;벌레의알림,목의 가시로 먹이를 잡은 채 그대로 땅으로 내동댕이쳐서 독가시를 꽂는다.,543;마디네;544;휠구;545;펜드라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/054501.png
+ 소미안,풀;페어리,0.3,솜뭉치,b,0.6,짓궂은마음;틈새포착,솜을 날려 몸을 지킨다. 태풍의 바람에 휩쓸려 지구 반대편까지 갈 때도 있다.,546;소미안;547;엘풍,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/054601.png
+ 엘풍,풀;페어리,0.7,바람숨기,b,6.6,짓궂은마음;틈새포착,솜을 흩뿌리며 장난을 친다. 물을 끼얹으면 무거워져서 움직일 수 없게 되어 포기한다.,546;소미안;547;엘풍,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/054701.png
+ 치릴리,풀,0.5,뿌리,f,6.6,엽록소;마이페이스,빠져도 바로 자라나는 머리의 잎사귀는 아주 쓰지만 갉아 먹으면 바로 기운이 난다.,548;치릴리;549;드레디어,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/054801.png
+ 드레디어,풀,1.1,꽃장식,f,16.3,엽록소;마이페이스,머리의 꽃 장식에서 나는 향기를 맡으면 편안해지나 손질이 아주 까다롭다.,548;치릴리;549;드레디어,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/054901.png
+ 드레디어,풀;격투,1.2,스핀,f,19.2,엽록소;의욕,눈 덮인 산에 살기 때문에 다릿심이 발달한 것으로 추측된다. 화관을 통해 주위에 있는 이를 고무시키는 향기를 내보낸다.,548;치릴리;549;드레디어,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/054902.png
+ 배쓰나이,물,1,흉,b,18,이판사판;적응력,성질이 사납고 공격적이다. 생명력도 대단해서 모르는 사이에 수가 늘어나 있다.,550;배쓰나이;550;배쓰나이;550;배쓰나이 ,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055001.png
+ 배쓰나이,물,1,흉,b,18,돌머리;적응력,같은 색끼리 모여서 무리를 이룬다. 최대의 적은 빨간색 배쓰나이 무리다.,550;배쓰나이;550;배쓰나이;550;배쓰나이 ,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055002.png
+ 배쓰나이 ,물,1,온후,b,18,주눅;적응력,"온후한 성질 등, 차이점이 있지만 배쓰나이의 특징을 다수 갖추고 있기에 그것의 리전폼인 것으로 정의 내렸다.",550;배쓰나이 ;902;대쓰여너,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055003.png
+ 깜눈크,땅;악,0.7,사막악어,b,15.2,위협;자기과신,모래 속에 숨어서 헤엄치는 것처럼 이동한다. 적에게 들키지 않으면서 체온이 내려가지 않기 위한 지혜다.,551;깜눈크;552;악비르;553;악비아르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055101.png
+ 악비르,땅;악,1,사막악어,b,33.4,위협;자기과신,얇은 막으로 덮여 있는 두 눈은 한밤중에도 잘 보인다. 몇 마리가 무리 지어 생활한다.,551;깜눈크;552;악비르;553;악비아르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055201.png
+ 악비아르,땅;악,1.5,위협,b,96.3,위협;자기과신,강력한 턱으로 물고 그대로 힘껏 몸을 비틀어 먹이를 절단한다.,551;깜눈크;552;악비르;553;악비아르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055301.png
+ 달막화,불꽃,0.6,달마,b,37.5,의욕,몸 안에서 타오르는 불꽃이 힘의 원천이다. 불꽃이 작아지면 금세 잠들어 버린다.,554;달막화;555;불비달마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055401.png
+ 달막화,얼음,0.7,달마,b,40,의욕,눈이 많이 쌓인 곳에 사는 동안 불꽃 주머니가 차가워져서 퇴화했다. 그리고 냉기를 만드는 기관이 생겼다.,554;달막화;555;불비달마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055402.png
+ 불비달마,불꽃,1.3,염상,b,92.9,우격다짐,혈기왕성한 포켓몬. 굵직한 팔에서 날리는 펀치는 덤프트럭도 가루로 만들어버린다.,554;달막화;555;불비달마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055501.png
+ 불비달마,불꽃;에스퍼,1.3,염상,b,92.9,우격다짐,명상을 통해 난폭한 마음을 가라앉히고 사이코 파워를 더욱 갈고닦고 있다.,554;달막화;555;불비달마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055502.png
+ 불비달마,얼음,1.7,달마,b,120,무아지경,머리 위에 있는 눈덩이에 먹이를 보관해둔다. 눈보라가 치는 날에는 사람이 사는 마을까지 내려온다.,554;달막화;555;불비달마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055503.png
+ 불비달마,얼음;불꽃,1.7,염상,b,120,무아지경,퇴화했던 불꽃 주머니가 분노에 의해 부활했다. 사방팔방 불꽃을 내뿜으며 날뛴다.,554;달막화;555;불비달마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055504.png
+ 마라카치,풀,1,선인장,b,28,저수;엽록소,마라카스 같은 소리를 낸다. 리듬이 경쾌해서 새포켓몬은 깜짝 놀라 허둥지둥 날아가버린다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055601.png
+ 돌살이,벌레;바위,0.3,돌집,b,14.5,옹골참;조가비갑옷,마음에 드는 돌멩이에 구멍을 파서 보금자리로 삼는다. 단굴이나 탄동에게는 천적이다.,557;돌살이;558;암팰리스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055701.png
+ 암팰리스,벌레;바위,1.4,바위집,b,200,옹골참;조가비갑옷,건조한 곳을 좋아하며 비가 내리는 날에는 바위에서 나오지 않는다. 자기 영역에 대한 의식이 강하다.,557;돌살이;558;암팰리스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055801.png
+ 곤율랭,악;격투,0.6,탈피,b,11.8,탈피;자기과신,눈이 마주치면 위험하다! 상대를 가리지 않고 박치기로 공격해오는 성가신 포켓몬이다.,559;곤율랭;560;곤율거니,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/055901.png
+ 곤율거니,악;격투,1.1,악당,b,30,탈피;자기과신,의욕이 없어 보이는 킥은 노보청이 들고 있는 콘크리트도 부술 정도의 파괴력을 지녔다.,559;곤율랭;560;곤율거니,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056001.png
+ 심보러,에스퍼;비행,1.4,흡사새,b,14,미라클스킨;매직가드,사이코 파워로 하늘을 난다. 고대 도시의 수호신 또는 수호신의 사자로 일컬어진다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056101.png
+ 데스마스,고스트,0.5,영혼,b,1.5,미라,밤마다 유적을 떠돈다. 가지고 있는 마스크는 자신이 인간이던 시절의 얼굴이라고 한다.,562;데스마스;563;데스니칸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056201.png
+ 데스마스,땅;고스트,0.5,영혼,b,1.5,떠도는영혼,저주가 새겨진 점토판이 데스마스에 씌었다. 원념의 파워를 흡수했다고 전해진다.,562;데스마스;867;데스판,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056202.png
+ 데스니칸,고스트,1.7,관,b,76.5,미라,황금으로 된 반짝거리는 몸. 자신이 인간이었다는 사실을 이제는 기억하지 못할 것이다.,562;데스마스;563;데스니칸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056301.png
+ 프로토가,물;바위,0.7,옛날거북,b,16.5,하드록;옹골참,골격을 조사해보니 약 1000m의 심해까지 잠수할 수 있었던 것 같다.,564;프로토가;565;늑골라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056401.png
+ 늑골라,물;바위,1.2,옛날거북,b,81,하드록;옹골참,단단한 등껍질을 만들기 위해 먹이의 딱딱한 껍데기나 뼈도 통째로 깨물어 먹었다.,564;프로토가;565;늑골라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056501.png
+ 아켄,바위;비행,0.5,최초새,b,9.5,무기력,모든 새포켓몬의 조상이다. 아켄 자체는 아직 날지 못해 나무 위를 점프해서 이동했다.,566;아켄;567;아케오스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056601.png
+ 아케오스,바위;비행,1.4,최초새,b,32,무기력,날 수도 있었지만 대부분 지상을 뛰어다녔다. 그 시속은 평균 40km이다.,566;아켄;567;아케오스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056701.png
+ 깨봉이,독,0.6,쓰레기봉투,b,31,악취;점착,비위생적인 장소를 좋아한다. 쓰레기를 어질러놓은 채 내버려 두면 방에 나타나 그대로 눌러앉는다.,568;깨봉이;569;더스트나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056801.png
+ 더스트나,독,1.9,쓰레기장,b,107.3,악취;깨어진갑옷,먹은 쓰레기가 체내에서 독으로 변화한다. 먹은 쓰레기에 따라 독의 주성분도 바뀐다.,568;깨봉이;569;더스트나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056901.png
+ 더스트나,독,21,쓰레기장,b,1.00E+09,악취;깨어진갑옷,거다이맥스의 파워에 의해 진해진 독가스가 버려진 장난감의 형태로 굳었다.,568;깨봉이;569;더스트나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/056902.png
+ 조로아,악,0.7,나쁜여우,b,12.5,일루전,상대의 모습으로 둔갑하여 놀라게 한다. 말수가 적은 아이로 둔갑해 있을 때가 잦다고 한다.,570;조로아;571;조로아크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057001.png
+ 조로아,노말;고스트,0.7,원한여우,b,12.5,일루전,죽은 영혼이 히스이 땅에서 되살아났다. 원한은 곧 힘이 되어 머리에 피어오르고 상대의 모습으로 변하여 원한을 풀려 한다.,570;조로아;571;조로아크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057002.png
+ 조로아크,악,1.6,요괴여우,b,81.1,일루전,조로아크를 잡으려 한 사람을 환영의 경치 속에 가둬서 혼내 줬다고 전해진다.,570;조로아;571;조로아크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057101.png
+ 조로아크,노말;고스트,1.6,저주여우,b,73,일루전,백발을 흐트러트린 모습은 마치 사신 같다. 자신의 몸이 찢어질 정도의 강한 원한을 이용해 함께 죽을 각오로 원수의 숨통을 노린다.,570;조로아;571;조로아크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057102.png
+ 치라미,노말,0.4,친칠라,b,5.8,헤롱헤롱바디;테크니션,꼬리로 더러운 것을 떨어낸다. 청소를 할 때는 도움이 되지만 결벽증이 있어서 힘들기도 하다.,572;치라미;573;치라치노,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057201.png
+ 치라치노,노말,0.5,스카프,b,7.5,헤롱헤롱바디;테크니션,먼지 한 톨도 용납하지 않는 결벽증. 몸에서 나오는 기름을 둥지에 발라서 코팅한다.,572;치라미;573;치라치노,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057301.png
+ 고디탱,에스퍼,0.4,응시,b,5.8,통찰;승기,평소에는 매우 천진난만하다. 보이지 않는 무언가를 보고 있을 때는 눈도 깜빡이지 않고 계속 말이 없다.,574;고디탱;575;고디보미;576;고디모아젤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057401.png
+ 고디보미,에스퍼,0.7,조작,b,18,통찰;승기,아이를 최면술로 재우고는 데려가 버리기 때문에 별이 빛나는 밤에는 주의해야 한다.,574;고디탱;575;고디보미;576;고디모아젤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057501.png
+ 고디모아젤,에스퍼,1.5,천체,b,44,통찰;승기,사이코 파워를 발산하여 상대에게 우주가 끝나는 꿈을 보여 준다. 그 꿈은 허무하고도 아름답다고 한다.,574;고디탱;575;고디보미;576;고디모아젤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057601.png
+ 유니란,에스퍼,0.3,세,b,1,방진;매직가드,텔레파시로 의사소통을 한다. 강한 충격을 받으면 몸을 둘러싸고 있는 액체가 흘러나온다.,577;유니란;578;듀란;579;란쿨루스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057701.png
+ 듀란,에스퍼,0.6,분할,b,8,방진;매직가드,2개의 뇌가 의견 일치했을 때의 염동력은 주변 1km까지 영향을 미친다고 한다.,577;유니란;578;듀란;579;란쿨루스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057801.png
+ 란쿨루스,에스퍼,1,증폭,b,20.1,방진;매직가드,초능력을 사용하는 것보다는 자랑거리인 팔을 휘둘러서 때려눕히는 것을 선호한다.,577;유니란;578;듀란;579;란쿨루스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/057901.png
+ 꼬지보리,물;비행,0.5,물새,b,5.5,날카로운눈;부풀린가슴,상대에게 공격당하면 전신의 깃털에서 물보라를 내뿜는다. 물안개에 숨어들어 도망친다.,580;꼬지보리;581;스완나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058001.png
+ 스완나,물;비행,1.3,백조,b,24.2,날카로운눈;부풀린가슴,우아한 외모와 다르게 날개로 힘차게 날개 치며 수천 km를 계속 날 수 있다.,580;꼬지보리;581;스완나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058101.png
+ 바닐프티,얼음,0.4,신설,b,5.7,아이스바디;눈숨기,더운 곳에서는 살 수 없다. 냉기를 뿜어 눈을 내리게 한 뒤 쌓인 눈 속에 들어가 잠든다.,582;바닐프티;583;바닐리치;584;배바닐라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058201.png
+ 바닐리치,얼음,1.1,빙설,b,41,아이스바디;눈숨기,깨끗한 물을 마셔서 얼음으로 된 몸을 크게 만든다. 날씨가 맑은 날에는 잘 발견되지 않는다.,582;바닐프티;583;바닐리치;584;배바닐라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058301.png
+ 배바닐라,얼음,1.3,블리자드,b,57.5,아이스바디;눈퍼뜨리기,분노가 정점에 달하면 눈보라를 불게 하여 적도 아군도 꽁꽁 얼려버린다.,582;바닐프티;583;바닐리치;584;배바닐라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058401.png
+ 사철록,노말;풀,0.6,계절,b,19.5,엽록소;초식,계절에 따라 냄새도 변한다. 초봄에는 은은하게 달콤하면서 마음이 차분해지는 향기가 난다.,585;사철록;586;바라철록,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058501.png
+ 사철록,노말;풀,0.6,계절,b,19.5,엽록소;초식,밭에 들어오지 못하도록 천적인 루가루암에게 경비를 맡기는 농가가 많다.,585;사철록;586;바라철록,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058502.png
+ 사철록,노말;풀,0.6,계절,b,19.5,엽록소;초식,낯을 가리지 않는 성격이라 인간이 앞에 있어도 눈치 보지 않는다. 먹이를 주면 금방 친해질 수 있다.,585;사철록;586;바라철록,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058503.png
+ 사철록,노말;풀,0.6,계절,b,19.5,엽록소;초식,사철록의 체취는 계절에 따라 변하지만 겨울의 모습이 되면 거의 냄새가 나지 않게 된다.,585;사철록;586;바라철록,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058504.png
+ 바라철록,노말;풀,1.9,계절,b,92.5,엽록소;초식,뿔에 많은 꽃이 핀 바라철록은 꽃에 영양분을 빼앗기기 때문에 성장이 조금 늦다고 한다.,585;사철록;586;바라철록,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058601.png
+ 바라철록,노말;풀,1.9,계절,b,92.5,엽록소;초식,애호가가 많은 포켓몬. 뿔에 무성하게 자란 가지와 잎이 굵고 클수록 훌륭한 것으로 여겨진다.,585;사철록;586;바라철록,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058602.png
+ 바라철록,노말;풀,1.9,계절,b,92.5,엽록소;초식,애호가가 많은 포켓몬. 뿔에서 늘어진 가지와 잎의 빨간색이 짙을수록 멋진 것으로 여겨진다.,585;사철록;586;바라철록,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058603.png
+ 바라철록,노말;풀,1.9,계절,b,92.5,엽록소;초식,이 모습인 시기에는 얌전하고 매우 길들이기 쉬운 것으로 알려져 있어 파트너로 만들 절호의 기회다.,585;사철록;586;바라철록,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058604.png
+ 에몽가,전기;비행,0.4,하늘다람쥐,b,5,정전기,전기를 내뿜으며 하늘을 춤추듯이 난다. 귀엽지만 성가시다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058701.png
+ 딱정곤,벌레,0.5,덥석물기,b,5.9,벌레의알림;탈피,전기 에너지에 반응하는 이상한 체질을 지녔다. 쪼마리와 함께 있으면 진화한다.,588;딱정곤;589;슈바르고,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058801.png
+ 슈바르고,벌레;강철,1,기병,b,33,벌레의알림;조가비갑옷,쪼마리의 껍질을 빼앗아 완전히 무장했다. 가라르지방에서는 매우 인기가 높다.,588;딱정곤;589;슈바르고,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/058901.png
+ 깜놀버슬,풀;독,0.2,버섯,b,1,포자,"몬스터볼의 개발자가 깜놀버슬을 좋아했다는 설이 있지만, 진위는 불명하다.",590;깜놀버슬;591;뽀록나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059001.png
+ 뽀록나,풀;독,0.6,버섯,b,10.5,포자,내뿜는 독 포자를 조심해야 한다. 포자에 닿은 부분에서 뽀록나의 갓을 닮은 버섯이 자라기 때문이다.,590;깜놀버슬;591;뽀록나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059101.png
+ 탱그릴,물;고스트,1.2,부유,m,33,저수;저주받은바디,베일과도 같은 손발로 먹이를 끌어안아 8000m 아래의 심해로 끌고 들어간다.,592;탱그릴;593;탱탱겔,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059201.png
+ 탱그릴,물;고스트,1.2,부유,f,33,저수;저주받은바디,베일과도 같은 손발로 먹이를 끌어안아 8000m 아래의 심해로 끌고 들어간다.,592;탱그릴;593;탱탱겔,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059202.png
+ 탱탱겔,물;고스트,2.2,부유,m,135,저수;저주받은바디,몸의 대부분이 바닷물과 같은 성분으로 이루어져 있다. 침몰선을 거처로 삼는다.,592;탱그릴;593;탱탱겔,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059301.png
+ 탱탱겔,물;고스트,2.2,부유,f,135,저수;저주받은바디,몸의 대부분이 바닷물과 같은 성분으로 이루어져 있다. 침몰선을 거처로 삼는다.,592;탱그릴;593;탱탱겔,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059302.png
+ 맘복치,물,1.2,돌보기,b,31.6,치유의마음;촉촉바디,상처 입거나 약해진 포켓몬을 지느러미로 부드럽게 안으며 특수한 점막으로 치료한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059401.png
+ 파쪼옥,벌레;전기,0.1,들러붙기,b,0.6,복안;긴장감,포켓몬의 몸에 들러붙어 정전기를 흡수한다. 스스로는 전기를 만들 수 없다.,595;파쪼옥;596;전툴라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059501.png
+ 전툴라,벌레;전기,0.8,전기거미,b,14.3,복안;긴장감,전기를 띤 배의 털을 날려서 공격한다. 털에 찔리면 삼 일 밤낮으로 전신이 마비된다.,595;파쪼옥;596;전툴라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059601.png
+ 철시드,풀;강철,0.6,가시열매,b,18.8,철가시,가시를 날려서 몸을 지킨다. 원하는 방향으로 날리기 위해서는 많은 훈련이 필요하다.,597;철시드;598;너트령,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059701.png
+ 너트령,풀;강철,1,가시공,b,110,철가시,가시로 암반에 상처를 낸 다음 촉수 끝을 이용해서 영양분을 흡수한다.,597;철시드;598;너트령,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059801.png
+ 기어르,강철,0.3,톱니바퀴,u,21,플러스;마이너스,2개의 몸은 쌍둥이보다도 가깝다. 다른 몸과 있으면 제대로 맞물리지 못한다.,599;기어르;600;기기어르;601;기기기어르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/059901.png
+ 기기어르,강철,0.6,톱니바퀴,u,51,플러스;마이너스,전력을 다할 때는 왕기어의 바깥쪽 톱니와 꼬마기어가 맞물린다. 회전 속도를 빠르게 하기 위함이다.,599;기어르;600;기기어르;601;기기기어르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/060001.png
+ 기기기어르,강철,0.6,톱니바퀴,u,81,플러스;마이너스,가시 끝에서 강한 전격을 발사한다. 빨간 코어에 많은 에너지를 비축하고 있다.,599;기어르;600;기기어르;601;기기기어르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/060101.png
+ 저리어,전기,0.2,전기물고기,b,0.3,부유,한 마리의 전력은 적지만 많은 저리어가 연결되면 번개와 같은 위력이 된다.,602;저리어;603;저리릴;604;저리더프,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/060201.png
+ 저리릴,전기,1.2,전기물고기,b,22,부유,둥근 무늬가 발전 기관이다. 상대를 휘감은 후 무늬를 딱 붙여서 전기를 흘려보낸다.,602;저리어;603;저리릴;604;저리더프,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/060301.png
+ 저리더프,전기,2.1,전기물고기,b,80.5,부유,팔 힘으로 바다에서 기어 나와 물가에 있는 먹이를 덮친다. 한순간에 바다로 끌고 들어간다.,602;저리어;603;저리릴;604;저리더프,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/060401.png
+ 리그레,에스퍼,0.5,브레인,b,9,텔레파시;싱크로,TV 근처에 있으면 모니터에 기묘한 풍경이 비친다. 리그레의 고향이라 여겨지고 있다.,605;리그레;606;벰크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/060501.png
+ 벰크,에스퍼,1,브레인,b,34.5,텔레파시;싱크로,벰크가 나타난 목장에서는 배우르 1마리가 어느샌가 모습을 감춘다.,605;리그레;606;벰크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/060601.png
+ 불켜미,고스트;불꽃,0.3,양초,b,3.1,타오르는불꽃;불꽃몸,불꽃으로 뜨거워진 몸은 약간 따뜻하다. 미아의 손을 잡고 영계로 데리고 간다.,607;불켜미;608;램프라;609;샹델라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/060701.png
+ 램프라,고스트;불꽃,0.6,램프,b,13,타오르는불꽃;불꽃몸,누군가가 죽기 직전에 나타나기 때문에 사신의 사자로 여겨져 두려움의 대상이 되었다.,607;불켜미;608;램프라;609;샹델라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/060801.png
+ 샹델라,고스트;불꽃,1,권유,b,34.3,타오르는불꽃;불꽃몸,오래된 양옥집에 산다. 팔의 불꽃을 이상하게 흔들어서 상대에게 최면을 건다.,607;불켜미;608;램프라;609;샹델라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/060901.png
+ 터검니,드래곤,0.6,이빨,b,18,투쟁심;틀깨기,땅속에 만든 굴에 산다. 먼 옛날 사람들은 어금니를 식칼 대신 사용했다.,610;터검니;611;액슨도;612;액스라이즈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/061001.png
+ 액슨도,드래곤,1,도끼턱,b,36,투쟁심;틀깨기,어금니는 부러지면 다시 자라지 않기 때문에 결정적인 순간에만 사용한다고 한다.,610;터검니;611;액슨도;612;액스라이즈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/061101.png
+ 액스라이즈,드래곤,1.8,도끼턱,b,105.5,투쟁심;틀깨기,동굴이나 폐광산을 거처로 쓴다. 온순하지만 어금니를 건드리면 크게 화를 내기 때문에 주의가 필요하다.,610;터검니;611;액슨도;612;액스라이즈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/061201.png
+ 코고미,얼음,0.5,빙결,b,8.5,눈숨기;눈치우기,추운 지역의 바닷가에 많다. 콧물을 흘리고 있지 않으면 병에 걸렸을 수도 있다.,613;코고미;614;툰베어,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/061301.png
+ 툰베어,얼음,2.6,동결,b,260,눈숨기;눈치우기,육식을 하는 영악한 포켓몬. 먹이를 잡으면 냉기를 뿜어서 얼린 뒤 보관한다.,613;코고미;614;툰베어,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/061401.png
+ 프리지오,얼음,1.1,결정,u,148,부유,추운 계절에 나타난다. 설산에서 죽은 포켓몬이나 사람이 환생한 것이라고 전해진다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/061501.png
+ 쪼마리,벌레,0.4,달팽이,b,7.7,촉촉바디;조가비갑옷,"상대에게 공격받으면 껍질의 뚜껑을 꽉 닫아서 몸을 지킨다. 단, 딱정곤에게는 열리고 만다.",616;쪼마리;617;어지리더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/061601.png
+ 어지리더,벌레,0.8,탈껍질,b,25.3,촉촉바디;점착,재빠른 움직임으로 독을 날려서 싸운다. 어지리더가 주인공인 영화나 만화는 인기가 많다.,616;쪼마리;617;어지리더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/061701.png
+ 메더,땅;전기,0.7,트랩,b,11,정전기;유연,갯벌이 보금자리다. 진흙 속에 사는 세균에 의해 전기를 만드는 기관이 발달했다.,618;메더;618;메더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/061801.png
+ 메더,땅;강철,0.7,트랩,b,20.5,의태,철분이 풍부한 진흙 속에서 서식하다 보니 튼튼한 강철의 몸으로 변화했다.,618;메더;618;메더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/061802.png
+ 비조푸,격투,0.9,무술,b,20,정신력;재생력,잘 단련된 비조푸는 1분에 100회 이상 촙 공격을 할 수 있다.,619;비조푸;620;비조도,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/061901.png
+ 비조도,격투,1.4,무술,b,35.5,정신력;재생력,진정한 강적과 만나면 몸을 가볍게 하기 위해 양손의 털을 물어뜯어 버린다.,619;비조푸;620;비조도,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/062001.png
+ 크리만,드래곤,1.6,동굴,b,139,까칠한피부;우격다짐,토굴에 산다. 몸이 차가워지면 움직이지 못하기 때문에 일광욕을 거르지 않는다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/062101.png
+ 골비람,땅;고스트,1,골렘,u,92,철주먹;서투름,점토에서 만들어진 고대의 포켓몬. 어째선지 큰 바위를 늘어놓기만 하는 녀석도 있다.,622;골비람;623;골루그,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/062201.png
+ 골루그,땅;고스트,2.8,골렘,u,330,철주먹;서투름,고대인의 성벽에는 골루그가 빔을 쏘기 위한 포대와 같은 대좌가 있다.,622;골비람;623;골루그,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/062301.png
+ 자망칼,악;강철,0.5,날붙이,b,10.2,오기;정신력,강한 상대에게도 겁먹지 않고 덤빈다. 여차하면 상대에게 달라붙어서 몸에 달린 칼날로 찌른다.,624;자망칼;625;절각참;983;대도각참,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/062401.png
+ 절각참,악;강철,1.6,도인,b,70,오기;정신력,자망칼을 거느리며 무리를 만든다. 영역을 건 싸움에서 진 무리는 이긴 쪽에 흡수된다.,624;자망칼;625;절각참;983;대도각참,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/062501.png
+ 버프론,노말,1.6,박치기소,b,94.6,이판사판;초식,박치기만으로 자동차를 부순다. 머리의 털이 풍성할수록 무리에서 지위가 올라간다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/062601.png
+ 수리둥보,노말;비행,0.5,새끼독수리,m,10.5,날카로운눈;우격다짐,무작정 싸움을 건다. 쓰러지고 다칠 때마다 강하고 늠름하게 성장한다.,627;수리둥보;628;워글,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/062701.png
+ 워글,노말;비행,1.5,용맹,m,41,날카로운눈;우격다짐,용맹 과감한 창공의 전사이다. 몸의 상처가 많을수록 동료에게 존경받는다고 한다.,627;수리둥보;628;워글,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/062801.png
+ 워글,에스퍼;비행,1.7,부르짖기,m,43.4,날카로운눈;우격다짐,소름 끼치는 함성을 외쳐서 사냥하는 용맹하고 큰 새. 호수에 충격파를 발산해서 수면에 떠오른 먹잇감을 잡는다.,627;수리둥보;628;워글,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/062802.png
+ 벌차이,악;비행,0.5,기저귀,f,9,부풀린가슴;방진,해골을 입어서 엉덩이를 보호한다. 착용감이 편안한 해골을 두고 동료끼리 옥신각신한다.,629;벌차이;630;버랜지나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/062901.png
+ 버랜지나,악;비행,1.2,뼈독수리,f,39.5,부풀린가슴;방진,성질이 난폭하지만 미아가 된 벌차이를 발견하면 둥지를 떠날 때까지 정성껏 돌봐준다.,629;벌차이;630;버랜지나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/063001.png
+ 앤티골,불꽃,1.4,개미핥기,b,58,먹보;타오르는불꽃,꼬리의 구멍을 통해 공기를 빨아들여 불꽃을 태운다. 구멍이 막히면 상태가 나빠진다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/063101.png
+ 아이앤트,벌레;강철,0.3,철개미,b,33,벌레의알림;의욕,굴속 깊은 곳에 알을 낳는다. 앤티골에게 공격받으면 커다란 턱으로 물어서 반격한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/063201.png
+ 모노두,악;드래곤,0.8,폭거,b,17.3,의욕,눈이 보이지 않기 때문에 무엇이든 일단 깨물어서 확인한다. 길들여지기 전까지는 상처투성이가 된다.,633;모노두;634;디헤드;635;삼삼드래,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/063301.png
+ 디헤드,악;드래곤,1.4,흉,b,50,의욕,머리끼리는 사이가 좋지 않다. 두 머리 모두 귀여워해 주지 않으면 질투하여 큰 싸움이 난다.,633;모노두;634;디헤드;635;삼삼드래,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/063401.png
+ 삼삼드래,악;드래곤,1.8,난폭,b,160,부유,본체의 머리만이 뇌를 가지고 있다. 지능은 높지만 파괴하는 일만 생각하고 있다.,633;모노두;634;디헤드;635;삼삼드래,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/063501.png
+ 활화르바,벌레;불꽃,1.1,횃불,b,28.8,불꽃몸,태양을 훔친 유충이라 불렸었다. 뿔을 통해 분출하는 불꽃은 철판도 끊어 버릴 수 있다.,636;활화르바;637;불카모스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/063601.png
+ 불카모스,벌레;불꽃,1.6,태양,b,46,불꽃몸,"더운 곳에서는 타오르는 몸 때문에 미움을 받지만, 추운 곳에서는 태양의 화신이라며 받들어진다.",636;활화르바;637;불카모스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/063701.png
+ 코바르온,강철;격투,2.1,철심,u,250,정의의마음,강철의 몸과 마음을 지녔다. 째려보기만 해도 난폭한 포켓몬마저도 따르게 된다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/063801.png
+ 테라키온,바위;격투,1.9,암굴,u,260,정의의마음,거대한 성벽을 일격에 돌파할 만한 돌진력을 가졌다. 전설로 전해지는 포켓몬이다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/063901.png
+ 비리디온,풀;격투,2,초원,u,200,정의의마음,머리의 뿔은 날카로운 칼날이다. 회오리바람과 같은 움직임으로 상대를 농락하여 재빠르게 벤다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064001.png
+ 토네로스,비행,1.5,선풍,m,63,짓궂은마음,구름처럼 생긴 에너지체에 하반신이 둘러싸여 있다. 시속 300km로 하늘을 난다.,641;토네로스;641;토네로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064101.png
+ 토네로스,비행,1.4,선풍,m,63,재생력,구름처럼 생긴 에너지체에 하반신이 둘러싸여 있다. 시속 300km로 하늘을 난다.,641;토네로스;641;토네로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064102.png
+ 볼트로스,전기;비행,1.5,뇌격,m,61,짓궂은마음,꼬리의 가시에서 전격을 날린다. 하나지방의 하늘을 날아다니며 번개를 내리친다.,642;볼트로스;642;볼트로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064201.png
+ 볼트로스,전기;비행,3,뇌격,m,61,축전,꼬리의 가시에서 전격을 날린다. 하나지방의 하늘을 날아다니며 번개를 내리친다.,642;볼트로스;642;볼트로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064202.png
+ 레시라무,드래곤;불꽃,3.2,백양,u,330,터보블레이즈,불꽃으로 세상을 태워버릴 수 있는 전설의 포켓몬. 진실의 세계를 구축하는 사람을 도와준다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064301.png
+ 제크로무,드래곤;전기,2.9,흑음,u,345,테라볼티지,번개로 세상을 태워버릴 수 있는 전설의 포켓몬. 이상의 세계를 구축하는 사람을 보좌한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064401.png
+ 랜드로스,땅;비행,1.5,풍요,m,68,모래의힘,랜드로스가 찾아온 땅에는 작물에 열매가 많이 열리기 때문에 농지의 신이라고 전해진다.,645;랜드로스;645;랜드로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064501.png
+ 랜드로스,땅;비행,1.3,풍요,m,68,위협,랜드로스가 찾아온 땅에는 작물에 열매가 많이 열리기 때문에 농지의 신이라고 전해진다.,645;랜드로스;645;랜드로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064502.png
+ 큐레무,드래곤;얼음,3,경계,u,325,프레셔,잃어버린 몸을 진실과 이상으로 채워줄 영웅을 기다리는 얼음의 전설 포켓몬.,646;큐레무;646;큐레무;646;큐레무,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064601.png
+ 큐레무,드래곤;얼음,3.6,경계,u,325,터보블레이즈,잃어버린 몸을 진실과 이상으로 채워줄 영웅을 기다리는 얼음의 전설 포켓몬.,646;큐레무;646;큐레무;646;큐레무,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064602.png
+ 큐레무,드래곤;얼음,3.3,경계,u,325,테라볼티지,잃어버린 몸을 진실과 이상으로 채워줄 영웅을 기다리는 얼음의 전설 포켓몬.,646;큐레무;646;큐레무;646;큐레무,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064603.png
+ 케르디오,물;격투,1.4,망아지,u,48.5,정의의마음,바다나 강 등의 수면을 달려 세계 곳곳을 뛰어다닌다. 아름다운 물가에 나타난다.,647;케르디오;647;케르디오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064701.png
+ 케르디오,물;격투,1.4,망아지,u,48.5,정의의마음,바다나 강 등의 수면을 달려 세계 곳곳을 뛰어다닌다. 아름다운 물가에 나타난다.,647;케르디오;647;케르디오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064702.png
+ 메로엣타,노말;에스퍼,0.6,선율,u,6.5,하늘의은총,메로엣타가 연주하는 선율에는 주위 포켓몬을 기쁘게 하거나 슬프게 할 정도의 힘이 있다.,648;메로엣타;648;메로엣타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064801.png
+ 메로엣타,노말;격투,0.6,선율,u,6.5,하늘의은총,메로엣타가 연주하는 선율에는 주위 포켓몬을 기쁘게 하거나 슬프게 할 정도의 힘이 있다.,648;메로엣타;648;메로엣타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064802.png
+ 게노세크트,벌레;강철,1.5,고생대,u,82.5,다운로드,플라스마단에게 개조당한 고대의 벌레포켓몬이다. 등에 있는 대포의 파워가 올라갔다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/064901.png
+ 도치마론,풀,0.4,밤송이,b,9,심록,머리의 가시는 평소에는 부드럽지만 힘을 주면 뾰족하고 날카로워지며 바위를 뚫어 버릴 정도로 단단해진다.,650;도치마론;651;도치보구;652;브리가론,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/065001.png
+ 도치보구,풀,0.7,가시갑옷,b,29,심록,몸을 둘러싼 단단한 껍질이 적의 공격을 튕겨내고 날카로운 가시로 반격한다.,650;도치마론;651;도치보구;652;브리가론,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/065101.png
+ 브리가론,풀;격투,1.6,가시갑옷,b,90,심록,몸통박치기로 50톤 전차를 뒤집는 파워를 지녔다. 자신이 방패가 되어 동료를 지킨다.,650;도치마론;651;도치보구;652;브리가론,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/065201.png
+ 푸호꼬,불꽃,0.4,여우,b,9.4,맹화,잔가지를 먹으면 힘이 나서 섭씨 200도가 넘는 열기를 커다란 귀에서 내뿜는다.,653;푸호꼬;654;테르나;655;마폭시,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/065301.png
+ 테르나,불꽃,1,여우,b,14.5,맹화,나뭇가지를 꼬리에 꽂고 있다. 꼬리털의 마찰열로 가지에 불을 붙여 싸운다.,653;푸호꼬;654;테르나;655;마폭시,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/065401.png
+ 마폭시,불꽃;에스퍼,1.5,여우,b,39,맹화,지팡이 끝의 타오르는 불꽃을 바라보며 정신을 통일하면 미래에 일어날 일을 내다볼 수 있다.,653;푸호꼬;654;테르나;655;마폭시,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/065501.png
+ 개구마르,물,0.3,거품개구리,b,7,급류,가슴과 등에서 거품을 내뿜는다. 탄력 있는 거품으로 공격을 막아내고 데미지를 줄인다.,656;개구마르;657;개굴반장;658;개굴닌자,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/065601.png
+ 개굴반장,물,0.6,거품개구리,b,10.9,급류,거품으로 싸인 돌멩이를 던지는 기술을 쓴다. 30m 앞에 있는 빈 캔을 맞출 정도로 컨트롤이 좋다.,656;개구마르;657;개굴반장;658;개굴닌자,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/065701.png
+ 개굴닌자,물;악,1.5,시노비,b,40,급류,물을 압축시켜 수리검을 만들어 낸다. 고속으로 회전시키며 던지면 금속도 두 동강이 난다.,656;개구마르;657;개굴반장;658;개굴닌자,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/065801.png
+ 파르빗,노말,0.4,땅구멍파기,b,5,픽업;볼주머니,귀로 구멍을 파는 것이 특기다. 지하 10m에 달하는 굴을 하룻밤 만에 만들어버린다.,659;파르빗;660;파르토,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/065901.png
+ 파르토,노말;땅,1,땅구멍파기,b,42.4,픽업;볼주머니,굴착기에 뒤지지 않는 파워로 단단한 암반도 파고 들어간다. 터널 공사에서 크게 활약한다.,659;파르빗;660;파르토,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/066001.png
+ 화살꼬빈,노말;비행,0.3,울새,b,1.7,부풀린가슴,평소에는 온순하지만 싸움에 들어가면 호르몬의 균형이 바뀌어 공격적이게 된다.,661;화살꼬빈;662;불화살빈;663;파이어로,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/066101.png
+ 불화살빈,불꽃;비행,0.7,불티,b,16,불꽃몸,벌레포켓몬이 숨어 있을 것 같은 풀숲에 불똥을 흩뿌려서 튀어나오는 순간 잡아챈다.,661;화살꼬빈;662;불화살빈;663;파이어로,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/066201.png
+ 파이어로,불꽃;비행,1.2,열화,b,24.5,불꽃몸,비행 능력은 톱클래스다. 100kg 이상의 먹이를 잡은 채로도 가뿐히 날아다닌다.,661;화살꼬빈;662;불화살빈;663;파이어로,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/066301.png
+ 분이벌레,벌레,0.3,가루뿜기,b,2.5,인분;복안,흡수한 독소는 검은 가루로 바꿔서 배출하기 때문에 독성을 띠는 잎이나 뿌리도 먹을 수 있다.,664;분이벌레;665;분떠도리;666;비비용,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/066401.png
+ 분떠도리,벌레,0.3,가루뿜기,b,8.4,탈피,수리둥보에게 부리로 쪼이면 뾰족한 털과 독성을 띠는 검은 가루로 맞서 싸운다.,664;분이벌레;665;분떠도리;666;비비용,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/066501.png
+ 비비용,벌레;비행,1.2,인분,b,17,인분;복안,세계에는 다양한 무늬의 날개를 가진 비비용이 있다. 살고 있는 곳의 기후에 영향을 받는 것 같다.,664;분이벌레;665;분떠도리;666;비비용,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/066601.png
+ 레오꼬,불꽃;노말,0.6,어린사자,b,13.5,투쟁심;긴장감,어릴 때는 암컷 화염레오에게 사냥 방법을 배우고 성장하면 무리를 떠나 독립한다.,667;레오꼬;668;화염레오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/066701.png
+ 화염레오,불꽃;노말,1.5,임금,m,81.5,투쟁심;긴장감,무리의 암컷들이 협력해서 먹잇감을 처리한다. 암컷들 덕분에 무리가 굶지 않을 수 있는 것이다.,667;레오꼬;668;화염레오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/066801.png
+ 화염레오,불꽃;노말,1.5,임금,f,81.5,투쟁심;긴장감,무리의 암컷들이 협력해서 먹잇감을 처리한다. 암컷들 덕분에 무리가 굶지 않을 수 있는 것이다.,667;레오꼬;668;화염레오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/066802.png
+ 플라베베,페어리,0.1,한송이,f,0.1,플라워베일,들판에 핀 꽃에 숨겨진 힘을 끌어내는 능력을 가지고 있다. 특히 빨간 꽃을 좋아한다.,669;플라베베;670;플라엣테;671;플라제스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/066901.png
+ 플라엣테,페어리,0.2,한송이,f,0.9,플라워베일,시든 꽃의 남은 힘을 끌어내어 건강해지게 한다. 빨간 꽃을 들고 있는 플라엣테.,669;플라베베;670;플라엣테;671;플라제스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/067001.png
+ 플라제스,페어리,1.1,가든,f,10,플라워베일,자신의 영역에 멋진 화원을 만든다. 목을 감싸고 있는 빨간 꽃의 파워를 끌어낸다.,669;플라베베;670;플라엣테;671;플라제스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/067101.png
+ 메이클,풀,0.9,라이드,b,31,초식,최근까지도 산악 지대에 사는 사람들은 메이클의 등에 올라타서 산길을 이동했다.,672;메이클;673;고고트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/067201.png
+ 고고트,풀,1.7,라이드,b,91,초식,뿔에 닿으면 상대의 기분을 느낄 수 있다. 5천 년 전부터 인간의 일을 도왔다.,672;메이클;673;고고트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/067301.png
+ 판짱,격투,0.6,개구쟁이,b,8,철주먹;틀깨기,형님처럼 따르는 부란다를 따라 하면서 싸우는 법과 먹이를 잡는 법을 배운다.,674;판짱;675;부란다,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/067401.png
+ 부란다,격투;악,2.1,무서운얼굴,b,136,철주먹;틀깨기,성질이 사나워서 완력으로 상대를 조용하게 만든다. 가로막구리와의 결투에 투지를 불태운다.,674;판짱;675;부란다,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/067501.png
+ 트리미앙,노말,1.2,푸들,b,28,퍼코트,복슬복슬한 털을 깎고 다듬으면 모습이 아름다워질 뿐만 아니라 몸의 움직임도 좋아진다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/067601.png
+ 냐스퍼,에스퍼,0.3,자제,b,3.5,날카로운눈;틈새포착,언제나 무표정하지만 실제로는 강력한 사이코 파워가 새어 나가지 않게 하기 위해 필사적이다.,677;냐스퍼;678;냐오닉스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/067701.png
+ 냐오닉스,에스퍼,0.6,억제,m,8.5,날카로운눈;틈새포착,귀 안쪽의 눈알 모양에서 사이코 파워를 내지만 평소에는 그 힘을 숨기고 있다.,677;냐스퍼;678;냐오닉스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/067801.png
+ 냐오닉스,에스퍼,0.6,억제,f,8.5,날카로운눈;틈새포착,수컷보다 살짝 더 제멋대로이고 공격적이다. 기분이 상하면 사이코 파워로 괴롭힌다.,677;냐스퍼;678;냐오닉스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/067802.png
+ 단칼빙,강철;고스트,0.8,도검,b,2,노가드,먼 옛날에 이 검에 의해 죽은 인간의 영혼이 단칼빙의 영혼이 되었다.,679;단칼빙;680;쌍검킬;681;킬가르도,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/067901.png
+ 쌍검킬,강철;고스트,0.8,도검,b,4.5,노가드,진화해서 쌍둥이가 되었다. 칼날을 맞부딪혀서 내는 금속음으로 상대를 위협한다.,679;단칼빙;680;쌍검킬;681;킬가르도,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/068001.png
+ 킬가르도,강철;고스트,1.7,왕검,b,53,배틀스위치,강철로 된 몸과 영험한 힘을 가진 배리어로 모든 공격을 약하게 만드는 방어적인 태세.,679;단칼빙;680;쌍검킬;681;킬가르도,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/068101.png
+ 킬가르도,강철;고스트,1.7,왕검,b,53,배틀스위치,공격에 특화된 태세. 강철의 무게와 강도를 살려서 상대를 가른다.,679;단칼빙;680;쌍검킬;681;킬가르도,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/068102.png
+ 슈쁘,페어리,0.2,향수,b,0.5,치유의마음,체내에 있는 향기주머니로 향기를 만들어 내는 포켓몬. 먹이가 바뀌면 만들어 내는 향기도 바뀐다.,682;슈쁘;683;프레프티르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/068201.png
+ 프레프티르,페어리,0.8,방향,b,15.5,치유의마음,털에서 항상 강렬한 향기를 내보내기 때문에 파트너는 후각이 둔해지게 된다.,682;슈쁘;683;프레프티르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/068301.png
+ 나룸퍼프,페어리,0.4,솜사탕,b,3.5,스위트베일,하루에 자신의 체중만큼의 설탕을 먹는다. 당분이 부족하면 매우 기분이 나빠진다.,684;나룸퍼프;685;나루림,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/068401.png
+ 나루림,페어리,0.8,휩,b,5,스위트베일,체취로 몸과 마음의 상태를 알아낸다. 의료계에서 응용될 것으로 기대되고 있다.,684;나룸퍼프;685;나루림,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/068501.png
+ 오케이징,악;에스퍼,0.4,회전,b,3.5,심술꾸러기;흡반,회전하면서 발광체를 깜빡인다. 빛의 패턴으로 동료와 의사소통한다.,686;오케이징;687;칼라마네로,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/068601.png
+ 칼라마네로,악;에스퍼,1.5,역전,b,47,심술꾸러기;흡반,발광체의 빛을 보면 순식간에 최면 상태가 되어 칼라마네로에게 조종당한다.,686;오케이징;687;칼라마네로,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/068701.png
+ 거북손손,바위;물,0.5,두손,b,31,단단한발톱;스나이퍼,2마리가 해변가의 적당한 바위에 달라붙어서 지낸다. 만조가 되면 협력해서 먹이를 모은다.,688;거북손손;689;거북손데스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/068801.png
+ 거북손데스,바위;물,1.3,집합,b,96,단단한발톱;스나이퍼,7마리의 거북손손이 1마리의 몸을 이루고 있다. 머리가 손발에 명령하는 구조다.,688;거북손손;689;거북손데스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/068901.png
+ 수레기,독;물,0.5,풀모방,b,7.3,독가시;독수,바다에 떠 있는 해초에 섞여서 적의 눈을 속인다. 썩은 해초를 먹어서 독을 만든다.,690;수레기;691;드래캄,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/069001.png
+ 드래캄,독;드래곤,1.8,풀모방,b,81.5,독가시;독수,영역에 들어온 상대를 다짜고짜 독액으로 공격한다. 배의 밑바닥을 썩게 만드는 맹독을 지녔다.,690;수레기;691;드래캄,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/069101.png
+ 완철포,물,0.5,물대,b,8.3,메가런처,오른쪽 집게 안에서 가스를 폭발시켜서 물을 발사한다. 날아가는 포켓몬을 노려 맞힐 수 있다.,692;완철포;693;블로스터,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/069201.png
+ 블로스터,물,1.3,런처,b,35.3,메가런처,체내 가스의 힘으로 집게의 꽁지에서 물을 분사하여 60노트의 스피드로 헤엄친다.,692;완철포;693;블로스터,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/069301.png
+ 목도리키텔,전기;노말,0.5,발전,b,6,건조피부;모래숨기,머리에 있는 주름을 펼쳐서 태양의 빛으로 발전하면 파워풀한 전기 기술을 쓸 수 있게 된다.,694;목도리키텔;695;일레도리자드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/069401.png
+ 일레도리자드,전기;노말,1,발전,b,21,건조피부;모래숨기,과거에 멸망한 사막 나라에서 소중하게 여겼었다. 보물과 함께 가라르지방에 오게 됐다.,694;목도리키텔;695;일레도리자드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/069501.png
+ 티고라스,바위;드래곤,0.8,유군,b,26,옹골찬턱,화석에서 부활한 포켓몬이다. 마음에 들지 않는 일이 있으면 짜증을 내며 난동을 부린다.,696;티고라스;697;견고라스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/069601.png
+ 견고라스,바위;드래곤,2.5,폭군,b,270,옹골찬턱,두꺼운 철판을 종잇장처럼 물어뜯는 커다란 턱 덕분에 고대 세계에서는 무적이었다.,696;티고라스;697;견고라스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/069701.png
+ 아마루스,바위;얼음,1.3,툰드라,b,25.2,프리즈스킨,1억 년 전부터 빙하로 뒤덮여 있던 몸의 일부에서 부활한 고대의 포켓몬이다.,698;아마루스;699;아마루르가,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/069801.png
+ 아마루르가,바위;얼음,2.7,툰드라,b,225,프리즈스킨,마이너스 150도의 냉기를 마름모꼴의 결정에서 내뿜어 적을 감싸 얼어붙게 한다.,698;아마루스;699;아마루르가,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/069901.png
+ 님피아,페어리,1,연결,b,23.5,헤롱헤롱바디,리본 같은 더듬이를 통해 적의를 없애는 치유의 파동을 상대에게 보낸다.,133;이브이;134;샤미드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070001.png
+ 루차불,격투;비행,0.8,레슬링,b,21.5,유연;곡예,날개를 사용해 가볍게 도약하여 상대를 화려하게 마무리하는 기술은 나고 자란 숲에서 다듬어진다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070101.png
+ 데덴네,전기;페어리,0.2,안테나,b,2.2,볼주머니;픽업,몸집이 작고 발전 기관이 미숙하기 때문에 사람이 사는 집의 전기를 꼬리를 통해 흡수해서 충전한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070201.png
+ 멜리시,바위;페어리,0.3,보석,u,5.7,클리어바디,고온 고압의 지하 깊은 곳에서 태어난다. 보석 부분에서 빔을 발사하여 몸을 지킨다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070301.png
+ 미끄메라,드래곤,0.3,연체,b,2.8,초식;촉촉바디,몸의 대부분이 수분이다. 건조해서 말라 버리지 않도록 점막으로 전신을 뒤덮고 있다.,704;미끄메라;705;미끄네일;706;미끄래곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070401.png
+ 미끄네일,드래곤,0.8,연체,b,17.5,초식;촉촉바디,등에 달린 소용돌이 모양 돌기에 뇌나 심장과 같은 중요한 기관이 모두 들어 있다.,704;미끄메라;705;미끄네일;706;미끄래곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070501.png
+ 미끄네일,강철;드래곤,0.7,달팽이,b,68.5,초식;조가비갑옷,음침한 성격을 가졌다. 히스이 땅에 흐르는 물에 함유된 철이 피부의 점액에 작용하여 금속 껍질로 변한 것으로 추측된다.,704;미끄메라;705;미끄네일;706;미끄래곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070502.png
+ 미끄래곤,드래곤,2,드래곤,b,150.5,초식;촉촉바디,비를 매우 좋아한다. 비가 내리는 날이면 산과 들을 거니는 모습을 볼 수 있는 온화한 성격의 포켓몬.,704;미끄메라;705;미끄네일;706;미끄래곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070601.png
+ 미끄래곤,강철;드래곤,1.7,껍질숨기,b,334.1,초식;조가비갑옷,"금속 껍질의 강도를 자유롭게 조절할 수 있다. 고독한 것을 싫어하고 집요하여, 좋아하는 이가 자신에게서 떨어지려 하면 분노하여 날뛴다.",704;미끄메라;705;미끄네일;706;미끄래곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070602.png
+ 클레피,강철;페어리,0.2,열쇠꾸러미,b,3,짓궂은마음,금속 이온을 모두 흡수한 열쇠는 보통 미련 없이 버려 버리지만 마음에 들면 몇십 년이고 가지고 다닌다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070701.png
+ 나목령,고스트;풀,0.4,그루터기,b,7,자연회복;통찰,숲속을 헤매다 목숨을 잃은 아이의 영혼이 나무 그루터기에 씌어 포켓몬으로 다시 태어났다.,708;나목령;709;대로트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070801.png
+ 대로트,고스트;풀,1.5,고목,b,71,자연회복;통찰,숲에서 나무를 베는 인간을 잡아먹는다는 공포의 대상이지만 숲속에 사는 포켓몬들에게는 상냥하다.,708;나목령;709;대로트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/070901.png
+ 호바귀,고스트;풀,0.4,호박,b,5,픽업;통찰,이승을 떠도는 영혼은 호바귀의 몸속에 들어간 뒤 저승으로 떠난다.,710;호바귀;711;펌킨인,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071001.png
+ 펌킨인,고스트;풀,0.9,호박,b,12.5,픽업;통찰,한밤중에 몸속에서 들리는 기분 나쁜 울음소리는 저세상에서 고통받는 죽은 자의 울음소리라는 듯하다.,710;호바귀;711;펌킨인,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071101.png
+ 꽁어름,얼음,1,얼음덩이,b,99.5,마이페이스;아이스바디,혹한의 산악 지대에 살지만 드물게 크레베이스의 등에 올라 바다를 건너 거처를 옮기기도 한다.,712;꽁어름;713;크레베이스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071201.png
+ 크레베이스,얼음,2,빙산,b,505,마이페이스;아이스바디,꽁어름을 태우고 걷다가 우락고래 무리를 만나면 싸움이 일어나지 않게 지나간다.,712;꽁어름;713;크레베이스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071301.png
+ 크레베이스,얼음;바위,1.4,빙산,b,262.4,옹골찬턱;아이스바디,아래턱을 감싸고 있는 얼음으로 된 장갑은 강철보다 단단하여 암석을 손쉽게 부서뜨린다. 깊이 쌓인 눈을 가로지르며 험한 산길을 맹진한다.,712;꽁어름;713;크레베이스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071302.png
+ 음뱃,비행;드래곤,0.5,음파,b,8,통찰;틈새포착,큰 귀로 초음파를 내보내서 먹이인 과일을 찾는다. 과사삭벌레를 먹이로 착각하기도 한다.,714;음뱃;715;음번,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071401.png
+ 음번,비행;드래곤,1.5,음파,b,85,통찰;틈새포착,거대한 암석도 가루로 만드는 초음파를 발생시키는 잔인한 성격의 포켓몬.,714;음뱃;715;음번,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071501.png
+ 제르네아스,페어리,3,생명,u,215,페어리오라,영원한 생명을 나누어 준다고 한다. 수목의 모습으로 1000년 동안 잠들고 부활한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071601.png
+ 이벨타르,악;비행,5.8,파괴,u,203,다크오라,날개와 꼬리를 펼치고 빨갛게 빛날 때 살아 있는 생명을 빨아들이는 전설의 포켓몬.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071701.png
+ 지가르데,드래곤;땅,5,질서,u,305,오라브레이크;스웜체인지,셀이 50% 모인 모습이다. 적대하는 자는 일절 봐주지 않고 소멸시킨다.,718;지가르데;718;지가르데;718;지가르데,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071801.png
+ 지가르데,드래곤;땅,1.2,질서,u,33.5,오라브레이크;스웜체인지,날카로운 이빨로 상대를 처리한다. 계속 이 몸을 유지할 수 없어서 일정 시간이 지나면 흩어져버린다.,718;지가르데;718;지가르데;718;지가르데,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071802.png
+ 지가르데,드래곤;땅,4.5,질서,u,610,스웜체인지,생태계를 위협하는 자를 압도적인 힘으로 제압하는 지가르데의 모습이다.,718;지가르데;718;지가르데;718;지가르데,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071803.png
+ 디안시,바위;페어리,0.7,보석,u,8.8,클리어바디,멜리시의 돌연변이다. 분홍빛으로 빛나는 몸은 세계에서 가장 아름답다고 일컬어진다.,719;디안시;719;메가디안시,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071901.png
+ 메가디안시,바위;페어리,1.1,보석,u,27.8,매직미러,멜리시의 돌연변이다. 분홍빛으로 빛나는 몸은 세계에서 가장 아름답다고 일컬어진다.,719;디안시;719;메가디안시,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/071902.png
+ 후파,에스퍼;고스트,0.5,장난,u,9,매지션,공간을 뒤트는 링으로 모든 것을 멀리 떨어진 곳으로 날려버리고 마는 트러블메이커다.,720;후파;720;후파,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072001.png
+ 후파,에스퍼;악,6.5,마신,u,490,매지션,진정한 모습일 때는 거대한 힘을 가지고 있다. 원하는 재물을 손에 넣기 위해 그것이 숨겨진 성을 통째로 빼돌려 사라졌다는 전설이 있다.,720;후파;720;후파,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072002.png
+ 볼케니온,불꽃;물,1.7,스팀,u,195,저수,수증기를 뿜어내어 자신의 모습을 짙은 안개 속에 숨긴다. 사람이 오지 않는 산에 산다고 한다,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072101.png
+ 나몰빼미,풀;비행,0.3,풀깃,b,1.5,심록,경계심이 강하다. 낮에는 광합성으로 힘을 비축하고 밤이 되면 활동을 개시한다.,722;나몰빼미;723;빼미스로우;724;모크나이퍼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072201.png
+ 빼미스로우,풀;비행,0.7,칼날깃,b,16,심록,젠체하고 틈만 나면 날개의 손질을 한다. 깃털의 얼룩이 신경 쓰여 싸우지 못할 때도 있다.,722;나몰빼미;723;빼미스로우;724;모크나이퍼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072301.png
+ 모크나이퍼,풀;고스트,1.6,화살깃,b,36.6,심록,날개에 숨겨진 살깃을 시위에 메겨서 날린다. 100m 앞의 작은 돌도 관통하는 정밀함이다.,722;나몰빼미;723;빼미스로우;724;모크나이퍼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072401.png
+ 모크나이퍼,풀;격투,1.6,화살깃,b,37,심록,히스이의 극한의 추위에 견디기 위해 깃털의 심에 공기를 머금어 방한 기능을 갖췄다. 환경이 진화에 영향을 주는 것으로 판명된다.,722;나몰빼미;723;빼미스로우;724;모크나이퍼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072402.png
+ 냐오불,불꽃,0.4,불고양이,b,4.3,맹화,혀로 털을 정리하면서 배에 쌓인 빠진 털을 태워서 불을 뿜는다. 털을 뱉어내는 방법에 따라 불꽃도 변한다.,725;냐오불;726;냐오히트;727;어흥염,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072501.png
+ 냐오히트,불꽃,0.7,불고양이,b,25,맹화,목 주변에 불꽃의 방울이 있다. 불꽃을 뿜어낼 때 딸랑딸랑 높은 소리가 난다.,725;냐오불;726;냐오히트;727;어흥염,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072601.png
+ 어흥염,불꽃;악,1.8,힐,b,83,맹화,거칠고 제멋대로인 성격이다. 기분이 내키지 않으면 트레이너의 명령도 아무렇지 않게 무시한다.,725;냐오불;726;냐오히트;727;어흥염,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072701.png
+ 누리공,물,0.4,강치,b,7.5,급류,노력하는 성질로 유명하다. 체액을 코로 부풀린 풍선을 적에게 부딪힌다.,728;누리공;729;키요공;730;누리레느,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072801.png
+ 키요공,물,0.6,아이돌,b,17.5,급류,댄스가 특기이며 춤추면서 계속해서 물의 풍선을 만들어 적에게 부딪힌다.,728;누리공;729;키요공;730;누리레느,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/072901.png
+ 누리레느,물;페어리,1.8,솔리스트,b,44,급류,물의 풍선을 노래로 컨트롤한다. 그 멜로디는 동료에게 배우며 대대로 무리에 전해진다.,728;누리공;729;키요공;730;누리레느,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/073001.png
+ 콕코구리,노말;비행,0.3,딱따구리,b,1.2,날카로운눈;스킬링크,1초당 16번 나무를 쪼아서 구멍을 낸다. 낸 구멍은 먹이를 넣어두는 저장고나 둥지로 쓴다.,731;콕코구리;732;크라파;733;왕큰부리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/073101.png
+ 크라파,노말;비행,0.6,나팔입,b,14.8,날카로운눈;스킬링크,먹은 나무열매 씨앗을 부리에 저장한다. 적이나 먹이와 마주치면 한 번에 발사한다.,731;콕코구리;732;크라파;733;왕큰부리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/073201.png
+ 왕큰부리,노말;비행,1.1,대,b,26,날카로운눈;스킬링크,부리를 발열시켜 싸운다. 그 온도는 100도를 훨씬 넘어 쪼이기만 해도 큰 화상을 입는다.,731;콕코구리;732;크라파;733;왕큰부리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/073301.png
+ 영구스,노말,0.4,순회,b,6,잠복;옹골찬턱,몸의 대부분이 위장이다. 매일 같은 경로를 배회하며 신선한 먹이를 찾는다.,734;영구스;735;형사구스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/073401.png
+ 형사구스,노말,0.7,잠복,b,14.2,잠복;옹골찬턱,먹잇감의 흔적을 발견하면 해가 떨어질 때까지 그 자리에 머물며 끈질기게 잠복한다.,734;영구스;735;형사구스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/073501.png
+ 턱지충이,벌레,0.4,유충,b,4.4,벌레의알림,커다란 턱은 굵은 가지를 부러뜨릴 정도의 위력을 가졌다. 천적인 파라꼬도 견디지 못하고 도망친다.,736;턱지충이;737;전지충이;738;투구뿌논,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/073601.png
+ 전지충이,벌레;전기,0.5,배터리,b,10.5,배터리,튼튼한 껍질로 몸을 보호한다. 턱의 끝부분에서 전기를 흘려보내 반격한다.,736;턱지충이;737;전지충이;738;투구뿌논,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/073701.png
+ 투구뿌논,벌레;전기,1.5,뿔집게,b,45,부유,복부에서 만든 전기를 커다란 턱에 집중시켜서 고출력의 빔을 쏜다.,736;턱지충이;737;전지충이;738;투구뿌논,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/073801.png
+ 오기지게,격투,0.6,권투,b,7,괴력집게;철주먹,나무를 때려서 떨어진 나무열매를 먹는다. 트레이닝도 되고 먹이도 구해져서 그야말로 일석이조다.,739;오기지게;740;모단단게,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/073901.png
+ 모단단게,격투;얼음,1.7,털게,b,180,괴력집게;철주먹,떨어진 집게는 매우 맛있다. 일부러 맛보돈을 데리고 산에 올라 찾아다니는 트레이너도 있을 정도다.,739;오기지게;740;모단단게,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074001.png
+ 춤추새,불꽃;비행,0.6,댄스,b,3.4,무희,정열적으로 춤추는 모습이 팔데아 사람들의 취향에 맞는지 인기가 매우 좋다.,741;춤추새;741;춤추새;741;춤추새;No. 0741;춤추새,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074101.png
+ 춤추새,전기;비행,0.6,댄스,b,3.4,무희,진노랑꿀을 빨아들인 모습. 경쾌한 스텝으로 상대에게 접근하여 전격을 담은 펀치로 KO시킨다.,741;춤추새;741;춤추새;741;춤추새;No. 0741;춤추새,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074102.png
+ 춤추새,에스퍼;비행,0.6,댄스,b,3.4,무희,경쾌한 댄스가 건강을 유지하는 데 효과적이란 소문 덕에 인기 있는 스타일이나 팔데아에서는 보기 드문 편이다.,741;춤추새;741;춤추새;741;춤추새;No. 0741;춤추새,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074103.png
+ 춤추새,고스트;비행,0.6,댄스,b,3.4,무희,보라꿀을 빨아들인 모습. 환상적인 스텝으로 죽은 자의 영혼을 불러낸다.,741;춤추새;741;춤추새;741;춤추새;No. 0741;춤추새,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074104.png
+ 에블리,벌레;페어리,0.1,재니등에,b,0.2,꿀모으기;인분,꽃가루와 꿀을 아주 좋아한다. 꼬모카의 꽃가루를 노리고 에블리가 주변을 날아다닌다.,742;에블리;743;에리본,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074201.png
+ 에리본,벌레;페어리,0.2,재니등에,b,0.5,꿀모으기;인분,꽃가루와 꿀을 섞어서 경단을 만든다. 조합하는 종류와 양에 따라 효과가 달라진다.,742;에블리;743;에리본,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074301.png
+ 암멍이,바위,0.5,강아지,b,9.2,날카로운눈;의기양양,어렸을 때는 매우 잘 따른다. 자라면서 성질이 사나워지지만 주인에게 입은 은혜는 잊지 않는다.,744;암멍이;745;루가루암,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074401.png
+ 루가루암,바위,0.8,늑대,b,25,날카로운눈;모래헤치기,날카로운 발톱과 이빨로 먹이를 공격한다. 신뢰하는 트레이너의 지시에는 충실히 따른다.,744;암멍이;745;루가루암,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074501.png
+ 루가루암,바위,1.1,늑대,b,25,날카로운눈;의기양양,바위로 된 갈기로 다가오는 자를 베어 버린다. 트레이너의 지시도 마음에 안 들면 따르지 않는다.,744;암멍이;745;루가루암,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074502.png
+ 루가루암,바위,0.8,늑대,b,25,단단한발톱,평소에는 잘 짖지도 않지만 일단 싸우기 시작하면 자비 없이 상대를 몰아붙인다.,744;암멍이;745;루가루암,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074503.png
+ 약어리,물,0.2,잔물고기,b,0.3,어군,1마리로는 너무나도 허약해서 무리를 지어 상대에게 맞서는 능력을 습득했다.,746;약어리;746;약어리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074601.png
+ 약어리,물,8.2,잔물고기,b,78.6,어군,1마리는 아주 약하지만 다 같이 힘을 합치면 바다의 마물이라 불리는 존재가 된다.,746;약어리;746;약어리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074602.png
+ 시마사리,독;물,0.4,깨비사리,b,8,무도한행동;유연,먹이를 찾아 해변을 배회한다. 부러진 찌르성게의 가시를 먹으려다 마비되어 있는 경우가 많다.,747;시마사리;748;더시마사리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074701.png
+ 더시마사리,독;물,0.7,깨비사리,b,14.5,무도한행동;유연,자신의 다리로 만든 돔이 보금자리다. 조류를 뿔로 감지해서 주위를 살핀다.,747;시마사리;748;더시마사리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074801.png
+ 머드나기,땅,1,당나귀,b,110,마이페이스;지구력,두르고 있는 진흙은 먹었던 흙을 되새김해서 만든 것이다. 장시간 햇볕을 쬐어도 마르지 않는다.,749;머드나기;750;만마드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/074901.png
+ 만마드,땅,2.5,만마,b,920,마이페이스;지구력,힘쓰는 일뿐만 아니라 도자기의 재료가 되는 질 좋은 진흙을 만들기 때문에 소중히 여겨져 왔다.,749;머드나기;750;만마드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/075001.png
+ 물거미,물;벌레,0.3,수,b,4,수포,엉덩이로 수포를 부풀려서 머리를 감싼다. 동료끼리 수포의 크기를 비교한다.,751;물거미;752;깨비물거미,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/075101.png
+ 깨비물거미,물;벌레,1.8,수,b,82,수포,다리로 수포를 날려서 먹이를 감싼 다음 익사시킨다. 그리고는 시간을 들여 천천히 음미한다.,751;물거미;752;깨비물거미,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/075201.png
+ 짜랑랑,풀,0.3,풀사마귀,b,1.5,리프가드,낮잠을 방해받는 것을 매우 싫어한다. 일광욕으로 모은 에너지로 빔을 발사할 수 있다.,753;짜랑랑;754;라란티스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/075301.png
+ 라란티스,풀,0.9,꽃사마귀,b,18.5,리프가드,꽃의 달콤한 향기에 이끌려 찾아온 벌레포켓몬을 동료인 척 방심시키고는 낫으로 마무리한다.,753;짜랑랑;754;라란티스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/075401.png
+ 자마슈,풀;페어리,0.2,발광,b,1.5,발광;포자,머리의 갓은 매우 맛있다. 숲속의 포켓몬들에게 먹히지만 하룻밤 만에 재생한다.,755;자마슈;756;마셰이드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/075501.png
+ 마셰이드,풀;페어리,1,발광,b,11.5,발광;포자,깜빡이는 포자의 빛으로 먹이를 유인해서 잠들게 한다. 손끝으로 생기를 흡수한다.,755;자마슈;756;마셰이드,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/075601.png
+ 야도뇽,독;불꽃,0.6,독도마뱀,b,4.8,부식,먹잇감을 도발해서 좁은 암석 지대로 유인한 뒤 어지러워지는 독가스를 뿜어서 마무리한다.,757;야도뇽;758;염뉴트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/075701.png
+ 염뉴트,독;불꽃,1.2,독도마뱀,f,22.2,부식,독가스에 어질어질해진 상대를 요염한 몸놀림으로 유혹해서 충실한 부하로 만들어 버린다.,757;야도뇽;758;염뉴트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/075801.png
+ 포곰곰,노말;격투,0.5,바둥바둥,b,6.8,복슬복슬;서투름,푹신푹신한 털은 감촉이 뛰어나지만 섣불리 손을 댔다간 호되게 반격을 당하고 만다.,759;포곰곰;760;이븐곰,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/075901.png
+ 이븐곰,노말;격투,2.1,강한완력,b,135,복슬복슬;서투름,동료로 인정하면 애정을 표현하기 위해 껴안으려 하지만 뼈가 으스러질 수 있으므로 위험하다.,759;포곰곰;760;이븐곰,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/076001.png
+ 달콤아,풀,0.3,후르츠,f,3.2,리프가드;둔감,"과일을 졸인 것만 같은 달콤한 땀을 흘리기 때문에, 달콤한 음식이 적었던 옛날에는 매우 귀하게 여겨졌다.",761;달콤아;762;달무리나;763;달코퀸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/076101.png
+ 달무리나,풀,0.7,후르츠,f,8.2,리프가드;둔감,기운이 솟을 것만 같은 달콤한 향기를 흩뿌린다. 땀 억제제의 향료로 인기가 좋다.,761;달콤아;762;달무리나;763;달코퀸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/076201.png
+ 달코퀸,풀,1.2,후르츠,f,21.4,리프가드;여왕의위엄,자존심이 강하고 공격적이지만 꼭지의 왕관을 건드리면 금세 얌전해진다고 한다.,761;달콤아;762;달무리나;763;달코퀸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/076301.png
+ 큐아링,페어리,0.1,꽃따기,b,0.3,플라워베일;힐링시프트,덩굴을 사용해 꽃을 따서 자신을 꾸민다. 몸에 붙은 꽃은 무슨 이유에서인지 시들지 않는다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/076401.png
+ 하랑우탄,노말;에스퍼,1.5,현자,b,76,정신력;텔레파시,숲의 포켓몬들에게 계속해서 지시를 내리는 모습 때문에 옛날에는 인간이었던 것으로 여겨지고 있다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/076501.png
+ 내던숭이,격투,2,연계,b,82.8,리시버,단단한 나무열매를 던져서 싸운다. 볼을 던지는 것이 어설픈 트레이너의 명령은 듣지 않는다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/076601.png
+ 꼬시레,벌레;물,0.5,주행,b,12,도망태세,상한 것이든 쓰레기든 닥치는 대로 먹어 치우는 자연의 청소부. 둥지 주변은 언제나 깨끗하다.,767;꼬시레;768;갑주무사,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/076701.png
+ 갑주무사,벌레;물,2,장갑,b,108,위기회피,이기기 위해서는 수단을 가리지 않는다. 상대의 빈틈을 찌른 뒤 앞발의 작은 발톱으로 마무리한다.,767;꼬시레;768;갑주무사,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/076801.png
+ 모래꿍,고스트;땅,0.5,모래산,b,70,꾸덕꾸덕굳기,삽을 잃어버리면 나뭇가지 등을 대신 꽂고 다니며 새로운 삽을 찾을 때까지 마음을 달랜다.,769;모래꿍;770;모래성이당,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/076901.png
+ 모래성이당,고스트;땅,1.3,모래성,b,250,꾸덕꾸덕굳기,"작은 포켓몬을 모래로 된 몸 안으로 끌어들인 뒤, 자신이 원할 때 생기를 빨아들이는 무서운 포켓몬.",769;모래꿍;770;모래성이당,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/077001.png
+ 해무기,물,0.3,해삼,b,1.2,내용물분출,따뜻하고 얕은 여울에 산다. 상대와 마주치면 체내 기관을 입으로 뿜어서 때려눕힌다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/077101.png
+ 타입:널,노말,1.9,인공,u,120.5,전투무장,극비였던 연구 자료가 도난당한 뒤 가라르지방에서 새로 만들어졌다는 소문이 있다.,772;타입:널;773;실버디,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/077201.png
+ 실버디,노말,2.3,인공,u,100.5,AR시스템,파트너와의 강한 유대에 의해 숨겨진 능력을 각성했다. 자유자재로 타입을 바꿀 수 있다.,772;타입:널;773;실버디,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/077301.png
+ 메테노,바위;비행,0.3,유성,u,40,리밋실드,원래 오존층에 살고 있으며 몸의 껍질이 무거워지면 지상을 향해 떨어진다.,774;메테노;774;메테노,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/077401.png
+ 메테노,바위;비행,0.3,유성,u,0.3,리밋실드,대기 중의 먼지를 먹고 있다. 먹은 먼지의 성분에 따라 코어의 색조가 정해진다.,774;메테노;774;메테노,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/077402.png
+ 자말라,노말,0.4,꿈결,b,19.9,절대안깸,일생을 잠든 채로 보낸다. 자말라만이 분해할 수 있는 맹독성의 잎사귀를 먹이로 삼는다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/077501.png
+ 폭거북스,불꽃;드래곤,2,폭발거북,b,212,조가비갑옷,폭약으로 코팅된 등껍질을 짊어지고 있다. 공격하는 상대에게 대폭발로 반격한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/077601.png
+ 토게데마루,전기;강철,0.3,동글동글,b,3.3,철가시;피뢰침,등에 난 긴 털로 번개나 전기포켓몬의 전격을 받아 전기 주머니에 충전한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/077701.png
+ 따라큐,고스트;페어리,0.2,탈,b,0.7,탈,볕이 들지 않는 어두운 곳에 산다. 사람들 앞에 나타날 때는 피카츄를 본뜬 천으로 온몸을 가린다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/077801.png
+ 치갈기,물;에스퍼,0.9,이갈기,b,19,비비드바디;옹골찬턱,강하게 이를 갈아서 뇌를 자극한다. 이를 통해 만들어 낸 사이코 파워를 머리의 돌기를 통해 발사한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/077901.png
+ 할비롱,노말;드래곤,3,느긋누긋,b,185,발끈;초식,해발 3000m가 넘는 산에 산다. 드물게 마을로 내려와 아이들과 논다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/078001.png
+ 타타륜,고스트;풀,3.9,해초조각,u,210,강철술사,해저를 떠도는 해초가 침몰선의 부품을 거두어들여서 고스트포켓몬으로 다시 태어났다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/078101.png
+ 짜랑꼬,드래곤,0.6,비늘,b,29.7,방탄;방음,머리의 비늘을 동료끼리 부딪히며 싸우는 법을 배운다. 이를 통해 기술과 정신을 단련한다.,782;짜랑꼬;783;짜랑고우;784;짜랑고우거,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/078201.png
+ 짜랑고우,드래곤;격투,1.2,비늘,b,47,방탄;방음,비늘이 떨어진 상처투성이인 몸은 강자라는 증표다. 상대를 쓰러뜨린 후 상처를 보여준다.,782;짜랑꼬;783;짜랑고우;784;짜랑고우거,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/078301.png
+ 짜랑고우거,드래곤;격투,1.6,비늘,b,78.2,방탄;방음,상대와 마주치면 꼬리의 비늘로 소리를 내어 위협한다. 이에 겁먹지 않은 강자만을 상대로 싸운다.,782;짜랑꼬;783;짜랑고우;784;짜랑고우거,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/078401.png
+ 카푸꼬꼬꼭,전기;페어리,1.8,토속신,u,20.5,일렉트릭메이커,호기심 왕성한 멜레멜레의 수호신이다. 번개 구름을 불러 우레를 몸에 비축한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/078501.png
+ 카푸나비나,에스퍼;페어리,1.2,토속신,u,18.6,사이코메이커,천진난만하고 잔혹한 아칼라의 수호신이다. 향기로운 꽃향기가 에너지의 근원이다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/078601.png
+ 카푸브루루,풀;페어리,1.9,토속신,u,45.5,그래스메이커,큰 나무를 뽑아서 빙빙 휘두른다. 초목을 무성하게 만들어 그 에너지를 흡수한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/078701.png
+ 카푸느지느,물;페어리,1.3,토속신,u,21.2,미스트메이커,짙은 안개로 적을 혼란시켜 자멸하게 만드는 무서움을 지녔다. 해류가 에너지의 근원이다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/078801.png
+ 코스모그,에스퍼,0.2,성운,u,0.1,천진,연약한 가스 상태의 몸이다. 대기의 먼지를 모으며 천천히 성장한다.,789;코스모그;790;코스모움;791;솔가레오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/078901.png
+ 코스모움,에스퍼,0.1,원시성,u,999.9,옹골참,죽은 것처럼 전혀 움직이지 않지만 만지면 어렴풋이 따뜻하다. 아주 옛날에는 달의 고치로 불렸다.,789;코스모그;790;코스모움;791;솔가레오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/079001.png
+ 솔가레오,에스퍼;강철,3.4,일륜,u,230,메탈프로텍트,다른 세계에 산다고 전해진다. 온몸에서 격렬한 빛을 내뿜어 깜깜한 밤도 한낮처럼 비춘다.,789;코스모그;790;코스모움;791;솔가레오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/079101.png
+ 루나아라,에스퍼;고스트,4,월륜,u,120,스펙터가드,코스모그가 진화한 암컷이라고 전해진다. 제3의 눈이 떠오를 때 다른 세계로 날아간다.,789;코스모그;790;코스모움;791;솔가레오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/079201.png
+ 텅비드,바위;독,1.2,기생,u,55.5,비스트부스트,수수께끼에 싸인 UB의 일종. 길을 가던 사람이 기생 당해 난폭해지는 모습이 목격되었다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/079301.png
+ 매시붕,벌레;격투,2.4,팽창,u,333.6,비스트부스트,다른 세계에서 나타난 UB이다. 스스로 몸을 보여주는 행동이 자랑인지 위협인지 알 수 없다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/079401.png
+ 페로코체,벌레;격투,1.8,염미,u,25,비스트부스트,위험한 UB 중 1마리이다. 굉장한 속도로 대지를 질주하는 모습이 목격되었다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/079501.png
+ 전수목,전기,3.8,전기장식,u,100,비스트부스트,온몸에서 엄청난 전격을 내뿜는 광경이 목격되었다. 수수께끼의 생물 UB 중 하나다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/079601.png
+ 철화구야,강철;비행,9.2,쏴올리기,u,999.9,비스트부스트,울트라홀에서 나타났다. 고속으로 하늘을 나는 모습이 목격된 울트라비스트다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/079701.png
+ 종이신도,풀;강철,0.3,발도,u,0.1,비스트부스트,울트라홀에서 나타난 UB이다. 스스로 적을 덮치진 않지만 온몸이 날카로운 흉기다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/079801.png
+ 악식킹,악;드래곤,5.5,악식성,u,888,비스트부스트,산을 깎아 먹고 빌딩을 삼키는 모습이 보고되었다. 울트라비스트 중 하나이다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/079901.png
+ 네크로즈마,에스퍼,2.4,프리즘,u,230,프리즘아머,지하에서 잠들어 있던 것 같다. 태고의 다른 세계에서 왔다고 추측되는 UB같은 생물이다.,800;네크로즈마;800;네크로즈마;800;네크로즈마;No. 0800;네크로즈마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080001.png
+ 네크로즈마,에스퍼;강철,3.8,프리즘,u,460,프리즘아머,솔가레오의 빛을 먹어치우는 모습이다. 적에게 덤벼들어 등과 사지를 발톱으로 상대를 베어 가른다.,800;네크로즈마;800;네크로즈마;800;네크로즈마;No. 0800;네크로즈마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080002.png
+ 네크로즈마,에스퍼;고스트,4.2,프리즘,u,350,프리즘아머,루나아라의 의식은 어느새 사라졌다. 네크로즈마에게 지배되어 모든 에너지를 방출하고 있다.,800;네크로즈마;800;네크로즈마;800;네크로즈마;No. 0800;네크로즈마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080003.png
+ 네크로즈마,에스퍼;드래곤,7.5,프리즘,u,230,브레인포스,압도적인 빛 에너지를 흡수하여 변화한 모습이다. 전신에서 레이저를 내뿜는다.,800;네크로즈마;800;네크로즈마;800;네크로즈마;No. 0800;네크로즈마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080004.png
+ 마기아나,강철;페어리,1,인조,u,80.5,소울하트,500년 이상 전에 만들어진 인조포켓몬이다. 사람의 말을 이해하지만 말은 못 한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080101.png
+ 마샤도,격투;고스트,0.7,그림자살이,u,22.2,테크니션,그림자 안에 숨어 들을 수 있어 사람들 앞에 모습을 보이지 않아 그 존재는 환상이었다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080201.png
+ 베베놈,독,0.6,독침,u,1.8,비스트부스트,다른 세계에서는 여행 파트너로 삼을 정도로 친근한 울트라비스트다.,803;베베놈;804;아고용,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080301.png
+ 아고용,독;드래곤,3.6,독침,u,150,비스트부스트,체내에 수백 리터의 독액을 갖고 있다. UB라고 불리는 생물의 일종이다.,803;베베놈;804;아고용,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080401.png
+ 차곡차곡,바위;강철,5.5,돌담,u,820,비스트부스트,울트라홀에서 출현했다. 여러 개의 생명이 쌓여 1마리를 형성하고 있는 듯하다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080501.png
+ 두파팡,불꽃;고스트,1.8,불꽃놀이,u,13,비스트부스트,꿈틀거리며 사람에게 다가오다 느닷없이 머리를 폭발시킨다. 울트라비스트의 일종인 듯하다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080601.png
+ 제라오라,전기,1.5,신뢰,u,44.5,축전,양 손발톱에 전기를 머금어 상대를 갈가리 찢는다. 피하더라도 흩날리는 전격으로 감전시킨다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080701.png
+ 멜탄,강철,0.2,너트,u,8,자력,걸쭉하게 녹은 강철의 몸을 가졌다. 땅속의 철분이나 금속을 녹여서 흡수한다.,808;멜탄;809;멜메탈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080801.png
+ 멜메탈,강철,2.5,너트,u,800,철주먹,철을 만들어내는 힘을 가졌다고 추앙받았었다. 모종의 이유로 3000년의 세월이 흘러 되살아났다.,808;멜탄;809;멜메탈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080901.png
+ 흥나숭,풀,0.3,꼬마원숭이,b,5,심록,특별한 스틱으로 리듬을 타면 화초를 생생하게 만드는 힘이 음파가 되어 퍼진다.,810;흥나숭;811;채키몽;812;고릴타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081001.png
+ 채키몽,풀,0.7,비트,b,14,심록,2개의 스틱으로 격렬한 비트를 만드는 채키몽일수록 동료들에게 존경받는다.,810;흥나숭;811;채키몽;812;고릴타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081101.png
+ 고릴타,풀,2.1,드러머,b,90,심록,특별한 그루터기의 파워를 드럼 연주로 컨트롤한다. 뿌리를 조종해서 싸운다.,810;흥나숭;811;채키몽;812;고릴타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081201.png
+ 고릴타,풀,28,드러머,b,1.00E+09,심록,거다이맥스의 파워에 의해 그루터기가 성장하여 삼림과도 같은 드럼이 되었다.,810;흥나숭;811;채키몽;812;고릴타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081202.png
+ 염버니,불꽃,0.3,토끼,b,4.5,맹화,뛰어다니며 체온을 높이면 불꽃 에너지가 몸 안에 맴돌아 본래의 힘을 발휘할 수 있다.,813;염버니;814;래비풋;815;에이스번,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081301.png
+ 래비풋,불꽃,0.6,토끼,b,9,맹화,푹신푹신한 털 덕분에 추위에 강해지고 더 높은 온도의 불꽃 기술도 쓸 수 있게 되었다.,813;염버니;814;래비풋;815;에이스번,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081401.png
+ 에이스번,불꽃,1.4,스트라이커,b,33,맹화,작은 돌을 리프팅해서 불꽃의 축구공을 만들고 날카로운 슛으로 상대를 태워버린다.,813;염버니;814;래비풋;815;에이스번,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081501.png
+ 에이스번,불꽃,27,스트라이커,b,1.00E+09,맹화,에이스번의 타오르는 투지가 담긴 거대 화염볼은 상대를 놓치지 않고 불살라버린다.,813;염버니;814;래비풋;815;에이스번,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081502.png
+ 울머기,물,0.3,물도마뱀,b,4,급류,겁을 먹으면 양파 100개와 맞먹는 최루 성분의 눈물을 흘려서 상대도 덩달아 울게 만든다.,816;울머기;817;누겔레온;818;인텔리레온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081601.png
+ 누겔레온,물,0.7,물도마뱀,b,11.5,급류,손바닥에서 나오는 수분을 빚어서 만든 물구슬로 두뇌 싸움을 펼친다.,816;울머기;817;누겔레온;818;인텔리레온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081701.png
+ 인텔리레온,물,1.9,에이전트,b,45.2,급류,다채로운 기능을 숨기고 있다. 손끝에서 물을 분사하고 등에 있는 피막으로 바람을 탄다.,816;울머기;817;누겔레온;818;인텔리레온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081801.png
+ 인텔리레온,물,40,에이전트,b,1.00E+09,급류,물대포의 속도는 마하7이다. 머리의 볏으로 바람과 기온을 감지하면서 조준을 맞춘다.,816;울머기;817;누겔레온;818;인텔리레온,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081802.png
+ 탐리스,노말,0.3,볼가득,b,2.5,볼주머니,볼에 나무열매를 비축한다. 나무열매가 없어서 입이 심심할 때는 조약돌을 물면서 견딘다.,819;탐리스;820;요씽리스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/081901.png
+ 요씽리스,노말,0.6,욕심쟁이,b,6,볼주머니,나무열매가 열린 나무를 발견하면 한창 싸우던 중이더라도 쏜살같이 모으러 간다.,819;탐리스;820;요씽리스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082001.png
+ 파라꼬,비행,0.2,아기새,b,1.8,날카로운눈;긴장감,용감하고 저돌적인 성질을 가졌다. 눈가의 하얀 무늬는 마음 약한 포켓몬을 기죽게 한다.,821;파라꼬;822;파크로우;823;아머까오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082101.png
+ 파크로우,비행,0.8,까마귀,b,16,날카로운눈;긴장감,높은 지능을 가진 이유는 뇌가 다른 새포켓몬에 비해 크기 때문이라고 전해지고 있다.,821;파라꼬;822;파크로우;823;아머까오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082201.png
+ 아머까오,비행;강철,2.2,까마귀,b,75,프레셔;긴장감,비행 중에 천적에게 공격을 받으면 승객도 위험해질 수 있어서 팔데아에서는 택시로 활용할 수 없다.,821;파라꼬;822;파크로우;823;아머까오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082301.png
+ 아머까오,비행;강철,14,까마귀,b,1.00E+09,프레셔;긴장감,거다이맥스의 파워로 날갯짓하면 허리케인을 능가하는 강풍이 모든 것을 날려버린다.,821;파라꼬;822;파크로우;823;아머까오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082302.png
+ 두루지벌레,벌레,0.4,유충,b,8,벌레의알림;복안,"언제나 부지런히 정보를 모으기 때문에 똑똑하다. 단, 힘은 그저 그렇다.",824;두루지벌레;825;레돔벌레;826;이올브,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082401.png
+ 레돔벌레,벌레;에스퍼,0.4,레이돔,b,19.5,벌레의알림;복안,거의 움직이지 않지만 살아 있다. 식음을 전폐하고 껍질에 은둔하는 동안 초능력에 눈을 뜬 모양이다.,824;두루지벌레;825;레돔벌레;826;이올브,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082501.png
+ 이올브,벌레;에스퍼,0.4,칠성,b,40.8,벌레의알림;통찰,똑똑한 포켓몬으로 유명하다. 커다란 두뇌는 강력한 사이코 파워를 가졌다는 증거다.,824;두루지벌레;825;레돔벌레;826;이올브,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082601.png
+ 이올브,벌레;에스퍼,14,칠성,b,1.00E+09,벌레의알림;통찰,뇌를 중심으로 거대화했다. 압도적인 지능과 방대한 사이코 에너지를 지니고 있다.,824;두루지벌레;825;레돔벌레;826;이올브,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082602.png
+ 훔처우,악,0.6,여우,b,8.9,도주;곡예,다른 포켓몬이 발견한 먹이를 훔치며 산다. 푹신푹신한 볼록살 덕분에 발소리가 나지 않는다.,827;훔처우;828;폭슬라이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082701.png
+ 폭슬라이,악,1.2,여우,b,19.9,도주;곡예,목표로 한 먹잇감에 슬쩍 마킹을 해둔다. 냄새를 따라가다 먹이의 주인이 방심하고 있을 때 훔치려 든다.,827;훔처우;828;폭슬라이,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082801.png
+ 꼬모카,풀,0.4,꽃장식,b,2.2,솜털;재생력,다리 하나를 땅에 꽂은 채 햇빛을 잔뜩 받으면 꽃잎이 선명한 색을 띠게 된다.,829;꼬모카;830;백솜모카,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/082901.png
+ 백솜모카,풀,0.5,솜장식,b,2.5,솜털;재생력,솜털이 붙은 씨는 영양 만점이다. 씨를 바람에 날려서 초목과 포켓몬들을 건강하게 만든다.,829;꼬모카;830;백솜모카,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083001.png
+ 우르,노말,0.6,양,b,6,복슬복슬;도주,곱슬곱슬한 털은 훌륭한 쿠션 역할을 한다. 절벽에서 떨어져도 아무렇지도 않다.,831;우르;832;배우르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083101.png
+ 배우르,노말,1.3,양,b,43,복슬복슬;불굴의마음,탄력 있는 털로 짜낸 카펫은 트램펄린 같아서 올라가면 통통 튀어 오르게 된다.,831;우르;832;배우르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083201.png
+ 깨물부기,물,0.3,물고늘어지기,b,8.5,옹골찬턱;조가비갑옷,커다란 앞니는 난 지 얼마 되지 않았다. 이빨이 가려울 때는 동료의 뿔을 덥석 물면서 장난을 친다.,833;깨물부기;834;갈가부기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083301.png
+ 갈가부기,물;바위,1,물어뜯기,b,115.5,옹골찬턱;조가비갑옷,매우 크고 뾰족뾰족한 입은 한 번 물기만 해도 암석을 부술 정도다. 성질이 매우 흉포하다.,833;깨물부기;834;갈가부기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083401.png
+ 갈가부기,물;바위,24,물어뜯기,b,1.00E+09,옹골찬턱;조가비갑옷,거다이맥스의 파워에 의해 뒷발로 일어서게 됐다. 상대를 짓누른 뒤 큰 턱으로 마무리한다.,833;깨물부기;834;갈가부기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083402.png
+ 멍파치,전기,0.3,강아지,b,13.5,볼줍기,달릴 때 꼬리가 시작되는 부분에서 전기를 만들어 낸다. 가라르에서는 양치기로 인기가 많다.,835;멍파치;836;펄스멍,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083501.png
+ 펄스멍,전기,1,개,b,34,옹골찬턱,만든 전기를 다리로 보내서 달리는 것을 돕는다. 삼 일 밤낮을 쉬지 않고 달릴 수 있다.,835;멍파치;836;펄스멍,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083601.png
+ 탄동,바위,0.3,석탄,b,12,증기기관;내열,맑은 날에는 초원으로 나와 달리면서 수레바퀴 같은 다리에 휘감긴 풀을 먹는다.,837;탄동;838;탄차곤;839;석탄산,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083701.png
+ 탄차곤,바위;불꽃,1.1,석탄,b,78,증기기관;불꽃몸,흥분하게 되면 체내의 온도가 상승하여 불꽃을 뿜으며 정신없이 달린다.,837;탄동;838;탄차곤;839;석탄산,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083801.png
+ 석탄산,바위;불꽃,2.8,석탄,b,310.5,증기기관;불꽃몸,몸을 크게 휘둘러서 타오르는 등에 있는 석탄을 주위에 흩뿌리며 위협한다.,837;탄동;838;탄차곤;839;석탄산,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083901.png
+ 석탄산,바위;불꽃,42,석탄,b,1.00E+09,증기기관;불꽃몸,몸체는 거대한 화덕이다. 거다이맥스의 파워에 의해 2000도의 불꽃이 활활 타오른다.,837;탄동;838;탄차곤;839;석탄산,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/083902.png
+ 과사삭벌레,풀;드래곤,0.2,사과살이,b,0.5,숙성;먹보,사과의 과육을 먹으며 성장한다. 체액으로 껍질의 강도를 보강하면서 썩지 않게 한다.,840;과사삭벌레;841;애프룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084001.png
+ 애프룡,풀;드래곤,0.3,사과날개,b,1,숙성;먹보,비틀비틀 날면서 틈을 노린 뒤 금속조차 녹여 버리는 강산성의 액체를 뱉어서 공격한다.,840;과사삭벌레;841;애프룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084101.png
+ 애프룡,풀;드래곤,24,사과날개,b,1.00E+09,숙성;먹보,거다이맥스의 파워에 의해 당도가 높아진 결과 거대한 사과의 모습으로 변모했다.,840;과사삭벌레;841;애프룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084102.png
+ 단지래플,풀;드래곤,0.4,사과즙,b,13,숙성;먹보,달콤한 사과가 주식이다. 달콤한 꿀에 이끌려 찾아오는 작은 벌레포켓몬을 먹을 때도 있다.,840;과사삭벌레;841;애프룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084201.png
+ 단지래플,풀;드래곤,24,사과즙,b,1.00E+09,숙성;먹보,체내의 꿀을 대량으로 분사해서 뒤집어쓰게 한 다음 끈적끈적한 점액 속에서 질식하게 한다.,840;과사삭벌레;841;애프룡,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084202.png
+ 모래뱀,땅,2.2,모래뱀,b,7.6,모래뿜기;탈피,풍선처럼 늘었다 줄었다 하는 목의 주머니는 탈피를 거듭할수록 신축성이 좋아진다.,843;모래뱀;844;사다이사,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084301.png
+ 사다이사,땅,3.8,모래뱀,b,65.5,모래뿜기;탈피,몸을 있는 힘껏 신축시켜서 덤프트럭도 밀어 버릴 정도의 기세로 모래를 분사한다.,843;모래뱀;844;사다이사,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084401.png
+ 사다이사,땅,22,모래뱀,b,1.00E+09,모래뿜기;탈피,모래주머니도 매우 거대해졌다. 몸 주변에 소용돌이치는 모래는 100만 톤을 넘는다.,843;모래뱀;844;사다이사,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084402.png
+ 윽우지,비행;물,0.8,그대로삼키기,b,18,그대로꿀꺽미사일,상대를 일격에 쓰러뜨릴 정도로 파워풀하지만 건망증이 심해서 싸우고 있는 상대를 잊어버린다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084501.png
+ 찌로꼬치,물,0.5,돌격,b,1,쓱쓱,직선으로만 빠르게 헤엄칠 수 있다. 너무 많이 먹어 움직임이 둔해진 녀석부터 찌리비 무리에게 노려진다.,846;찌로꼬치;847;꼬치조,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084601.png
+ 꼬치조,물,1.3,꼬치,b,30,쓱쓱,꼬리지느러미를 회전시켜서 힘차게 뛰어올라 수면 가까이 나는 갈모매를 거칠게 물어 버린다.,846;찌로꼬치;847;꼬치조,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084701.png
+ 일레즌,전기;독,0.4,젖먹이,b,11,주눅;정전기,오염된 물을 마셔도 끄떡없다. 체내의 기관에서 자신에게는 무해한 독액으로 걸러 내기 때문이다.,848;일레즌;849;스트린더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084801.png
+ 스트린더,전기;독,1.6,펑크,b,40,펑크록;플러스,독성을 띠는 땀을 흘리면서 전기를 방출할 때 주위에 기타 소리 같은 멜로디가 들린다.,848;일레즌;849;스트린더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084901.png
+ 스트린더,전기;독,1.6,펑크,b,40,펑크록;마이너스,상대가 누구라도 동요하지 않고 나른한 모습으로 싸움을 거는 스타일에 동경하는 젊은이도 많다.,848;일레즌;849;스트린더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084902.png
+ 스트린더,전기;독,24,펑크,b,1.00E+09,펑크록;플러스,남아도는 전력이 무기다. 비축된 전기의 양은 번개 구름을 능가할 정도다.,848;일레즌;849;스트린더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084903.png
+ 태우지네,불꽃;벌레,0.7,발열,b,1,타오르는불꽃;하얀연기,몸속에 모아둔 가연성 가스로 열을 낸다. 특히 배 쪽의 노란 부분이 뜨겁다.,850;태우지네;851;다태우지네,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085001.png
+ 다태우지네,불꽃;벌레,3,발열,b,120,타오르는불꽃;하얀연기,발열 시의 체온은 약 800도. 몸을 채찍처럼 휘면서 덤벼든다.,850;태우지네;851;다태우지네,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085101.png
+ 다태우지네,불꽃;벌레,75,발열,b,1.00E+09,타오르는불꽃;하얀연기,거다이맥스의 파워에 의해 체온이 섭씨 1000도를 넘어 열파동으로 상대를 불태워버린다.,850;태우지네;851;다태우지네,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085102.png
+ 때때무노,격투,0.6,떼쟁이,b,4,유연,먹이를 찾아 지상으로 올라온다. 호기심이 왕성해서 눈에 들어오는 것은 일단 촉수로 때리고 본다.,852;때때무노;853;케오퍼스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085201.png
+ 케오퍼스,격투,1.6,유술,b,39,유연,온몸이 근육덩어리다. 촉수를 사용해서 펼치는 조르기 기술의 위력은 무시무시하다.,852;때때무노;853;케오퍼스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085301.png
+ 데인차,고스트,0.1,홍차,u,0.2,깨어진갑옷,외롭게 죽은 자의 영혼이 마시다 남은 홍차에 깃들었다. 호텔이나 민가에 나타난다.,854;데인차;855;포트데스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085401.png
+ 데인차,고스트,0.1,홍차,u,0.2,깨어진갑옷,엄선하고 엄선한 찻잔과 홍차를 준비해 놓고 데인차가 깃들기를 하염없이 기다리는 마니아도 있다.,854;데인차;855;포트데스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085402.png
+ 포트데스,고스트,0.2,홍차,u,0.4,깨어진갑옷,홍차로 된 몸은 독특하면서도 맛있지만 너무 마시면 죽을 수도 있다.,854;데인차;855;포트데스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085501.png
+ 포트데스,고스트,0.2,홍차,u,0.4,깨어진갑옷,들어가는 찻주전자에 따른 차이는 없지만 바탕이 되는 홍차에 따라 성격이 달라진다고 한다.,854;데인차;855;포트데스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085502.png
+ 몸지브림,에스퍼,0.4,차분,f,3.4,치유의마음;위험예지,항상 생명체의 감정이 머릿속으로 흘러들어 오기 때문에 주위에 아무도 없는 환경을 좋아한다.,856;몸지브림;857;손지브림;858;브리무음,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085601.png
+ 손지브림,에스퍼,0.6,정숙,f,4.8,치유의마음;위험예지,아무리 행복한 감정일지라도 고조된 감정이라면 무엇이든 엄청난 소음으로 느낀다고 한다.,856;몸지브림;857;손지브림;858;브리무음,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085701.png
+ 브리무음,에스퍼;페어리,2.1,정적,f,5.1,치유의마음;위험예지,거처로 삼은 숲에 들어오는 자를 빔으로 기절시킨 뒤 사이코 파워로 강화된 손톱으로 찢어발긴다.,856;몸지브림;857;손지브림;858;브리무음,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085801.png
+ 브리무음,에스퍼;페어리,26,정적,f,1.00E+09,치유의마음;위험예지,50km 떨어져 있는 생물의 기분을 감지한다. 적의를 느끼면 바로 공격한다.,856;몸지브림;857;손지브림;858;브리무음,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085802.png
+ 메롱꿍,악;페어리,0.4,꾀부리기,m,5.5,짓궂은마음;통찰,친해진 상대에게 장난을 치는 것은 부정한 감정을 흡수하지 못하면 자신도 짜증이 나기 때문이다.,859;메롱꿍;860;쏘겨모;861;오롱털,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/085901.png
+ 쏘겨모,악;페어리,0.8,성악,m,12.5,짓궂은마음;통찰,속여서 때리는 등 비겁한 전법을 선호하는 것은 자신의 근력에 자신이 없어서다.,859;메롱꿍;860;쏘겨모;861;오롱털,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086001.png
+ 오롱털,악;페어리,1.5,벌크업,m,61,짓궂은마음;통찰,머리카락을 자유자재로 조종한다. 평소에는 온몸에 휘감아서 근육을 보조하는 데 쓴다.,859;메롱꿍;860;쏘겨모;861;오롱털,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086101.png
+ 오롱털,악;페어리,32,벌크업,m,1.00E+09,짓궂은마음;통찰,다리털을 변형시켜서 날리는 드릴킥은 가라르의 대지에 큰 구멍을 내버린다.,859;메롱꿍;860;쏘겨모;861;오롱털,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086102.png
+ 가로막구리,악;노말,1.6,정지,b,46,이판사판;근성,엄청난 성량을 가졌다. 샤우팅하며 위협하는 모습은 블로킹이라 불린다.,263;지그제구리;264;직구리;862;가로막구리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086201.png
+ 나이킹,강철,0.8,바이킹,b,28,전투무장;단단한발톱,머리의 털이 단단해져서 철로 된 헬멧처럼 되었다. 매우 호전적인 성질을 가졌다.,52;나옹;863;나이킹,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086301.png
+ 산호르곤,고스트,1,산호,b,0.4,깨어진갑옷,영력이 높아져서 껍질에서 해방되었다. 영체로 핵이 되는 영혼을 지킨다.,222;코산호;864;산호르곤,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086401.png
+ 창파나이트,격투,0.8,청둥오리,b,117,불굴의마음,많은 싸움에서 살아남은 자만이 이 모습으로 진화한다. 파가 시들면 전장을 떠난다.,83;파오리;865;창파나이트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086501.png
+ 마임꽁꽁,얼음;에스퍼,1.5,코미디언,b,58.2,갈지자걸음;배리어프리,탭 댄스의 달인이다. 얼음으로 만든 지팡이를 휘두르며 경쾌한 스텝을 선보인다.,439;흉내내;122;마임맨,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086601.png
+ 데스판,땅;고스트,1.6,원념,b,66.6,떠도는영혼,강한 저주를 담아 그린 고대의 그림이 데스마스의 영혼을 흡수해서 움직이기 시작했다.,562;데스마스;867;데스판,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086701.png
+ 마빌크,페어리,0.2,크림,f,0.3,스위트베일,크림으로 이루어진 몸을 가졌다. 공기 중을 떠도는 달콤한 향기의 성분이 모여서 태어났다.,868;마빌크;869;마휘핑,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086801.png
+ 마휘핑,페어리,0.3,크림,f,0.5,스위트베일,믿을 수 있는 트레이너에게는 크림으로 데코레이션한 나무열매를 대접한다.,868;마빌크;869;마휘핑,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086901.png
+ 마휘핑,페어리,30,크림,f,1.00E+09,스위트베일,무한히 넘쳐흐르는 크림으로 된 몸은 받는 충격이 강할수록 단단하게 굳어진다.,868;마빌크;869;마휘핑,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/086902.png
+ 대여르,격투,3,진형,u,62,전투무장,선두에 서서 지시를 내리는 리더는 6마리 중에서 가장 강하고 똑똑하다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087001.png
+ 찌르성게,전기,0.3,성게,b,1,피뢰침,먹이를 소화시킬 때 전기를 만들어 낸다. 5개의 단단한 이빨로 해초를 갉아 먹는다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087101.png
+ 누니머기,얼음;벌레,0.3,애벌레,b,3.8,인분,땅에 쌓인 눈이 먹이다. 새로 내린 부드러운 눈을 좋아해서 산꼭대기를 향해 먹으며 움직인다.,872;누니머기;873;모스노우,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087201.png
+ 모스노우,얼음;벌레,1.3,얼음나방,b,42,인분,더듬이로 대기의 흐름을 감지한다. 날개 가루에 냉기를 섞어서 눈처럼 내리게 한다.,872;누니머기;873;모스노우,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087301.png
+ 돌헨진,바위,2.5,거석,b,520,파워스폿,몸의 암석 성분이 서식지에서 멀리 떨어진 땅의 암반과 일치했다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087401.png
+ 빙큐보,얼음,1.4,펭귄,b,89,아이스페이스,기온이 높은 날에는 동료들끼리 머리의 얼음을 맞대어 서로를 시원하게 하며 지낸다.,875;빙큐보;875;빙큐보,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087501.png
+ 빙큐보,얼음,1.4,펭귄,b,89,아이스페이스,얼굴의 얼음이 부서진 모습. 더위에 약한 얼굴을 보호하기 위해 털끝에서 냉기를 발산한다.,875;빙큐보;875;빙큐보,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087502.png
+ 에써르,에스퍼;노말,0.9,감정,m,28,정신력;싱크로,다른 생명체의 긍정적인 감정을 뿔을 통해 감지하여 자신의 에너지로 삼는다.,876;에써르;876;에써르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087601.png
+ 에써르,에스퍼;노말,0.9,감정,f,28,마이페이스;싱크로,싸움을 싫어하여 영역에서 싸움이 일어나면 사이코 파워로 물건을 집어던져 쫓아내려 한다.,876;에써르;876;에써르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087602.png
+ 모르페코,전기;악,0.3,양면,b,3,꼬르륵스위치,항상 배가 고프다. 호주머니같이 생긴 주머니에 넣어둔 씨앗을 먹어서 전기를 만든다.,877;모르페코;877;모르페코,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087701.png
+ 모르페코,전기;악,0.3,양면,b,3,꼬르륵스위치,볼주머니의 전기가 악타입의 에너지로 변화했다. 너무 배가 고파서 매우 흉포하다.,877;모르페코;877;모르페코,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087702.png
+ 끼리동,강철,1.2,동상,b,100,우격다짐,뾰족한 코끝으로 단단한 바위를 깎아서 먹는다. 온화해서 사람들의 힘쓰는 일을 돕는다.,878;끼리동;879;대왕끼리동,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087801.png
+ 대왕끼리동,강철,3,동상,b,650,우격다짐,과거 먼 곳에서 인간들이 데리고 왔다. 비행기도 가볍게 끌어당기는 천하장사.,878;끼리동;879;대왕끼리동,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087901.png
+ 대왕끼리동,강철,23,동상,b,1.00E+09,우격다짐,콧속에 가득 찬 에너지를 분사하면 산이 날아가고 지형이 바뀐다.,878;끼리동;879;대왕끼리동,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/087902.png
+ 파치래곤,전기;드래곤,1.8,화석,u,190,축전;의욕,고대에는 튼튼한 하반신 덕분에 무적이었으나 먹이인 식물을 모두 먹어버려서 멸종했다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088001.png
+ 파치르돈,전기;얼음,2.3,화석,u,150,축전;정전기,꽁꽁 언 상반신이 진동하면 전기가 만들어진다. 걷는 것이 매우 서툴다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088101.png
+ 어래곤,물;드래곤,2.3,화석,u,215,저수;옹골찬턱,뛰어난 다리와 턱의 힘 덕분에 고대에는 무적이었으나 먹이를 모두 잡아먹어버려서 멸종했다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088201.png
+ 어치르돈,물;얼음,2,화석,u,175,저수;아이스바디,주변을 꽁꽁 얼려서 먹이를 잡지만 입이 머리 윗부분에 있어서 먹기 힘들다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088301.png
+ 두랄루돈,강철;드래곤,1.8,합금,b,40,라이트메탈;헤비메탈,윤이 나는 금속과도 같은 몸은 가벼우면서도 튼튼하지만 녹슬기 쉽다는 것이 흠이다.,884;두랄루돈;884;두랄루돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088401.png
+ 두랄루돈,강철;드래곤,43,합금,b,1.00E+09,라이트메탈;헤비메탈,마천루처럼 거대해졌다. 넘쳐나는 에너지에 몸의 일부가 발광하고 있다.,884;두랄루돈;884;두랄루돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088402.png
+ 드라꼰,드래곤;고스트,0.5,원망,b,2,클리어바디;틈새포착,해 질 녘에 무리 지어 바다 위를 고속으로 돌아다니며 물속의 포켓몬을 쪼면서 논다.,885;드라꼰;886;드래런치;887;드래펄트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088501.png
+ 드래런치,드래곤;고스트,1.4,돌보미,b,11,클리어바디;틈새포착,시속 200km로 날아다닌다. 싸움에서 지면 드라꼰은 금세 어딘가로 가 버린다.,885;드라꼰;886;드래런치;887;드래펄트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088601.png
+ 드래펄트,드래곤;고스트,3,스텔스,b,50,클리어바디;틈새포착,신경을 곤두세우면 온몸을 투명하게 만들 수 있다. 뿔 안의 드라꼰도 보이지 않게 된다.,885;드라꼰;886;드래런치;887;드래펄트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088701.png
+ 자시안,페어리,2.8,강자,u,110,불요의검,전설의 영웅이라고 불리는 포켓몬. 금속을 흡수한 뒤 무기로 변화시켜서 싸운다.,888;자시안;888;자시안,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088801.png
+ 자시안,페어리;강철,2.8,강자,u,355,불요의검,과거의 무기로 무장했다. 거다이맥스 포켓몬도 단칼에 베어 버린다.,888;자시안;888;자시안,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088802.png
+ 자마젠타,격투,2.9,강자,u,210,불굴의방패,인간의 왕과 힘을 합쳐 가라르를 구한 포켓몬. 금속을 흡수해서 싸운다.,889;자마젠타;889;자마젠타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088901.png
+ 자마젠타,격투;강철,2.9,강자,u,785,불굴의방패,어떤 공격도 튕겨내는 모습은 격투왕의 방패라 불리며 두려움과 공경의 대상이었다.,889;자마젠타;889;자마젠타,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/088902.png
+ 무한다이노,독;드래곤,20,거대,u,950,프레셔,가슴의 코어가 가라르지방의 대지에서 솟아나는 에너지를 흡수해서 활동한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089001.png
+ 치고마,격투,0.6,권법,b,12,정신력,혹독한 수련을 거듭하며 기술을 갈고닦는다. 체득한 기술에 따라 진화했을 때의 모습이 달라진다.,891;치고마;892;우라오스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089101.png
+ 우라오스,격투;악,1.9,권법,b,105,보이지않는주먹,일격필살이 신조다. 상대의 품으로 파고들어 단련된 주먹을 질러 넣는다.,891;치고마;892;우라오스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089201.png
+ 우라오스,격투;물,1.9,권법,b,105,보이지않는주먹,때로는 격렬하고 때로는 잔잔한 강물의 흐름에서 격투 기술의 태세를 고안해냈다고 전해진다.,891;치고마;892;우라오스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089202.png
+ 우라오스,격투;악,29,권법,b,1.00E+09,보이지않는주먹,분노의 화신이라 불린다. 무시무시한 형상과 우렁찬 소리로 세상의 악한 기운을 물리친다고 한다.,891;치고마;892;우라오스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089203.png
+ 우라오스,격투;물,26,권법,b,1.00E+09,보이지않는주먹,외발로 선 채로 꿈쩍하지 않고 거다이맥스 파워를 폭발시킬 때를 가만히 기다리고 있다.,891;치고마;892;우라오스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089204.png
+ 자루도,악;풀,1.8,나쁜원숭이,u,70,리프가드,무리 지어 밀림에 산다. 매우 공격적이라 숲에 사는 포켓몬들에게는 두려움의 대상이다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089301.png
+ 스트린더,전기;독,24,펑크,b,1.00E+09,펑크록;마이너스,남아도는 전력이 무기다. 비축된 전기의 양은 번개 구름을 능가할 정도다.,848;일레즌;849;스트린더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/084904.png
+ 레지에레키,전기,1.2,일렉트론,u,145,트랜지스터,전기 에너지 덩어리다. 몸에 있는 링을 해제하면 숨겨진 힘이 해방된다고 한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089401.png
+ 레지드래고,드래곤,2.1,용옥,u,200,용의턱,팔의 형태가 고대 드래곤포켓몬의 머리라는 학설도 있지만 증명된 바는 없다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089501.png
+ 블리자포스,얼음,2.2,사나운말,u,800,백의울음,발굽에서 강력한 냉기를 발산한다. 원하는 것은 무엇이든 힘으로 빼앗는 폭군.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089601.png
+ 레이스포스,고스트,2,빠른말,u,44.5,흑의울음,시각 이외의 오감을 사용해서 동태를 살핀다. 발에 차인 자는 영혼이 빠져나가 버린다고 한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089701.png
+ 버드렉스,에스퍼;풀,1.1,킹,u,7.7,긴장감,치유와 은총의 힘을 가진 자애로운 포켓몬. 먼 옛날 가라르에 군림했었다.,898;버드렉스;898;버드렉스;898;버드렉스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089801.png
+ 버드렉스,에스퍼;얼음,2.4,엠페러,u,809.1,혼연일체,길을 가로막는 자에게는 자비가 없지만 싸운 뒤에는 적의 상처라도 개의치 않고 치료해준다고 한다.,898;버드렉스;898;버드렉스;898;버드렉스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089802.png
+ 버드렉스,에스퍼;고스트,2.4,엠페러,u,53.6,혼연일체,황무지를 초록으로 물들이기 위해 유대로 맺어진 포켓몬과 가라르를 뛰어다녔다고 한다.,898;버드렉스;898;버드렉스;898;버드렉스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089803.png
+ 신비록,노말;에스퍼,1.8,큰뿔,b,95.1,위협;통찰,눈에 보이지 않는 벽을 만들어 낼 때 검은 구슬이 신비하게 빛난다. 떨어진 수염은 따뜻해서 겨울옷의 귀중한 재료가 된다.,234;노라키;899;신비록,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089901.png
+ 사마자르,벌레;바위,1.8,큰도끼,b,89,벌레의알림;우격다짐,단단한 바위로 몸을 보호하고 투박한 도끼로 거목을 베어 넘긴다. 성질이 사납기 때문에 황무지에서 만난다면 도망치는 수밖에 없다.,123;스라크;212;핫삼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090001.png
+ 다투곰,땅;노말,2.4,이탄,b,290,근성;방탄,"히스이 땅에 펼쳐진 습지의 토양 덕분에 튼튼한 몸과 함께, 이탄을 자유롭게 다루는 새로운 재주를 익히게 된 것으로 추측된다.",216;깜지곰;217;링곰;901;다투곰,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090101.png
+ 대쓰여너,물;고스트,3,큰물고기,m,110,쓱쓱;적응력,물길을 거슬러 오르는 여정에서 뜻을 이루지 못하고 죽은 동료들의 혼을 두르고 있다. 히스이에 흐르는 하천에서는 대적할 자가 없다.,550;배쓰나이 ;902;대쓰여너,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090201.png
+ 대쓰여너,물;고스트,3,큰물고기,f,110,쓱쓱;적응력,물길을 거슬러 오르는 여정에서 뜻을 이루지 못하고 죽은 동료들의 혼을 두르고 있다. 히스이에 흐르는 하천에서는 대적할 자가 없다.,550;배쓰나이 ;902;대쓰여너,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090202.png
+ 포푸니크,격투;독,1.3,클라이밍,b,43,프레셔;곡예,다른 종을 압도하는 신체 능력과 맹독을 가지고 있어 한랭한 고지대에서는 맞수가 없다. 무리를 이루지 않고 고독함을 즐긴다.,215;포푸니;903;포푸니크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090301.png
+ 장침바루,악;독,2.5,침봉,b,60.5,독가시;쓱쓱,"창과 같은 침과 흉포한 성질 때문에 ""바다 도깨비""라는 이명이 있는 포켓몬. 독을 마셔서 자신의 양식으로 삼는다.",211;침바루;904;장침바루,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090401.png
+ 러브로스,페어리;비행,1.6,애증,f,48,헤롱헤롱바디,바다를 건너 날아와 혹독한 겨울의 끝을 알린다. 자애로움이 히스이 땅에 새로운 생명을 싹틔우게 했다는 전승이 있다.,905;러브로스;905;러브로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090501.png
+ 러브로스,페어리;비행,1.6,애증,f,48,방진,여인의 형상에서 변한 모습. 목숨을 함부로 여기는 자가 있으면 운해로부터 나타나서 자비 없는 분노의 벌을 내린다.,905;러브로스;905;러브로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090502.png
+ 프리져,에스퍼;비행,1.7,냉혹,u,50.9,승기,사이코 파워로 만들어진 깃털 형태의 칼날은 두꺼운 철판도 종잇장처럼 베어버린다.,144;프리져;144;프리져,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014402.png
+ 썬더,격투;비행,1.6,건각,u,58.2,오기,깃털이 마찰할 때 파직파직하는 전기가 튀는 듯한 소리가 나서 썬더라고 불렸다.,145;썬더;145;썬더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014502.png
+ 파이어,악;비행,2,사악,u,66,발끈,열화와 같은 사악한 오라에 닿으면 기진맥진하게 되고 이윽고 새하얗게 타버린다고 한다.,146;파이어;146;파이어,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/014602.png
+ 야도킹,독;에스퍼,1.8,술사,b,79.5,기묘한약;마이페이스,진화의 충격과 독소에 의해 셀러의 지능이 크게 높아져서 야도킹을 조종하게 되었다.,79;야돈;80;야도란,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019902.png
+ 켄타로스,격투,1.4,성난소,m,115,위협;분노의경혈,체격이 우람하고 육탄전이 특기다. 짧은 뿔로 급소를 노린다.,128;켄타로스;128;켄타로스;128;켄타로스;No. 0128;켄타로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012802.png
+ 켄타로스,격투;불꽃,1.4,성난소,m,85,위협;분노의경혈,"불꽃 에너지로 가열된 뿔은 섭씨 1000도에 달하며, 뿔에 찔린 상대는 상처와 화상에 고통받게 된다.",128;켄타로스;128;켄타로스;128;켄타로스;No. 0128;켄타로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012803.png
+ 켄타로스,격투;물,1.4,성난소,m,110,위협;분노의경혈,뿔 끝에 난 구멍을 통해 물을 강하게 분출하여 고압의 물줄기로 상대를 관통한다.,128;켄타로스;128;켄타로스;128;켄타로스;No. 0128;켄타로스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/012804.png
+ 우파,독;땅,0.4,독물고기,b,11,독가시;저수,영역 다툼에서 밀려 육지에 살게 되면서 독성을 띠는 점막으로 몸을 보호하도록 변화했다.,194;우파;980;토오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/019402.png
+ 나오하,풀,0.4,풀고양이,b,4.1,심록,복슬복슬한 털은 식물에 가까운 성분으로 이루어져 있다. 수시로 세수를 하면서 건조해지는 것을 방지한다.,906;나오하;907;나로테;908;마스카나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090601.png
+ 나로테,풀,0.9,풀고양이,b,12.2,심록,긴 털 아래 숨긴 덩굴을 능숙하게 다뤄서 단단한 꽃봉오리로 상대를 가격한다.,906;나오하;907;나로테;908;마스카나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090701.png
+ 마스카나,풀;악,1.5,매지션,b,31.2,심록,꽃이 떠 있는 것처럼 보이는 것은 망토 뒷면의 털이 빛을 반사해서 줄기를 보이지 않게 하기 때문이다.,906;나오하;907;나로테;908;마스카나,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090801.png
+ 뜨아거,불꽃,0.4,불꽃악어,b,9.8,맹화,따뜻한 바위 위에 드러누워서 네모난 비늘을 통해 흡수한 열로 불꽃 에너지를 만든다.,909;뜨아거;910;악뜨거;911;라우드본,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/090901.png
+ 악뜨거,불꽃,1,불꽃악어,b,30.7,맹화,불꽃 에너지와 남아도는 생명력이 섞여서 머리 위에 알 모양의 불덩이가 생겨났다.,909;뜨아거;910;악뜨거;911;라우드본,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/091001.png
+ 라우드본,불꽃;고스트,1.6,싱어,b,326.5,맹화,노랫소리에 따라 모습이 바뀌는 불새는 머리 위에 있던 불덩이에 영혼이 깃든 것이라고 한다.,909;뜨아거;910;악뜨거;911;라우드본,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/091101.png
+ 꾸왁스,물,0.5,꼬마오리,b,6.1,급류,옛날에 머나먼 땅에서 찾아와 정착했다. 날개에서 분비되는 젤은 물과 먼지를 튕겨 낸다.,912;꾸왁스;913;아꾸왁;914;웨이니발,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/091201.png
+ 아꾸왁,물,1.2,레슨,b,21.5,급류,"열심히 얕은 여울을 달리며 하반신을 단련하고, 동료들끼리 발 기술의 화려함을 겨룬다.",912;꾸왁스;913;아꾸왁;914;웨이니발,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/091301.png
+ 웨이니발,물;격투,1.8,댄서,b,61.9,급류,발차기 한 번에 트럭을 굴려 버릴 정도로 강한 다릿심을 활용하여 이국적인 춤을 선보인다.,912;꾸왁스;913;아꾸왁;914;웨이니발,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/091401.png
+ 맛보돈,노말,0.5,돼지,b,10.2,아로마베일;먹보,하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.,915;맛보돈;916;퍼퓨돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/091501.png
+ 퍼퓨돈,노말,1,돼지,m,120,가시지않는향기;먹보,곱고 윤기가 흐르는 피부를 자랑한다. 꼬리 끝에서 응축된 향기를 내보낸다.,915;맛보돈;916;퍼퓨돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/091601.png
+ 퍼퓨돈,노말,1,돼지,f,120,아로마베일;먹보,꽃향기 같은 향기를 흩뿌린다. 근육이 발달한 다리는 5m도 가볍게 뛰어넘을 수 있다.,915;맛보돈;916;퍼퓨돈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/091602.png
+ 타랜툴라,벌레,0.3,실타래,b,4,불면,몸을 감싸고 있는 실타래는 천적인 스라크의 낫을 튕겨 낼 정도의 탄력을 자랑한다.,917;타랜툴라;918;트래피더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/091701.png
+ 트래피더,벌레,1,트랩,b,16.5,불면,나뭇가지나 천장에 실로 달라붙어 소리 없이 행동한다. 먹잇감에게 들키기 전에 쓰러뜨린다.,917;타랜툴라;918;트래피더,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/091801.png
+ 콩알뚜기,벌레,0.2,메뚜기,b,1,벌레의알림,제3의 다리가 접혀 있다. 위기에 처하면 10m 이상을 점프하는 다릿심을 가지고 있다.,919;콩알뚜기;920;엑스레그,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/091901.png
+ 엑스레그,벌레;악,1,메뚜기,b,17.5,벌레의알림,진심을 다하게 되면 접었던 다리로 일어나 결전 모드로 변하여 단시간에 적을 제압한다.,919;콩알뚜기;920;엑스레그,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/092001.png
+ 빠모,전기,0.3,쥐,b,2.5,정전기;자연회복,볼의 전기 주머니가 아직 발달하지 않았다. 앞발의 볼록살을 열심히 비벼야 겨우 전기가 만들어진다.,921;빠모;922;빠모트;923;빠르모트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/092101.png
+ 빠모트,전기;격투,0.4,쥐,b,6.5,축전;자연회복,무리가 공격을 받으면 전격을 날리는 격투기로 먼저 싸움을 걸고 적을 쓰러뜨린다.,921;빠모;922;빠모트;923;빠르모트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/092201.png
+ 빠르모트,전기;격투,0.9,손길,b,41,축전;자연회복,평소에는 느긋하지만 싸움이 시작되면 전광석화와도 같은 몸놀림으로 적을 때려눕힌다.,921;빠모;922;빠모트;923;빠르모트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/092301.png
+ 두리쥐,노말,0.3,커플,u,1.8,도주;픽업,호흡이 척척 맞는 콤비네이션으로 집의 재료가 될 만한 것을 앞니로 잘라 내어 가지고 간다.,924;두리쥐;925;파밀리쥐,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/092401.png
+ 파밀리쥐,노말,0.3,패밀리,u,2.3,프렌드가드;볼주머니,"잠을 자는 곳이나 먹이를 먹는 곳 등, 용도에 따라 나눈 여러 개의 방으로 구성된 커다란 집을 만든다.",924;두리쥐;925;파밀리쥐,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/092501.png
+ 파밀리쥐,노말,0.3,패밀리,u,2.8,프렌드가드;볼주머니,어느새 아이가 2마리로 늘었다. 가족처럼 보이기도 하나 진상은 밝혀지지 않았다.,924;두리쥐;925;파밀리쥐,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/092502.png
+ 쫀도기,페어리,0.3,강아지,b,10.9,마이페이스,만지면 촉촉하고 매끈매끈하다. 숨결에 포함되어 있는 효모로 주위의 것들을 발효시킨다. ,926;쫀도기;927;바우첼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/092601.png
+ 바우첼,페어리,0.5,개,b,14.9,노릇노릇바디,몸에서 나는 좋은 향기가 밀의 성장을 돕기 때문에 농촌에서 소중히 여겨진다.,926;쫀도기;927;바우첼,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/092701.png
+ 미니브,풀;노말,0.3,올리브,b,6.5,일찍기상,머리의 열매에서 오일을 나오게 해서 적으로부터 몸을 지킨다. 오일은 펄쩍 뛸 만큼 떫고 쓰다.,928;미니브;929;올리뇨;930;올리르바,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/092801.png
+ 올리뇨,풀;노말,0.6,올리브,b,11.9,일찍기상,신선한 향기가 나는 맛있는 오일을 나눠 준다. 오래전부터 인간과 공존해 왔다.,928;미니브;929;올리뇨;930;올리르바,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/092901.png
+ 올리르바,풀;노말,1.4,올리브,b,48.2,넘치는씨,온화하면서도 매우 자비롭다. 영양이 풍부한 맛있는 오일을 약해진 포켓몬에게 나눠 준다.,928;미니브;929;올리뇨;930;올리르바,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093001.png
+ 시비꼬,노말;비행,0.6,잉꼬,b,2.4,위협;의욕,마을에서 사는 것을 선호한다. 깃털 색에 따라 그룹을 만들고는 영역 다툼을 벌인다.,931;시비꼬;931;시비꼬;931;시비꼬;No. 0931;시비꼬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093101.png
+ 시비꼬,노말;비행,0.6,잉꼬,b,2.4,위협;의욕,큰 그룹은 50마리가 넘는다. 먹이를 찾아 마을이나 숲을 시끄럽게 날아다닌다.,931;시비꼬;931;시비꼬;931;시비꼬;No. 0931;시비꼬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093102.png
+ 시비꼬,노말;비행,0.6,잉꼬,b,2.4,위협;의욕,성질이 사납고 싸우는 방식도 매우 거칠다. 상대의 품으로 파고들어 육탄전을 벌인다.,931;시비꼬;931;시비꼬;931;시비꼬;No. 0931;시비꼬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093103.png
+ 시비꼬,노말;비행,0.6,잉꼬,b,2.4,위협;의욕,단독 행동은 서툴다. 연대감이 강한 동료끼리 서로 도우며 살아가고 있다.,931;시비꼬;931;시비꼬;931;시비꼬;No. 0931;시비꼬,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093104.png
+ 베베솔트,바위,0.4,암염,b,16,정화의소금;옹골참,땅속의 암염층에서 태어났다. 귀한 소금을 나눠 주기 때문에 옛날에는 특히 더 귀하게 여겨졌다.,932;베베솔트;933;스태솔트;934;콜로솔트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093201.png
+ 스태솔트,바위,0.6,암염,b,105,정화의소금;옹골참,분출한 소금을 먹이에게 끼얹어서 소금절이로 만들어 버린다. 체내의 수분을 빼앗는 것이다.,932;베베솔트;933;스태솔트;934;콜로솔트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093301.png
+ 콜로솔트,바위,2.3,암염,b,240,정화의소금;옹골참,손끝을 문질러서 나온 소금을 다친 포켓몬에게 뿌리면 심한 상처도 금방 낫는다.,932;베베솔트;933;스태솔트;934;콜로솔트,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093401.png
+ 카르본,불꽃,0.6,불의아이,b,10.5,타오르는불꽃,불탄 숯에 영혼이 깃들어서 포켓몬이 되었다. 타오르는 투지로 강한 상대에게도 싸움을 건다.,935;카르본;936;카디나르마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093501.png
+ 카디나르마,불꽃;에스퍼,1.5,불의전사,b,85,타오르는불꽃,많은 무공을 세운 전사의 갑옷에 의해 진화한 모습. 충성심이 강한 포켓몬이다.,935;카르본;936;카디나르마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093601.png
+ 파라블레이즈,불꽃;고스트,1.6,불의검사,b,62,타오르는불꽃,양팔의 불꽃 검은 뜻을 다 이루지 못한 채 스러진 검사의 원념에 의해 타오르고 있다.,935;카르본;936;카디나르마,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093701.png
+ 빈나두,전기,0.3,전기올챙이,b,0.4,마이페이스;정전기,꼬리를 흔들어서 전기를 발생시킨다. 위험을 감지하면 머리를 깜빡여서 동료에게 알린다.,938;빈나두;939;찌리배리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093801.png
+ 찌리배리,전기,1.2,전기개구리,b,113,전기로바꾸기;정전기,말랑말랑한 몸을 늘였다 줄였다 하면 배에 달린 배꼽 발전기가 큰 전력을 발생시킨다.,938;빈나두;939;찌리배리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/093901.png
+ 찌리비,전기;비행,0.4,바다제비,b,3.6,풍력발전;축전,날개의 뼈는 바람을 받으면 전기를 만들어 낸다. 바다에 뛰어들어 먹이를 감전시켜서 잡는다.,940;찌리비;941;찌리비크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/094001.png
+ 찌리비크,전기;비행,1.4,군함조,b,38.6,풍력발전;축전,목의 주머니를 부풀려서 전기를 증폭시킨다. 바람을 타고 하루에 700km를 비행할 수 있다.,940;찌리비;941;찌리비크,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/094101.png
+ 오라티프,악,0.5,애송이,b,16,위협;도주,상대에게 얕보이지 않기 위해 항상 얼굴을 찌푸리고 있지만 우는 아이는 그 모습을 보고 웃게 된다.,942;오라티프;943;마피티프,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/094201.png
+ 마피티프,악,1.1,두목,b,61,위협;파수견,커다란 목 주머니에 에너지를 비축할 수 있다. 단숨에 이를 방출하여 적을 날려 버린다.,942;오라티프;943;마피티프,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/094301.png
+ 땃쭈르,독;노말,0.2,독쥐,b,0.7,곡예;나쁜손버릇,온화하지만 화가 나게 하면 독이 밴 날카로운 앞니로 물어서 상대를 마비시킨다.,944;땃쭈르;945;태깅구르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/094401.png
+ 태깅구르,독;노말,0.7,독원숭이,b,27.2,곡예;독수,먹이에 따라 색이 변하는 독성의 침을 손가락에 묻혀서 숲의 나무들에 무늬를 그린다.,944;땃쭈르;945;태깅구르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/094501.png
+ 그푸리,풀;고스트,0.6,회전초,b,0.6,바람타기,성불하지 못한 영혼이 바람에 날리다가 마른 풀과 엉키면서 포켓몬이 되었다.,946;그푸리;947;공푸리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/094601.png
+ 공푸리,풀;고스트,1.2,회전초,b,6,바람타기,머리의 가지를 열어서 먹이를 삼킨다. 생기를 실컷 흡수한 다음 그대로 뱉어 버린다.,946;그푸리;947;공푸리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/094701.png
+ 들눈해,땅;풀,0.9,목이버섯,b,33,균사의힘,축축한 숲속에 산다. 떨어져 나온 몸의 하늘하늘한 부분은 쫄깃쫄깃하고 아주 맛있다.,948;들눈해;949;육파리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/094801.png
+ 육파리,땅;풀,1.9,목이버섯,b,58,균사의힘,깊은 숲속에 집단으로 살며 군체를 형성한다. 외부인이 접근하는 것을 극도로 싫어한다.,948;들눈해;949;육파리,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/094901.png
+ 절벼게,바위,1.3,매복,b,79,분노의껍질;조가비갑옷,"거꾸로 매달린 채 절벽 위에서 먹이를 노리지만, 머리에 피가 몰리기 때문에 오랫동안은 버틸 수 없다고 한다.",NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/095001.png
+ 캡싸이,풀,0.3,하바네로,b,3,엽록소;불면,태양 빛을 쬐면 쬘수록 체내의 매운 성분이 늘어나서 기술이 점점 더 매워진다.,951;캡싸이;952;스코빌런,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/095101.png
+ 스코빌런,풀;불꽃,0.9,하바네로,b,15,엽록소;불면,레드 헤드가 매운 성분을 불꽃 에너지로 변환시켜 불같이 매운 화염방사를 사방에 흩뿌린다.,951;캡싸이;952;스코빌런,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/095201.png
+ 구르데,벌레,0.2,굴리기,b,1,복안,에스퍼 에너지를 섞어서 흙과 모래로 진흙구슬을 만든다. 진흙구슬을 목숨보다 소중히 여긴다.,953;구르데;954;베라카스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/095301.png
+ 베라카스,벌레;에스퍼,0.3,굴리기,b,3.5,싱크로,"구슬을 지탱하는 몸은 거의 움직이지 않기 때문에, 구슬 안에 본체가 있는 것으로 여겨지고 있다.",953;구르데;954;베라카스,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/095401.png
+ 하느라기,에스퍼,0.2,프릴,b,1.5,위험예지;통찰,"배의 하늘하늘한 부분에서 나오는 사이코 파워를 통해, 겨우 1cm지만 발끝이 지상에 떠 있다.",955;하느라기;956;클레스퍼트라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/095501.png
+ 클레스퍼트라,에스퍼,1.9,타조,b,90,편승;통찰,커다란 눈동자에서 사이코 파워를 발산하여 상대를 움직일 수 없게 한다. 겉보기와 다르게 성질이 사납다.,955;하느라기;956;클레스퍼트라,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/095601.png
+ 어리짱,페어리;강철,0.4,대장장이,f,8.9,틀깨기;마이페이스,손수 만든 해머를 휘둘러 몸을 지키려 하나 금속을 먹는 포켓몬에게 자주 빼앗기고 만다.,957;어리짱;958;벼리짱;959;두드리짱,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/095701.png
+ 벼리짱,페어리;강철,0.7,해머,f,59.1,틀깨기;마이페이스,크고 튼튼한 해머를 만들기 위해 절각참 무리를 습격해서 금속을 모은다.,957;어리짱;958;벼리짱;959;두드리짱,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/095801.png
+ 두드리짱,페어리;강철,0.7,해머,f,112.8,틀깨기;마이페이스,지능이 높고 매우 호쾌하다. 해머로 바위를 날려서 하늘을 나는 아머까오를 노린다.,957;어리짱;958;벼리짱;959;두드리짱,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/095901.png
+ 바다그다,물,1.2,정원장어,b,1.8,미끈미끈;주눅,20m 떨어진 가비루사에게서 나는 냄새도 맡을 수 있어서 모래 속에 몸을 숨긴다.,960;바다그다;961;바닥트리오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/096001.png
+ 바닥트리오,물,1.2,정원장어,b,5.4,미끈미끈;주눅,겉보기와 다르게 성질이 사납다. 기다란 몸으로 먹잇감을 죄어서 굴 안으로 끌고 들어간다.,960;바다그다;961;바닥트리오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/096101.png
+ 떨구새,비행;악,1.5,낙하물,b,42.9,부풀린가슴;날카로운눈,가슴의 깃털과 떨어진 깃털로 만든 주머니에 물건을 넣고는 높은 곳에서 떨어뜨리며 논다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/096201.png
+ 맨돌핀,물,1.3,돌고래,b,60.2,수의베일,꼬리지느러미에 있는 물의 고리를 가지고 동료와 노는 것을 좋아한다. 초음파로 생명체의 기분을 감지한다.,963;맨돌핀;964;돌핀맨,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/096301.png
+ 돌핀맨,물,1.3,돌고래,b,60.2,마이티체인지,도움을 구하는 동료의 소리를 들으면 모습을 바꾼다. 그 순간은 누구에게도 보여 주지 않는다.,963;맨돌핀;964;돌핀맨,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/096401.png
+ 돌핀맨,물,1.8,히어로,b,97.4,마이티체인지,태고의 유전자가 각성했다. 한쪽 지느러미로 크루즈선도 가볍게 들어 올리는 괴력의 소유자.,963;맨돌핀;964;돌핀맨,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/096402.png
+ 부르롱,강철;독,1,단기통,b,35,방진,고철 처리장에 방치된 엔진에 정체불명의 독포켓몬이 들어가 탄생한 것으로 전해지고 있다.,965;부르롱;966;부르르룸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/096501.png
+ 부르르룸,강철;독,1.8,다기통,b,120,방진,독소와 바위 성분이 섞인 가스를 8개로 늘어난 실린더에서 폭발시켜 에너지를 만들어 낸다.,965;부르롱;966;부르르룸,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/096601.png
+ 모토마,드래곤;노말,1.6,라이드,b,63,탈피,먼 옛날부터 인간을 등에 태우고 다녔다고 한다. 1만 년 전 벽화에도 그 모습이 그려져 있다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/096701.png
+ 꿈트렁,강철,2.5,지렁이,b,310,흙먹기,적에게 공격을 받으면 털을 주먹처럼 사용하여 폭풍 같은 기세로 펀치를 날린다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/096801.png
+ 초롱순,바위;독,0.7,광석,b,8,독치장,동굴의 벽에서 영양분을 흡수한다. 독의 결정으로 만들어진 꽃잎을 몸에 두르고 있다.,969;초롱순;970;킬라플로르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/096901.png
+ 킬라플로르,바위;독,1.5,광석,b,45,독치장,위험을 감지하면 결정으로 된 꽃잎을 펼친 뒤 원뿔 모양의 몸에서 빔을 발사한다.,969;초롱순;970;킬라플로르,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097001.png
+ 망망이,고스트,0.6,유령개,b,35,픽업,사람과의 접점 없이 숨을 거둔 들개포켓몬이 환생한 것으로 여겨지고 있다.,971;망망이;972;묘두기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097101.png
+ 묘두기,고스트,2,유령개,b,15,모래헤치기,평소에는 묘지에서 자고 있다. 수많은 개포켓몬 중에서도 가장 주인에게 충직하다.,971;망망이;972;묘두기,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097201.png
+ 꼬이밍고,비행;격투,1.6,싱크로,b,37,배짱;갈지자걸음,배에 비축해 둔 에너지가 부리를 통해 새어 나오지 않게 하기 위해 목 아래쪽을 꼬아 놓은 듯하다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097301.png
+ 터벅고래,얼음,1.2,육지고래,b,45,두꺼운지방;눈숨기,먼 옛날에 바다에서 올라와 육지에 살게 되었다. 고래왕자의 근연종이라고 한다.,974;터벅고래;975;우락고래,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097401.png
+ 우락고래,얼음,4.5,육지고래,b,700,두꺼운지방;눈치우기,빙설 지대를 떼 지어 다닌다. 강인한 근육과 두꺼운 피하지방으로 몸을 보호한다.,974;터벅고래;975;우락고래,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097501.png
+ 가비루사,물;에스퍼,2.5,분리,b,90,틀깨기,불필요한 살을 분리하면 정신이 예민해져 사이코 파워가 상승한다. 떨어진 살은 담백하고 맛있다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097601.png
+ 어써러셔,물,12,큰메기,b,220,천진;둔감,대식가지만 먹이를 잡는 것이 서툴다. 싸리용과 콤비를 이뤄 먹이를 사냥한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097701.png
+ 싸리용,드래곤;물,0.3,의태,b,8,사령탑,작은 몸집의 드래곤포켓몬. 어써러셔의 입안에 살며 외부의 적으로부터 몸을 지킨다.,978;싸리용;978;싸리용;978;싸리용,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097801.png
+ 싸리용,드래곤;물,0.3,의태,b,8,사령탑,몸의 색과 무늬가 다른 것은 유인하려는 먹이의 취향에 맞춰 변화한 결과라는 듯하다.,978;싸리용;978;싸리용;978;싸리용,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097802.png
+ 싸리용,드래곤;물,0.3,의태,b,8,사령탑,새포켓몬이 주된 먹이다. 자신이 약한 것을 알기 때문에 동료와 콤비를 이뤄 사냥을 한다.,978;싸리용;978;싸리용;978;싸리용,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097803.png
+ 저승갓숭,격투;고스트,1.2,분노숭이,b,56,의기양양;정신력,분노의 볼티지가 임계점을 돌파하면서 육체라는 틀에 얽매이지 않는 파워를 손에 넣게 되었다.,56;망키;57;성원숭;979;저승갓숭,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/097901.png
+ 토오,독;땅,1.8,가시물고기,b,223,독가시;저수,적에게 공격을 받으면 몸에서 굵은 가시를 내지르며 반격한다. 몸이 끊어질 각오가 필요한 위험한 기술이다.,194;우파;980;토오,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/098001.png
+ 키키링,노말;에스퍼,3.2,긴목,b,160,되새김질;테일아머,머리와 꼬리 2개의 뇌파가 동기화하여 에스퍼 파워가 키링키의 10배로 강화되었다.,203;키링키;981;키키링,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/098101.png
+ 노고고치,노말,3.6,땅뱀,b,39.2,하늘의은총;도주,단단한 꼬리로 땅속 깊은 곳에 있는 암반을 뚫어서 보금자리를 만든다. 굴의 깊이는 무려 10km에 이른다.,206;노고치;982;노고고치,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/098201.png
+ 노고고치,노말,4.5,땅뱀,b,47.4,하늘의은총;도주,굴 안을 헤매는 포켓몬을 등에 태우고 입구까지 데려다주는 온화한 성질을 지녔다.,206;노고치;982;노고고치,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/098202.png
+ 대도각참,악;강철,2,대도,b,120,오기;총대장,큰 군세의 정점에 올라선 단 한 마리의 절각참만이 대도각참으로 진화할 수 있다.,624;자망칼;625;절각참;983;대도각참,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/098301.png
+ 위대한엄니,땅;격투,2.2,패러독스,u,320,고대활성,"근년에 목격된 사례가 있다. ""위대한엄니""라는 이름은 어떤 책에 기록된 생물에게서 따온 것이다.",NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/098401.png
+ 우렁찬꼬리,페어리;에스퍼,1.2,패러독스,u,8,고대활성,목격된 사례는 과거에 단 1건뿐이다. 오래된 탐험기에 기록된 정체불명의 생물을 닮은 포켓몬.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/098501.png
+ 사나운버섯,풀;악,1.2,패러독스,u,21,고대활성,"어떤 책에 ""사나운버섯""이라는 이름으로 기록된 생물이 이 포켓몬일 가능성이 있다.",NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/098601.png
+ 날개치는머리,고스트;페어리,1.4,패러독스,u,4,고대활성,"어떤 서적에 등장하는 ""날개치는머리""라는 생물과 비슷한 특징을 가진 포켓몬.",NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/098701.png
+ 땅을기는날개,벌레;격투,3.2,패러독스,u,92,고대활성,"오래된 책에 ""땅을기는날개""라는 이름으로 소개된 생물과 닮은 점이 있는 정체불명의 포켓몬.",NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/098801.png
+ 모래털가죽,전기;땅,2.3,패러독스,u,60,고대활성,포획된 사례는 없으며 데이터도 부족하다. 어느 탐험기에 기록된 생물과 특징이 일치한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/098901.png
+ 무쇠바퀴,땅;강철,0.9,패러독스,u,240,쿼크차지,오컬트 잡지에서 소개된 적 있는 우주인이 보낸 과학 병기와 많이 닮았다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/099001.png
+ 무쇠보따리,얼음;물,0.6,패러독스,u,11,쿼크차지,오컬트 잡지의 기사에 실렸던 태곳적 문명이 만들어 냈다는 로봇과 모습이 닮았다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/099101.png
+ 무쇠손,격투;전기,1.8,패러독스,u,380.7,쿼크차지,어떤 운동선수를 개조한 모습이라며 오컬트 잡지에서 대서특필했던 사이보그와 닮았다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/099201.png
+ 무쇠머리,악;비행,1.3,패러독스,u,111,쿼크차지,로봇과 사랑에 빠진 삼삼드래의 자식이라며 오컬트 잡지에서 다뤘던 포켓몬을 닮았다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/099301.png
+ 무쇠독나방,불꽃;독,1.2,패러독스,u,36,쿼크차지,인류를 감시하기 위한 UFO라며 오컬트 잡지에서 소개된 적 있는 미지의 물체와 닮았다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/099401.png
+ 무쇠가시,바위;전기,1.6,패러독스,u,303,쿼크차지,10억 년 후의 마기라스라며 괴상한 잡지에서 다뤘던 포켓몬과 닮은 점이 있다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/099501.png
+ 드니차,드래곤;얼음,0.5,얼음지느러미,b,17,열교환,등지느러미로 열을 흡수해서 얼음 에너지로 변환한다. 고온일수록 에너지가 많이 모인다.,996;드니차;997;드니꽁;998;드닐레이브,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/099601.png
+ 드니꽁,드래곤;얼음,0.8,얼음지느러미,b,30,열교환,주변의 공기를 얼려서 얼음 마스크로 얼굴을 보호하고 등지느러미를 얼음 검으로 바꾼다.,996;드니차;997;드니꽁;998;드닐레이브,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/099701.png
+ 드닐레이브,드래곤;얼음,2.1,빙룡,b,210,열교환,극저온의 냉기를 입에서 분사한다. 작열하는 마그마조차도 순식간에 얼려 버린다.,996;드니차;997;드니꽁;998;드닐레이브,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/099801.png
+ 모으령,고스트,0.3,보물상자,u,5,주눅,약 1500년 전의 보물 상자 안에서 태어났다. 보물을 훔치려 드는 괘씸한 자의 생기를 흡수한다.,999;모으령;1000;타부자고,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/099901.png
+ 타부자고,강철;고스트,1.2,보물생명체,u,30,황금몸,몸은 1000개의 코인으로 이뤄져 있다고 한다. 붙임성이 좋아서 누구와도 금방 친해진다.,999;모으령;1000;타부자고,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/100001.png
+ 총지엔,악;풀,1.5,재액,u,74.2,재앙의목간,왕의 악행을 목간에 기록했다는 이유로 처벌을 받은 사람의 원한이 마른 잎을 두르고 포켓몬이 되었다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/100101.png
+ 파오젠,악;얼음,1.9,재액,u,152.2,재앙의검,100t의 눈을 조종한다. 눈사태를 일으키고는 그 안을 드나들며 천진난만하게 논다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/100201.png
+ 딩루,악;땅,2.7,재액,u,699.7,재앙의그릇,옛날 의식에 사용되었던 그릇에 공포가 깃들게 되었고 이것이 흙과 돌을 둘러 포켓몬이 되었다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/100301.png
+ 위유이,악;불꽃,0.4,재액,u,4.9,재앙의구슬,3000도의 불꽃을 조종한다. 바위와 자갈을 녹여서 만든 마그마의 바다를 유유히 헤엄친다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/100401.png
+ 고동치는달,드래곤;악,2,패러독스,u,380,고대활성,"수수께끼로 가득한 탐험기에 ""고동치는달""이라는 이름으로 기록된 생물일 가능성이 있다.",NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/100501.png
+ 무쇠무인,페어리;격투,1.4,패러독스,u,35,쿼크차지,오컬트 잡지의 기사에 실렸던 매드 사이언티스트의 발명품과 비슷한 특징이 몇 가지 존재한다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/100601.png
+ 코라이돈,격투;드래곤,2.5,패러독스,u,303,진홍빛고동,"주먹으로 대지를 갈랐다고 오래된 탐험기에 기록된 ""날개의왕""의 정체인 듯하다.",NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/100701.png
+ 미라이돈,전기;드래곤,3.5,패러독스,u,240,하드론엔진,자세한 것은 잘 알려지지 않았다. 모토마를 닮았지만 그보다 훨씬 강하고 냉혹하다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/100801.png
+ 모으령,고스트,0.1,보물찾기,u,0.1,도주,코인에 깃든 정념으로 인해 태어났다. 원래 있던 보물 상자로 돌아가기 위해 떠돌고 있다고 한다.,999;모으령;1000;타부자고,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/099902.png
+ 멜메탈,강철,25,너트,u,1.00E+09,철주먹,먼 지방의 신화에 남아 있는 외눈 거인은 멜메탈이 거다이맥스한 모습이었다.,808;멜탄;809;멜메탈,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/080902.png
+ 굽이치는물결,물;드래곤,3.5,패러독스,u,280,고대활성,현재 생태 조사 중입니다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/100901.png
+ 무쇠잎새,풀;에스퍼,1.5,패러독스,u,125,쿼크차지,현재 생태 분석 중입니다.,NA,https://data1.pokemonkorea.co.kr/newdata/pokedex/full/101001.png
